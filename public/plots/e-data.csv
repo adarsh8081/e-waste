@@ -1,0 +1,1000 @@
+﻿ID,Country,Year,State/Region,City,Type of E-Waste,Brand Name,Model Name,Device Age (Years),Condition,Material Type,Weight (kg),Hazardous Components,Collection Method,Recycling Facility,Recycling Status,Recycling Method,Reused or Refurbished?,Environmental Impact Score,CO2 Emission (kg)
+EW_00001,India,2024,Maharashtra,Delhi,Television,Samsung,Samsung 3646,3,Working,Mixed,11.49,Cadmium,Pick-up service,GreenTech Recycle,Disposed,Chemical,Yes,Medium,45.96
+EW_00002,China,2020,Zhejiang,Shenzhen,E-reader,Panasonic,Panasonic 6931,3,Obsolete,Glass,0.38,Mercury,Pick-up service,Green Earth Recycling,Recycled,Mechanical,Yes,Low,0.84
+EW_00003,Brazil,2024,ParanÃ¡,Belo Horizonte,Smart Door Sensor,Amazon,Amazon 7616,4,Repairable,Mixed,0.19,Mercury,Municipal collection,EcoTech Recycling,In Progress,Hydrometallurgical,Yes,Low,0.38
+EW_00004,Japan,2021,Fukuoka,Yokohama,GPS Device,MSI,MSI 7794,7,Damaged,Ceramic,0.41,None,Pick-up service,EcoRecyclers Inc.,Recycled,Thermal,Yes,Medium,1.23
+EW_00005,India,2021,Karnataka,Mumbai,Smart Oven,Acer,Acer 4326,3,Non-working,Glass,37.09,Brominated Flame Retardants,Pick-up service,Global Recycling Solutions,In Progress,Chemical,No,Medium,89.02
+EW_00006,India,2022,Maharashtra,Kolkata,Scanner,Toshiba,Toshiba 9897,5,Damaged,Rubber,2.23,Lead,Drop-off center,Global Recycling Solutions,Pending,Pyrometallurgical,Yes,Medium,6.69
+EW_00007,Australia,2024,Victoria,Melbourne,Desktop Computer,Razer,Razer 3093,6,Working,Ceramic,6.73,Lead,Drop-off center,Global Recycling Solutions,In Progress,Pyrometallurgical,No,Medium,26.92
+EW_00008,Australia,2023,Victoria,Sydney,GPS Device,Motorola,Motorola 7359,5,Non-working,Ceramic,0.48,Cadmium,Pick-up service,Sustainable Materials Recovery,Disposed,Hydrometallurgical,Yes,Low,1.15
+EW_00009,Australia,2020,Victoria,Melbourne,USB Drive,Dell,Dell 4896,9,Non-working,Metal,0.09,Cadmium,Retail take-back,Sustainable Electronics,In Progress,Pyrometallurgical,No,Low,0.22
+EW_00010,Canada,2023,Manitoba,Toronto,Smart Light Bulb,Fujitsu,Fujitsu 6738,6,Working,Plastic,0.11,Cadmium,Retail take-back,Sustainable Materials Recovery,Disposed,Thermal,No,Low,0.22
+EW_00011,UK,2021,London,London,Desktop Computer,Apple,Apple 3252,7,Non-working,Glass,6.42,Brominated Flame Retardants,Municipal collection,GreenTech Recycle,Disposed,Pyrometallurgical,No,High,30.82
+EW_00012,China,2020,Shanghai,Guangzhou,Smart Scale,Gateway,Gateway 4312,9,Repairable,Plastic,0.47,Brominated Flame Retardants,Municipal collection,GreenTech Recycle,In Progress,Hydrometallurgical,Yes,Low,0.94
+EW_00013,Australia,2023,Western Australia,Brisbane,CD/DVD Player,Sony,Sony 3776,9,Obsolete,Rubber,1.87,Mercury,Drop-off center,EcoTech Recycling,Disposed,Mechanical,Yes,Low,4.11
+EW_00014,Canada,2022,British Columbia,Montreal,Smart Garage Door Opener,BlackBerry,BlackBerry 2459,7,Obsolete,Glass,0.7,Brominated Flame Retardants,Drop-off center,EcoTech Recycling,Disposed,Chemical,No,Low,1.54
+EW_00015,Australia,2021,New South Wales,Melbourne,Projector,MSI,MSI 7562,2,Damaged,Plastic,3.85,Mercury,Municipal collection,Sustainable Waste Management,Disposed,Mechanical,Yes,Medium,11.55
+EW_00016,Germany,2020,Hesse,Frankfurt,Tablet,Motorola,Motorola 4727,4,Non-working,Plastic,0.66,Brominated Flame Retardants,Municipal collection,Sustainable Materials Recovery,Disposed,Hydrometallurgical,Yes,Medium,2.38
+EW_00017,Germany,2022,Hamburg,Cologne,E-reader,Vivo,Vivo 5528,10,Damaged,Plastic,0.4,Brominated Flame Retardants,Pick-up service,Global Recycling Solutions,Disposed,Mechanical,No,Medium,1.2
+EW_00018,Japan,2024,Tokyo,Osaka,Smartwatch,Nokia,Nokia 9139,9,Repairable,Mixed,0.11,None,Retail take-back,GreenTech Recycle,Disposed,Thermal,Yes,Low,0.22
+EW_00019,Brazil,2022,Minas Gerais,Rio de Janeiro,Smart Sprinkler Controller,MSI,MSI 5406,4,Non-working,Ceramic,0.44,Lead,Retail take-back,Eco-Friendly Disposal,Pending,Pyrometallurgical,No,Low,1.06
+EW_00020,Japan,2023,Fukuoka,Osaka,Camera,Apple,Apple 4422,2,Obsolete,Ceramic,1.07,Lead,Pick-up service,Global Recycling Solutions,Disposed,Hydrometallurgical,Yes,Low,2.35
+EW_00021,Australia,2024,New South Wales,Sydney,Game Console,Motorola,Motorola 9611,1,Working,Metal,1.31,Lead,Drop-off center,Sustainable Materials Recovery,Recycled,Hydrometallurgical,No,Low,2.62
+EW_00022,Australia,2021,Victoria,Melbourne,Smart Oven,HTC,HTC 1790,10,Working,Glass,22.08,None,Drop-off center,GreenTech Recycle,Recycled,Mechanical,Yes,Low,44.16
+EW_00023,USA,2024,New York,Los Angeles,Router,Nokia,Nokia 9112,1,Damaged,Metal,0.32,None,Retail take-back,Eco-Friendly Disposal,Recycled,Mechanical,No,Medium,0.96
+EW_00024,UK,2021,Birmingham,London,Smart Sprinkler Controller,Google,Google 6500,8,Non-working,Mixed,0.58,Brominated Flame Retardants,Pick-up service,Sustainable Materials Recovery,Pending,Mechanical,No,Low,1.39
+EW_00025,UK,2022,Manchester,London,Smart Lock,LG,LG 7643,3,Non-working,Glass,0.52,Brominated Flame Retardants,Drop-off center,Global Recycling Solutions,Pending,Chemical,Yes,Low,1.25
+EW_00026,Germany,2022,Hesse,Munich,Mobile Phone,HP,HP 9768,10,Working,Mixed,0.11,Lead,Pick-up service,Green Earth Recycling,Recycled,Thermal,No,Low,0.33
+EW_00027,Brazil,2020,ParanÃ¡,Rio de Janeiro,Smart Oven,Asus,Asus 1185,8,Working,Plastic,36.74,Lead,Municipal collection,Sustainable Materials Recovery,Disposed,Hydrometallurgical,Yes,Low,73.48
+EW_00028,India,2024,Delhi,Mumbai,MP3 Player,Apple,Apple 4478,4,Non-working,Metal,0.14,Mercury,Drop-off center,Global Recycling Solutions,Pending,Thermal,Yes,Low,0.34
+EW_00029,Brazil,2021,ParanÃ¡,Curitiba,Smart Coffee Maker,Dell,Dell 5113,3,Repairable,Mixed,1.36,Lead,Pick-up service,Sustainable Materials Recovery,Recycled,Thermal,Yes,Low,2.72
+EW_00030,Japan,2023,Hokkaido,Yokohama,Laptop,Gateway,Gateway 9477,2,Obsolete,Plastic,1.86,Lead,Retail take-back,EcoRecyclers Inc.,Disposed,Chemical,Yes,Low,6.14
+EW_00031,USA,2023,Texas,Phoenix,Smart Window Blinds,Toshiba,Toshiba 7106,6,Repairable,Metal,0.57,Lead,Pick-up service,Sustainable Materials Recovery,Pending,Hydrometallurgical,Yes,Low,1.14
+EW_00032,India,2023,Delhi,Delhi,VR Headset,Lenovo,Lenovo 7169,2,Repairable,Metal,0.79,Cadmium,Municipal collection,Sustainable Materials Recovery,Disposed,Pyrometallurgical,No,Low,1.58
+EW_00033,Japan,2023,Fukuoka,Sapporo,Power Bank,Sony,Sony 4915,1,Non-working,Plastic,0.26,Mercury,Retail take-back,Global Recycling Solutions,In Progress,Pyrometallurgical,Yes,Low,0.62
+EW_00034,USA,2021,California,New York,Keyboard,Lenovo,Lenovo 1546,5,Obsolete,Plastic,0.67,Lead,Pick-up service,Eco-Friendly Disposal,In Progress,Chemical,No,Low,1.47
+EW_00035,India,2020,Gujarat,Mumbai,Smart Light Bulb,Oppo,Oppo 4291,7,Working,Mixed,0.18,Brominated Flame Retardants,Pick-up service,Sustainable Materials Recovery,Pending,Thermal,Yes,Low,0.36
+EW_00036,UK,2021,Manchester,Glasgow,VR Headset,HTC,HTC 3048,5,Damaged,Ceramic,0.88,Lead,Drop-off center,GreenTech Recycle,Recycled,Chemical,No,Medium,2.64
+EW_00037,Australia,2022,South Australia,Sydney,Smart Door Sensor,Nokia,Nokia 2137,2,Obsolete,Mixed,0.29,Cadmium,Municipal collection,Eco-Friendly Disposal,Recycled,Chemical,Yes,Low,0.64
+EW_00038,Germany,2021,Bavaria,Munich,CD/DVD Player,BlackBerry,BlackBerry 3514,4,Obsolete,Metal,1.44,None,Retail take-back,Green Earth Recycling,Pending,Hydrometallurgical,No,Low,3.17
+EW_00039,UK,2020,London,Birmingham,Headphones,BlackBerry,BlackBerry 8779,1,Damaged,Plastic,0.42,Lead,Municipal collection,EcoTech Recycling,Disposed,Hydrometallurgical,Yes,Medium,1.26
+EW_00040,Canada,2024,Manitoba,Edmonton,Smart Home Device,Asus,Asus 9203,7,Obsolete,Mixed,0.13,None,Retail take-back,EcoRecyclers Inc.,In Progress,Hydrometallurgical,Yes,Low,0.29
+EW_00041,Australia,2021,Victoria,Melbourne,Monitor,Nokia,Nokia 3066,3,Damaged,Rubber,3.14,Cadmium,Pick-up service,Global Recycling Solutions,Disposed,Hydrometallurgical,No,Medium,9.42
+EW_00042,UK,2022,Liverpool,Birmingham,Smart Plug,Google,Google 6657,1,Damaged,Ceramic,0.25,Lead,Retail take-back,GreenTech Recycle,Disposed,Chemical,No,Medium,0.75
+EW_00043,Japan,2021,Hokkaido,Yokohama,Smart Plug,Google,Google 6146,4,Non-working,Mixed,0.16,Brominated Flame Retardants,Pick-up service,Sustainable Waste Management,Pending,Thermal,Yes,Low,0.38
+EW_00044,Brazil,2024,SÃ£o Paulo,Belo Horizonte,Camera,HTC,HTC 7916,10,Obsolete,Ceramic,0.74,None,Municipal collection,Sustainable Waste Management,Recycled,Pyrometallurgical,Yes,Low,1.63
+EW_00045,Japan,2021,Osaka,Nagoya,Tablet,Asus,Asus 6336,7,Non-working,Mixed,0.77,Lead,Municipal collection,GreenTech Recycle,Recycled,Mechanical,No,Medium,2.77
+EW_00046,Canada,2020,Quebec,Toronto,Fax Machine,Gateway,Gateway 4636,1,Damaged,Metal,3.18,Mercury,Pick-up service,Sustainable Electronics,Pending,Thermal,No,Medium,9.54
+EW_00047,France,2022,Nouvelle-Aquitaine,Bordeaux,Projector,Motorola,Motorola 1628,3,Non-working,Rubber,3.98,Lead,Pick-up service,Eco-Friendly Disposal,Disposed,Hydrometallurgical,Yes,Medium,9.55
+EW_00048,Canada,2021,Alberta,Edmonton,Smart Refrigerator,Samsung,Samsung 1814,9,Obsolete,Metal,63.14,Lead,Drop-off center,Sustainable Waste Management,Pending,Pyrometallurgical,No,High,277.82
+EW_00049,France,2022,Auvergne-RhÃ´ne-Alpes,Toulouse,Smart Refrigerator,OnePlus,OnePlus 2108,7,Obsolete,Plastic,58.67,Lead,Municipal collection,GreenTech Recycle,In Progress,Mechanical,Yes,High,258.15
+EW_00050,China,2020,Zhejiang,Shenzhen,Headphones,Apple,Apple 2745,3,Working,Rubber,0.45,Mercury,Municipal collection,Global Recycling Solutions,In Progress,Thermal,Yes,Low,0.9
+EW_00051,Canada,2023,Alberta,Montreal,MP3 Player,LG,LG 3563,10,Non-working,Rubber,0.27,Lead,Pick-up service,GreenTech Recycle,Recycled,Hydrometallurgical,Yes,Low,0.65
+EW_00052,India,2020,Karnataka,Kolkata,Smart Garage Door Opener,Razer,Razer 4220,8,Obsolete,Rubber,0.5,Brominated Flame Retardants,Retail take-back,Eco-Friendly Disposal,Pending,Mechanical,Yes,Low,1.1
+EW_00053,Canada,2024,Quebec,Edmonton,Desktop Computer,Toshiba,Toshiba 1053,8,Damaged,Ceramic,5.02,Mercury,Pick-up service,Green Future Recycling,Disposed,Hydrometallurgical,Yes,High,30.12
+EW_00054,India,2023,Karnataka,Mumbai,Smart Coffee Maker,Samsung,Samsung 1947,2,Obsolete,Rubber,1.5,Mercury,Retail take-back,Green Future Recycling,Disposed,Pyrometallurgical,No,Low,3.3
+EW_00055,China,2024,Guangdong,Beijing,MP3 Player,Amazon,Amazon 9222,1,Working,Glass,0.26,Brominated Flame Retardants,Pick-up service,Sustainable Materials Recovery,Disposed,Mechanical,Yes,Low,0.52
+EW_00056,Brazil,2024,Rio de Janeiro,SÃ£o Paulo,Charger,Panasonic,Panasonic 2415,7,Obsolete,Ceramic,0.17,Cadmium,Pick-up service,Eco-Friendly Disposal,In Progress,Mechanical,No,Low,0.37
+EW_00057,Japan,2020,Aichi,Tokyo,Smart Water Leak Detector,BlackBerry,BlackBerry 9324,7,Damaged,Plastic,0.16,Mercury,Municipal collection,Global Recycling Solutions,Recycled,Mechanical,Yes,Medium,0.48
+EW_00058,France,2022,ÃŽle-de-France,Lyon,Mobile Phone,Sony,Sony 1335,1,Damaged,Mixed,0.16,None,Retail take-back,Eco-Friendly Disposal,Disposed,Mechanical,No,Medium,0.72
+EW_00059,USA,2022,Florida,New York,Smart Light Bulb,Oppo,Oppo 2671,3,Non-working,Mixed,0.29,None,Drop-off center,Green Future Recycling,Recycled,Hydrometallurgical,Yes,Low,0.7
+EW_00060,Japan,2021,Fukuoka,Osaka,Smart Coffee Maker,Lenovo,Lenovo 8788,10,Repairable,Mixed,1.66,Mercury,Retail take-back,Eco-Friendly Disposal,Disposed,Pyrometallurgical,Yes,Low,3.32
+EW_00061,Germany,2021,North Rhine-Westphalia,Hamburg,USB Drive,Nokia,Nokia 7888,9,Obsolete,Rubber,0.08,Mercury,Retail take-back,EcoRecyclers Inc.,Pending,Pyrometallurgical,Yes,Low,0.18
+EW_00062,China,2023,Beijing,Shanghai,Fax Machine,Asus,Asus 7360,1,Non-working,Rubber,5.3,Brominated Flame Retardants,Pick-up service,Green Future Recycling,Pending,Mechanical,No,Medium,12.72
+EW_00063,France,2024,Auvergne-RhÃ´ne-Alpes,Bordeaux,Speakers,MSI,MSI 5825,5,Working,Mixed,2.36,None,Municipal collection,EcoTech Recycling,Recycled,Chemical,Yes,Low,4.72
+EW_00064,Australia,2022,Victoria,Brisbane,Smart Plug,Motorola,Motorola 9846,7,Repairable,Rubber,0.25,Mercury,Drop-off center,Global Recycling Solutions,Pending,Mechanical,Yes,Low,0.5
+EW_00065,China,2024,Sichuan,Guangzhou,Charger,OnePlus,OnePlus 6737,4,Repairable,Ceramic,0.25,Mercury,Retail take-back,Sustainable Waste Management,In Progress,Thermal,No,Low,0.5
+EW_00066,Australia,2024,Western Australia,Brisbane,Smart Plug,BlackBerry,BlackBerry 7963,7,Obsolete,Rubber,0.25,Cadmium,Pick-up service,Sustainable Waste Management,In Progress,Mechanical,Yes,Low,0.55
+EW_00067,UK,2022,Liverpool,Birmingham,Camera,HTC,HTC 2305,10,Obsolete,Ceramic,0.69,Lead,Municipal collection,Sustainable Materials Recovery,Recycled,Chemical,Yes,Low,1.52
+EW_00068,Japan,2024,Aichi,Tokyo,Drone,Motorola,Motorola 8776,8,Obsolete,Metal,1.77,Mercury,Drop-off center,Eco-Friendly Disposal,In Progress,Chemical,No,Low,3.89
+EW_00069,India,2020,Delhi,Kolkata,Router,Lenovo,Lenovo 4145,3,Non-working,Mixed,0.58,None,Pick-up service,Eco-Friendly Disposal,In Progress,Mechanical,Yes,Low,1.39
+EW_00070,China,2021,Guangdong,Chengdu,Smart Coffee Maker,Panasonic,Panasonic 2616,7,Non-working,Glass,1.18,Lead,Municipal collection,Sustainable Waste Management,In Progress,Pyrometallurgical,No,Low,2.83
+EW_00071,Japan,2022,Aichi,Yokohama,Keyboard,Gateway,Gateway 7008,5,Non-working,Metal,0.55,Lead,Retail take-back,Global Recycling Solutions,Disposed,Pyrometallurgical,No,Low,1.32
+EW_00072,Australia,2021,Victoria,Adelaide,Mouse,Acer,Acer 9905,7,Obsolete,Rubber,0.29,Lead,Retail take-back,Green Earth Recycling,Recycled,Mechanical,Yes,Low,0.64
+EW_00073,Brazil,2020,Minas Gerais,Rio de Janeiro,Smart Refrigerator,Apple,Apple 1786,7,Damaged,Ceramic,95.84,None,Municipal collection,GreenTech Recycle,Pending,Pyrometallurgical,Yes,High,575.04
+EW_00074,China,2023,Shanghai,Beijing,Projector,Vivo,Vivo 6026,1,Working,Glass,2.67,Brominated Flame Retardants,Retail take-back,Green Future Recycling,Disposed,Pyrometallurgical,No,Low,5.34
+EW_00075,France,2021,Provence-Alpes-CÃ´te d'Azur,Marseille,Smart Home Device,Lenovo,Lenovo 9280,1,Damaged,Metal,0.3,Lead,Pick-up service,Green Future Recycling,Recycled,Thermal,Yes,Medium,0.9
+EW_00076,UK,2024,Liverpool,Birmingham,Router,HTC,HTC 5768,9,Repairable,Metal,0.5,Mercury,Retail take-back,EcoRecyclers Inc.,In Progress,Pyrometallurgical,Yes,Low,1
+EW_00077,France,2020,ÃŽle-de-France,Toulouse,Tablet,Nokia,Nokia 6494,3,Repairable,Rubber,0.42,Cadmium,Pick-up service,Sustainable Electronics,Pending,Pyrometallurgical,Yes,Low,1.26
+EW_00078,UK,2021,Liverpool,Liverpool,GPS Device,Lenovo,Lenovo 1963,8,Damaged,Metal,0.34,Lead,Pick-up service,Global Recycling Solutions,Pending,Mechanical,No,Medium,1.02
+EW_00079,Japan,2023,Osaka,Sapporo,Smart Thermostat,Microsoft,Microsoft 4007,5,Damaged,Plastic,0.49,Cadmium,Retail take-back,GreenTech Recycle,Pending,Mechanical,Yes,Medium,1.47
+EW_00080,Japan,2020,Tokyo,Tokyo,Smart Thermostat,ZTE,ZTE 5450,9,Obsolete,Plastic,0.46,Brominated Flame Retardants,Municipal collection,Green Earth Recycling,Recycled,Hydrometallurgical,No,Low,1.01
+EW_00081,China,2024,Zhejiang,Guangzhou,Smart Lock,Amazon,Amazon 7727,1,Non-working,Mixed,0.34,Lead,Pick-up service,Sustainable Waste Management,Disposed,Thermal,No,Low,0.82
+EW_00082,Japan,2021,Fukuoka,Nagoya,Desktop Computer,Razer,Razer 2933,3,Non-working,Mixed,8.43,Cadmium,Drop-off center,Eco-Friendly Disposal,In Progress,Thermal,No,High,40.46
+EW_00083,USA,2020,Illinois,Los Angeles,Smart Garage Door Opener,Motorola,Motorola 9780,4,Working,Rubber,0.72,None,Pick-up service,Sustainable Waste Management,In Progress,Pyrometallurgical,Yes,Low,1.44
+EW_00084,Australia,2021,South Australia,Melbourne,Smart Plug,Oppo,Oppo 2973,10,Repairable,Glass,0.21,Lead,Drop-off center,Sustainable Materials Recovery,Recycled,Chemical,No,Low,0.42
+EW_00085,Japan,2021,Tokyo,Tokyo,Smart Garage Door Opener,Samsung,Samsung 4945,7,Damaged,Plastic,0.74,Brominated Flame Retardants,Municipal collection,GreenTech Recycle,Disposed,Mechanical,Yes,Medium,2.22
+EW_00086,India,2020,Delhi,Mumbai,Projector,HTC,HTC 9277,2,Repairable,Ceramic,2.88,Mercury,Drop-off center,EcoTech Recycling,Pending,Chemical,Yes,Low,5.76
+EW_00087,Canada,2022,Ontario,Montreal,Digital Clock,Huawei,Huawei 5512,9,Damaged,Rubber,0.19,None,Pick-up service,Green Future Recycling,Pending,Pyrometallurgical,No,Medium,0.57
+EW_00088,Canada,2020,British Columbia,Calgary,Smart Plug,OnePlus,OnePlus 3524,5,Obsolete,Rubber,0.21,Cadmium,Pick-up service,EcoRecyclers Inc.,Recycled,Chemical,Yes,Low,0.46
+EW_00089,Japan,2023,Hokkaido,Nagoya,Game Console,Toshiba,Toshiba 2319,3,Damaged,Ceramic,2.01,Cadmium,Pick-up service,Sustainable Electronics,Disposed,Hydrometallurgical,No,Medium,6.03
+EW_00090,Australia,2020,Western Australia,Brisbane,External Hard Drive,Apple,Apple 7828,7,Repairable,Ceramic,0.72,Mercury,Municipal collection,Sustainable Electronics,Pending,Chemical,No,Low,1.44
+EW_00091,Germany,2024,North Rhine-Westphalia,Berlin,Charger,LG,LG 5241,9,Damaged,Plastic,0.13,None,Retail take-back,Green Future Recycling,Pending,Thermal,Yes,Medium,0.39
+EW_00092,Germany,2024,Bavaria,Berlin,External Hard Drive,LG,LG 7350,8,Repairable,Mixed,0.7,None,Pick-up service,GreenTech Recycle,Pending,Thermal,Yes,Low,1.4
+EW_00093,Australia,2023,South Australia,Brisbane,Mobile Phone,Lenovo,Lenovo 3154,2,Damaged,Mixed,0.23,Brominated Flame Retardants,Municipal collection,Eco-Friendly Disposal,Pending,Chemical,Yes,Medium,1.04
+EW_00094,India,2022,Karnataka,Chennai,Game Console,BlackBerry,BlackBerry 3257,3,Damaged,Mixed,1.48,None,Municipal collection,Sustainable Electronics,Pending,Thermal,Yes,Medium,4.44
+EW_00095,France,2021,Occitanie,Lyon,Radio,OnePlus,OnePlus 4244,10,Repairable,Ceramic,0.62,Mercury,Retail take-back,Green Earth Recycling,Recycled,Hydrometallurgical,Yes,Low,1.24
+EW_00096,Japan,2023,Fukuoka,Osaka,Smart Coffee Maker,MSI,MSI 2492,5,Obsolete,Plastic,1.8,None,Municipal collection,GreenTech Recycle,In Progress,Pyrometallurgical,No,Low,3.96
+EW_00097,Australia,2020,Western Australia,Perth,Printer,Lenovo,Lenovo 2896,2,Non-working,Ceramic,6.03,Cadmium,Pick-up service,Eco-Friendly Disposal,In Progress,Thermal,Yes,Medium,14.47
+EW_00098,Japan,2022,Aichi,Sapporo,Keyboard,MSI,MSI 2533,1,Damaged,Rubber,0.76,Cadmium,Retail take-back,EcoTech Recycling,Recycled,Hydrometallurgical,Yes,Medium,2.28
+EW_00099,UK,2024,London,Birmingham,Mobile Phone,Nokia,Nokia 7094,5,Working,Metal,0.12,Brominated Flame Retardants,Retail take-back,Sustainable Waste Management,Pending,Hydrometallurgical,Yes,Low,0.36
+EW_00100,Canada,2022,Manitoba,Toronto,Tablet,ZTE,ZTE 8797,3,Non-working,Mixed,0.72,Brominated Flame Retardants,Pick-up service,Sustainable Waste Management,In Progress,Mechanical,Yes,Medium,2.59
+EW_00101,Germany,2021,Hamburg,Munich,Smart Plug,Panasonic,Panasonic 9550,8,Obsolete,Plastic,0.2,Mercury,Drop-off center,Green Future Recycling,Pending,Hydrometallurgical,No,Low,0.44
+EW_00102,France,2024,Auvergne-RhÃ´ne-Alpes,Paris,Smart Scale,Toshiba,Toshiba 4630,4,Obsolete,Mixed,0.47,Mercury,Municipal collection,Global Recycling Solutions,Disposed,Thermal,Yes,Low,1.03
+EW_00103,France,2021,Auvergne-RhÃ´ne-Alpes,Paris,Router,Dell,Dell 8412,7,Non-working,Plastic,0.57,Lead,Retail take-back,Eco-Friendly Disposal,Recycled,Thermal,Yes,Low,1.37
+EW_00104,Brazil,2023,Rio de Janeiro,Belo Horizonte,Smart Garage Door Opener,ZTE,ZTE 4539,9,Obsolete,Rubber,0.84,None,Retail take-back,Sustainable Electronics,In Progress,Thermal,No,Low,1.85
+EW_00105,Germany,2023,Bavaria,Hamburg,Smart Garage Door Opener,Asus,Asus 5139,6,Working,Rubber,0.57,Mercury,Municipal collection,Sustainable Electronics,Recycled,Pyrometallurgical,No,Low,1.14
+EW_00106,India,2021,Karnataka,Delhi,Smart Plug,Razer,Razer 8922,2,Non-working,Mixed,0.11,Cadmium,Pick-up service,Eco-Friendly Disposal,Recycled,Thermal,Yes,Low,0.26
+EW_00107,Germany,2024,North Rhine-Westphalia,Frankfurt,Charger,Google,Google 1491,10,Working,Ceramic,0.23,Brominated Flame Retardants,Pick-up service,Sustainable Materials Recovery,In Progress,Mechanical,No,Low,0.46
+EW_00108,Germany,2022,Hesse,Frankfurt,Game Console,Oppo,Oppo 2676,3,Damaged,Glass,1.57,None,Retail take-back,Global Recycling Solutions,Pending,Mechanical,No,Medium,4.71
+EW_00109,India,2020,Maharashtra,Kolkata,Desktop Computer,BlackBerry,BlackBerry 6610,6,Repairable,Plastic,9.09,Lead,Drop-off center,Global Recycling Solutions,Recycled,Thermal,No,Medium,36.36
+EW_00110,Canada,2021,Quebec,Vancouver,Power Bank,Toshiba,Toshiba 8899,10,Non-working,Plastic,0.2,None,Pick-up service,Green Earth Recycling,Pending,Thermal,No,Low,0.48
+EW_00111,Brazil,2024,ParanÃ¡,Belo Horizonte,Smart Garage Door Opener,Vivo,Vivo 9692,6,Damaged,Rubber,0.58,Mercury,Retail take-back,Green Earth Recycling,Pending,Thermal,Yes,Medium,1.74
+EW_00112,France,2024,ÃŽle-de-France,Paris,Smart Dishwasher,Xiaomi,Xiaomi 8248,10,Obsolete,Metal,46.63,Lead,Drop-off center,Global Recycling Solutions,Disposed,Hydrometallurgical,Yes,Medium,102.59
+EW_00113,Japan,2024,Aichi,Nagoya,GPS Device,HP,HP 5025,10,Non-working,Rubber,0.36,Lead,Drop-off center,Sustainable Waste Management,Pending,Hydrometallurgical,No,Low,0.86
+EW_00114,USA,2022,New York,Chicago,Smart Sprinkler Controller,Amazon,Amazon 9240,4,Obsolete,Ceramic,0.44,None,Retail take-back,Green Future Recycling,Recycled,Mechanical,Yes,Low,0.97
+EW_00115,Australia,2021,Victoria,Sydney,E-reader,Nokia,Nokia 5762,5,Working,Metal,0.28,None,Retail take-back,Sustainable Waste Management,Pending,Hydrometallurgical,Yes,Low,0.56
+EW_00116,India,2023,Maharashtra,Delhi,Smart Lock,Toshiba,Toshiba 3324,1,Damaged,Plastic,0.79,Cadmium,Drop-off center,GreenTech Recycle,Recycled,Pyrometallurgical,Yes,Medium,2.37
+EW_00117,Australia,2021,New South Wales,Sydney,Smart Coffee Maker,Razer,Razer 4812,1,Obsolete,Rubber,1.24,Mercury,Retail take-back,Sustainable Waste Management,In Progress,Mechanical,No,Low,2.73
+EW_00118,Japan,2020,Aichi,Tokyo,Tablet,LG,LG 1379,10,Non-working,Ceramic,0.42,Cadmium,Municipal collection,EcoRecyclers Inc.,Disposed,Hydrometallurgical,Yes,Medium,1.51
+EW_00119,Germany,2020,Bavaria,Munich,Keyboard,Vivo,Vivo 3129,6,Working,Glass,0.76,None,Retail take-back,Eco-Friendly Disposal,In Progress,Mechanical,No,Low,1.52
+EW_00120,China,2022,Shanghai,Shanghai,Smart Garage Door Opener,HP,HP 7387,4,Working,Ceramic,0.71,Brominated Flame Retardants,Municipal collection,Green Earth Recycling,In Progress,Chemical,Yes,Low,1.42
+EW_00121,China,2024,Guangdong,Beijing,Tablet,Oppo,Oppo 3715,1,Non-working,Ceramic,0.76,None,Municipal collection,Green Earth Recycling,Disposed,Mechanical,Yes,Medium,2.74
+EW_00122,Japan,2024,Osaka,Sapporo,Charger,Huawei,Huawei 1472,10,Obsolete,Mixed,0.1,Lead,Retail take-back,EcoRecyclers Inc.,Recycled,Mechanical,Yes,Low,0.22
+EW_00123,Canada,2022,Quebec,Edmonton,CD/DVD Player,Gateway,Gateway 1416,7,Non-working,Metal,1.47,Brominated Flame Retardants,Pick-up service,Sustainable Waste Management,Disposed,Thermal,No,Low,3.53
+EW_00124,Germany,2021,Hesse,Berlin,Smart Dishwasher,HTC,HTC 4093,7,Damaged,Mixed,43.03,None,Municipal collection,GreenTech Recycle,Pending,Thermal,No,High,129.09
+EW_00125,Australia,2024,New South Wales,Perth,Smart Home Device,MSI,MSI 5423,10,Damaged,Metal,0.17,Mercury,Municipal collection,Sustainable Waste Management,In Progress,Pyrometallurgical,No,Medium,0.51
+EW_00126,UK,2024,London,Glasgow,Smart Coffee Maker,ZTE,ZTE 5754,5,Repairable,Ceramic,1.53,Lead,Municipal collection,EcoRecyclers Inc.,Disposed,Thermal,No,Low,3.06
+EW_00127,Canada,2022,Manitoba,Vancouver,Smart Door Sensor,HP,HP 5520,3,Damaged,Plastic,0.18,Cadmium,Retail take-back,Sustainable Waste Management,Disposed,Thermal,Yes,Medium,0.54
+EW_00128,Germany,2022,Hamburg,Frankfurt,Smart Door Sensor,HTC,HTC 9066,7,Repairable,Glass,0.1,None,Pick-up service,Sustainable Materials Recovery,Disposed,Thermal,Yes,Low,0.2
+EW_00129,Australia,2020,South Australia,Perth,Mobile Phone,Amazon,Amazon 9681,6,Damaged,Plastic,0.25,Lead,Municipal collection,Green Earth Recycling,Pending,Hydrometallurgical,No,Medium,1.12
+EW_00130,China,2022,Shanghai,Guangzhou,Game Console,Dell,Dell 7403,4,Damaged,Plastic,1.52,None,Municipal collection,Global Recycling Solutions,In Progress,Pyrometallurgical,Yes,Medium,4.56
+EW_00131,France,2023,Occitanie,Bordeaux,Smart Light Bulb,Motorola,Motorola 9112,6,Obsolete,Plastic,0.18,Cadmium,Drop-off center,Global Recycling Solutions,Disposed,Thermal,No,Low,0.4
+EW_00132,Japan,2020,Osaka,Osaka,Drone,Apple,Apple 1203,8,Repairable,Rubber,1.9,Mercury,Municipal collection,Global Recycling Solutions,Recycled,Hydrometallurgical,No,Low,3.8
+EW_00133,China,2021,Shanghai,Guangzhou,Smart Water Leak Detector,Xiaomi,Xiaomi 2457,2,Damaged,Ceramic,0.23,Brominated Flame Retardants,Pick-up service,Sustainable Waste Management,Disposed,Hydrometallurgical,Yes,Medium,0.69
+EW_00134,Canada,2020,Quebec,Vancouver,Smart Refrigerator,Amazon,Amazon 8413,9,Damaged,Plastic,53.08,Brominated Flame Retardants,Municipal collection,Global Recycling Solutions,Pending,Hydrometallurgical,Yes,High,318.48
+EW_00135,Canada,2022,Ontario,Vancouver,External Hard Drive,LG,LG 1932,4,Repairable,Rubber,0.5,None,Municipal collection,EcoTech Recycling,Disposed,Chemical,Yes,Low,1
+EW_00136,Canada,2024,Manitoba,Calgary,Smart Thermostat,OnePlus,OnePlus 4867,6,Obsolete,Glass,0.42,Cadmium,Pick-up service,Global Recycling Solutions,Recycled,Pyrometallurgical,No,Low,0.92
+EW_00137,Japan,2021,Fukuoka,Tokyo,Monitor,HTC,HTC 9057,6,Obsolete,Mixed,2.59,Cadmium,Pick-up service,Green Earth Recycling,Disposed,Mechanical,No,Low,5.7
+EW_00138,Australia,2024,Queensland,Melbourne,Tablet,Fujitsu,Fujitsu 4999,9,Working,Mixed,0.41,None,Municipal collection,Green Earth Recycling,In Progress,Mechanical,No,Low,1.23
+EW_00139,Japan,2024,Fukuoka,Osaka,Fax Machine,Razer,Razer 5784,1,Obsolete,Mixed,5.89,None,Municipal collection,Eco-Friendly Disposal,In Progress,Mechanical,No,Medium,12.96
+EW_00140,France,2023,Nouvelle-Aquitaine,Lyon,VR Headset,Samsung,Samsung 1232,2,Repairable,Metal,0.84,Brominated Flame Retardants,Drop-off center,EcoRecyclers Inc.,Disposed,Pyrometallurgical,Yes,Low,1.68
+EW_00141,Canada,2021,Alberta,Edmonton,Speakers,Toshiba,Toshiba 7829,1,Non-working,Rubber,1.28,Mercury,Drop-off center,Sustainable Waste Management,Disposed,Hydrometallurgical,No,Low,3.07
+EW_00142,India,2020,Tamil Nadu,Mumbai,Smart Plug,Huawei,Huawei 6666,8,Obsolete,Ceramic,0.11,Lead,Retail take-back,EcoTech Recycling,Disposed,Chemical,Yes,Low,0.24
+EW_00143,Germany,2021,Bavaria,Hamburg,Radio,HTC,HTC 2582,9,Working,Ceramic,0.87,Brominated Flame Retardants,Pick-up service,Global Recycling Solutions,Disposed,Mechanical,Yes,Low,1.74
+EW_00144,Germany,2024,North Rhine-Westphalia,Berlin,Smart Dishwasher,Apple,Apple 1904,10,Damaged,Glass,49.45,Mercury,Pick-up service,Eco-Friendly Disposal,Disposed,Hydrometallurgical,Yes,High,148.35
+EW_00145,China,2023,Guangdong,Beijing,Printer,Acer,Acer 5345,4,Repairable,Mixed,4.83,Mercury,Retail take-back,EcoTech Recycling,Disposed,Pyrometallurgical,Yes,Low,9.66
+EW_00146,Canada,2022,Ontario,Vancouver,Charger,Samsung,Samsung 9003,1,Repairable,Metal,0.23,Brominated Flame Retardants,Drop-off center,Green Earth Recycling,Disposed,Chemical,No,Low,0.46
+EW_00147,India,2024,Delhi,Mumbai,Smart Thermostat,BlackBerry,BlackBerry 4453,9,Non-working,Metal,0.39,Lead,Municipal collection,GreenTech Recycle,In Progress,Mechanical,Yes,Low,0.94
+EW_00148,USA,2022,Illinois,Phoenix,Smart Oven,Nokia,Nokia 5925,2,Working,Glass,30.8,Cadmium,Pick-up service,Global Recycling Solutions,In Progress,Hydrometallurgical,Yes,Low,61.6
+EW_00149,China,2021,Beijing,Guangzhou,Power Bank,Lenovo,Lenovo 8467,6,Working,Rubber,0.48,Lead,Municipal collection,Sustainable Electronics,Disposed,Chemical,Yes,Low,0.96
+EW_00150,USA,2021,New York,Chicago,External Hard Drive,Oppo,Oppo 9129,9,Obsolete,Ceramic,0.49,Brominated Flame Retardants,Drop-off center,EcoTech Recycling,Disposed,Chemical,Yes,Low,1.08
+EW_00151,India,2020,Gujarat,Kolkata,Smart Mirror,HTC,HTC 2788,3,Non-working,Ceramic,2.86,Brominated Flame Retardants,Retail take-back,Sustainable Electronics,Pending,Mechanical,Yes,Medium,6.86
+EW_00152,China,2023,Sichuan,Guangzhou,Smart Coffee Maker,Panasonic,Panasonic 4087,2,Obsolete,Glass,1.99,Brominated Flame Retardants,Pick-up service,Eco-Friendly Disposal,Recycled,Thermal,Yes,Low,4.38
+EW_00153,France,2021,ÃŽle-de-France,Toulouse,Smart Scale,HTC,HTC 6572,2,Working,Plastic,0.22,Cadmium,Drop-off center,Global Recycling Solutions,In Progress,Mechanical,No,Low,0.44
+EW_00154,Japan,2020,Aichi,Sapporo,Smart Sprinkler Controller,Lenovo,Lenovo 5272,3,Damaged,Mixed,0.51,Cadmium,Retail take-back,Eco-Friendly Disposal,Disposed,Mechanical,No,Medium,1.53
+EW_00155,Brazil,2022,Bahia,Curitiba,Laptop,Google,Google 3063,7,Non-working,Mixed,2.61,Brominated Flame Retardants,Retail take-back,Sustainable Electronics,In Progress,Thermal,Yes,Medium,9.4
+EW_00156,Brazil,2020,Bahia,SÃ£o Paulo,Smart Scale,Oppo,Oppo 6501,2,Working,Rubber,0.26,Cadmium,Retail take-back,Sustainable Waste Management,In Progress,Mechanical,Yes,Low,0.52
+EW_00157,France,2021,Provence-Alpes-CÃ´te d'Azur,Lyon,Mobile Phone,Dell,Dell 9010,9,Damaged,Plastic,0.13,Cadmium,Pick-up service,Sustainable Waste Management,Recycled,Pyrometallurgical,Yes,Medium,0.58
+EW_00158,France,2022,Provence-Alpes-CÃ´te d'Azur,Toulouse,Smart Home Device,Sony,Sony 3709,8,Repairable,Rubber,0.15,Lead,Retail take-back,EcoTech Recycling,Recycled,Mechanical,No,Low,0.3
+EW_00159,Canada,2020,Quebec,Edmonton,External Hard Drive,Samsung,Samsung 4737,1,Obsolete,Rubber,0.4,Mercury,Drop-off center,Eco-Friendly Disposal,Disposed,Thermal,No,Low,0.88
+EW_00160,Japan,2024,Aichi,Nagoya,Mouse,Nokia,Nokia 6352,1,Obsolete,Glass,0.12,Cadmium,Retail take-back,Green Future Recycling,Disposed,Mechanical,No,Low,0.26
+EW_00161,China,2022,Shanghai,Shanghai,USB Drive,OnePlus,OnePlus 6205,10,Damaged,Mixed,0.1,Lead,Retail take-back,EcoTech Recycling,In Progress,Mechanical,No,Medium,0.3
+EW_00162,UK,2023,Glasgow,Birmingham,USB Drive,HTC,HTC 1164,2,Repairable,Ceramic,0.1,Brominated Flame Retardants,Municipal collection,Green Future Recycling,Recycled,Thermal,Yes,Low,0.2
+EW_00163,Australia,2022,New South Wales,Sydney,Drone,Xiaomi,Xiaomi 2791,2,Working,Glass,1.76,Brominated Flame Retardants,Drop-off center,EcoTech Recycling,In Progress,Hydrometallurgical,No,Low,3.52
+EW_00164,India,2020,Gujarat,Mumbai,Projector,Razer,Razer 2574,6,Damaged,Rubber,2.14,None,Drop-off center,Sustainable Electronics,Disposed,Pyrometallurgical,Yes,Medium,6.42
+EW_00165,China,2021,Guangdong,Guangzhou,Smart Door Sensor,ZTE,ZTE 3324,2,Non-working,Glass,0.29,Cadmium,Drop-off center,GreenTech Recycle,Pending,Mechanical,No,Low,0.7
+EW_00166,Japan,2020,Fukuoka,Osaka,Headphones,Razer,Razer 8013,5,Obsolete,Glass,0.44,Cadmium,Municipal collection,Global Recycling Solutions,Recycled,Hydrometallurgical,No,Low,0.97
+EW_00167,Australia,2023,South Australia,Brisbane,Smart Garage Door Opener,Acer,Acer 3524,1,Obsolete,Mixed,0.56,Brominated Flame Retardants,Drop-off center,Eco-Friendly Disposal,Pending,Chemical,No,Low,1.23
+EW_00168,Japan,2023,Hokkaido,Sapporo,Monitor,MSI,MSI 1638,9,Obsolete,Metal,2.85,Brominated Flame Retardants,Retail take-back,EcoTech Recycling,Disposed,Hydrometallurgical,Yes,Low,6.27
+EW_00169,Germany,2023,Hesse,Munich,MP3 Player,ZTE,ZTE 9678,8,Non-working,Plastic,0.16,Mercury,Pick-up service,GreenTech Recycle,Disposed,Mechanical,No,Low,0.38
+EW_00170,Japan,2020,Fukuoka,Osaka,Smart Window Blinds,Asus,Asus 5107,5,Working,Ceramic,1.28,Mercury,Drop-off center,Sustainable Waste Management,Pending,Pyrometallurgical,Yes,Low,2.56
+EW_00171,Japan,2022,Osaka,Sapporo,Projector,Microsoft,Microsoft 2993,1,Working,Plastic,3.52,Mercury,Pick-up service,Sustainable Materials Recovery,Disposed,Chemical,Yes,Low,7.04
+EW_00172,USA,2023,Texas,Chicago,Keyboard,HP,HP 3372,7,Working,Ceramic,0.56,None,Retail take-back,Sustainable Electronics,Pending,Thermal,Yes,Low,1.12
+EW_00173,Canada,2024,Quebec,Calgary,Smart Thermostat,Nokia,Nokia 3151,8,Obsolete,Glass,0.47,Lead,Municipal collection,Eco-Friendly Disposal,Recycled,Mechanical,No,Low,1.03
+EW_00174,Germany,2022,Hamburg,Berlin,Projector,Dell,Dell 5932,8,Non-working,Metal,2.29,Brominated Flame Retardants,Retail take-back,Eco-Friendly Disposal,Pending,Pyrometallurgical,Yes,Medium,5.5
+EW_00175,UK,2021,Birmingham,London,Smart Dishwasher,Vivo,Vivo 2850,10,Repairable,Rubber,32.51,Brominated Flame Retardants,Drop-off center,GreenTech Recycle,In Progress,Pyrometallurgical,Yes,Low,65.02
+EW_00176,India,2021,Tamil Nadu,Chennai,Charger,HP,HP 4595,1,Damaged,Rubber,0.16,Brominated Flame Retardants,Municipal collection,EcoTech Recycling,In Progress,Chemical,Yes,Medium,0.48
+EW_00177,UK,2021,Liverpool,Liverpool,Camera,Oppo,Oppo 9247,7,Repairable,Ceramic,0.77,Mercury,Retail take-back,Sustainable Electronics,Disposed,Mechanical,No,Low,1.54
+EW_00178,Brazil,2022,SÃ£o Paulo,Salvador,Projector,Samsung,Samsung 8440,5,Obsolete,Rubber,3.95,None,Municipal collection,Sustainable Waste Management,Disposed,Thermal,No,Low,8.69
+EW_00179,China,2022,Beijing,Chengdu,Desktop Computer,HTC,HTC 9787,3,Obsolete,Metal,9.29,Lead,Pick-up service,Global Recycling Solutions,Disposed,Hydrometallurgical,Yes,High,40.88
+EW_00180,Germany,2023,North Rhine-Westphalia,Frankfurt,Game Console,Oppo,Oppo 7864,6,Non-working,Glass,2.52,Cadmium,Pick-up service,GreenTech Recycle,Pending,Thermal,No,Medium,6.05
+EW_00181,France,2021,ÃŽle-de-France,Lyon,CD/DVD Player,BlackBerry,BlackBerry 9220,3,Repairable,Rubber,1.43,Cadmium,Drop-off center,Eco-Friendly Disposal,In Progress,Thermal,Yes,Low,2.86
+EW_00182,Canada,2023,Ontario,Toronto,Drone,Razer,Razer 1086,10,Non-working,Metal,0.73,None,Pick-up service,Green Earth Recycling,Pending,Mechanical,Yes,Low,1.75
+EW_00183,USA,2024,Illinois,Houston,E-reader,OnePlus,OnePlus 8810,9,Repairable,Rubber,0.43,None,Drop-off center,Eco-Friendly Disposal,Recycled,Mechanical,Yes,Low,0.86
+EW_00184,France,2020,Nouvelle-Aquitaine,Toulouse,CD/DVD Player,Motorola,Motorola 6286,2,Damaged,Rubber,1.68,Cadmium,Pick-up service,Green Future Recycling,In Progress,Pyrometallurgical,No,Medium,5.04
+EW_00185,Canada,2021,Ontario,Toronto,CD/DVD Player,HP,HP 9843,2,Obsolete,Rubber,1.13,None,Drop-off center,Sustainable Electronics,Pending,Mechanical,Yes,Low,2.49
+EW_00186,Canada,2021,Ontario,Calgary,Printer,Panasonic,Panasonic 6760,8,Repairable,Rubber,4.35,Cadmium,Pick-up service,Sustainable Electronics,Pending,Chemical,Yes,Low,8.7
+EW_00187,Brazil,2021,Minas Gerais,Rio de Janeiro,Smart Coffee Maker,LG,LG 3698,9,Obsolete,Metal,1.49,Lead,Pick-up service,Sustainable Materials Recovery,Disposed,Mechanical,No,Low,3.28
+EW_00188,Australia,2022,Victoria,Brisbane,MP3 Player,Huawei,Huawei 5341,10,Obsolete,Glass,0.17,Cadmium,Retail take-back,Green Future Recycling,Pending,Mechanical,Yes,Low,0.37
+EW_00189,USA,2022,Florida,Chicago,Mobile Phone,Gateway,Gateway 9265,1,Non-working,Mixed,0.12,None,Pick-up service,EcoTech Recycling,Disposed,Thermal,No,Medium,0.43
+EW_00190,France,2023,ÃŽle-de-France,Lyon,Smart Coffee Maker,HTC,HTC 5298,9,Obsolete,Rubber,1.89,Cadmium,Pick-up service,Green Earth Recycling,Disposed,Hydrometallurgical,Yes,Low,4.16
+EW_00191,UK,2022,London,London,Fax Machine,Amazon,Amazon 3287,8,Damaged,Mixed,4.03,Cadmium,Retail take-back,Green Future Recycling,Disposed,Pyrometallurgical,Yes,Medium,12.09
+EW_00192,UK,2021,Glasgow,Liverpool,Smartwatch,Gateway,Gateway 2030,7,Repairable,Metal,0.08,None,Pick-up service,Sustainable Waste Management,Disposed,Hydrometallurgical,No,Low,0.16
+EW_00193,UK,2021,London,London,Radio,Microsoft,Microsoft 2468,2,Repairable,Ceramic,0.71,Cadmium,Retail take-back,GreenTech Recycle,Disposed,Mechanical,No,Low,1.42
+EW_00194,India,2024,Maharashtra,Delhi,Game Console,Microsoft,Microsoft 4676,1,Repairable,Plastic,2.05,Cadmium,Retail take-back,Eco-Friendly Disposal,Disposed,Thermal,Yes,Low,4.1
+EW_00195,China,2024,Shanghai,Shenzhen,Mouse,Razer,Razer 9021,8,Obsolete,Plastic,0.19,None,Municipal collection,Sustainable Materials Recovery,Disposed,Chemical,Yes,Low,0.42
+EW_00196,France,2024,Nouvelle-Aquitaine,Paris,Smart Oven,Xiaomi,Xiaomi 3334,1,Non-working,Glass,30.47,Lead,Municipal collection,Green Future Recycling,Pending,Thermal,No,Medium,73.13
+EW_00197,Australia,2020,Victoria,Brisbane,Smart Thermostat,Amazon,Amazon 3767,1,Obsolete,Plastic,0.35,None,Retail take-back,Global Recycling Solutions,Recycled,Chemical,Yes,Low,0.77
+EW_00198,France,2022,Auvergne-RhÃ´ne-Alpes,Paris,GPS Device,Vivo,Vivo 7288,3,Obsolete,Mixed,0.24,Brominated Flame Retardants,Retail take-back,GreenTech Recycle,Disposed,Thermal,Yes,Low,0.53
+EW_00199,Brazil,2022,SÃ£o Paulo,SÃ£o Paulo,Smart Home Device,Google,Google 4719,8,Obsolete,Mixed,0.27,Mercury,Retail take-back,Sustainable Materials Recovery,In Progress,Thermal,No,Low,0.59
+EW_00200,Japan,2022,Fukuoka,Sapporo,Camera,Vivo,Vivo 6661,7,Repairable,Glass,0.65,None,Municipal collection,Eco-Friendly Disposal,In Progress,Hydrometallurgical,Yes,Low,1.3
+EW_00201,India,2022,Delhi,Delhi,Smart Smoke Detector,Google,Google 6432,6,Repairable,Ceramic,0.38,Brominated Flame Retardants,Pick-up service,Eco-Friendly Disposal,Recycled,Hydrometallurgical,No,Low,0.76
+EW_00202,France,2022,Occitanie,Marseille,Router,OnePlus,OnePlus 7243,3,Working,Metal,0.52,None,Drop-off center,Green Earth Recycling,In Progress,Pyrometallurgical,No,Low,1.04
+EW_00203,Australia,2022,South Australia,Sydney,Smart Dishwasher,Oppo,Oppo 6378,1,Obsolete,Metal,30.35,Lead,Retail take-back,Green Future Recycling,Recycled,Mechanical,No,Medium,66.77
+EW_00204,China,2023,Beijing,Shanghai,Headphones,Motorola,Motorola 8617,2,Repairable,Plastic,0.31,Mercury,Municipal collection,Sustainable Electronics,Disposed,Chemical,Yes,Low,0.62
+EW_00205,France,2024,Provence-Alpes-CÃ´te d'Azur,Marseille,Smart Garage Door Opener,Razer,Razer 7410,1,Damaged,Metal,0.64,Brominated Flame Retardants,Drop-off center,EcoRecyclers Inc.,Disposed,Mechanical,No,Medium,1.92
+EW_00206,France,2023,Auvergne-RhÃ´ne-Alpes,Marseille,MP3 Player,Gateway,Gateway 6524,1,Repairable,Plastic,0.26,Brominated Flame Retardants,Municipal collection,EcoTech Recycling,Pending,Chemical,Yes,Low,0.52
+EW_00207,Australia,2022,Queensland,Sydney,Smart Scale,Acer,Acer 4455,2,Non-working,Rubber,0.36,None,Pick-up service,Sustainable Waste Management,Recycled,Thermal,Yes,Low,0.86
+EW_00208,India,2024,Maharashtra,Chennai,Mobile Phone,Motorola,Motorola 4017,2,Obsolete,Mixed,0.15,Cadmium,Municipal collection,Green Earth Recycling,In Progress,Pyrometallurgical,Yes,Low,0.49
+EW_00209,India,2022,Gujarat,Kolkata,Keyboard,Asus,Asus 4787,5,Repairable,Plastic,0.52,Mercury,Municipal collection,Global Recycling Solutions,Disposed,Thermal,No,Low,1.04
+EW_00210,Germany,2023,Hamburg,Munich,Speakers,Asus,Asus 1988,5,Repairable,Ceramic,2.55,Cadmium,Retail take-back,EcoTech Recycling,Recycled,Pyrometallurgical,Yes,Low,5.1
+EW_00211,Australia,2023,Queensland,Sydney,Smart Garage Door Opener,MSI,MSI 6424,10,Repairable,Glass,0.71,Mercury,Pick-up service,Sustainable Materials Recovery,Disposed,Mechanical,Yes,Low,1.42
+EW_00212,Brazil,2023,ParanÃ¡,SÃ£o Paulo,Smart Home Device,Microsoft,Microsoft 2909,3,Repairable,Ceramic,0.17,Cadmium,Municipal collection,Green Earth Recycling,In Progress,Chemical,Yes,Low,0.34
+EW_00213,Germany,2023,Hamburg,Hamburg,Keyboard,ZTE,ZTE 6789,7,Working,Glass,0.83,None,Pick-up service,Sustainable Electronics,Pending,Hydrometallurgical,No,Low,1.66
+EW_00214,Australia,2021,New South Wales,Brisbane,Smart Home Device,Asus,Asus 4141,3,Non-working,Ceramic,0.14,Mercury,Municipal collection,Global Recycling Solutions,In Progress,Thermal,Yes,Low,0.34
+EW_00215,USA,2023,New York,Houston,Calculator,Vivo,Vivo 4349,6,Damaged,Glass,0.17,Cadmium,Retail take-back,Eco-Friendly Disposal,Disposed,Thermal,No,Medium,0.51
+EW_00216,Brazil,2023,ParanÃ¡,Salvador,Speakers,Xiaomi,Xiaomi 1386,8,Damaged,Mixed,2.34,Lead,Pick-up service,Green Future Recycling,In Progress,Pyrometallurgical,Yes,Medium,7.02
+EW_00217,China,2020,Beijing,Shenzhen,VR Headset,Samsung,Samsung 2760,8,Obsolete,Metal,0.96,Brominated Flame Retardants,Retail take-back,Eco-Friendly Disposal,In Progress,Thermal,No,Low,2.11
+EW_00218,France,2022,Occitanie,Marseille,Smartwatch,Nokia,Nokia 2615,9,Damaged,Metal,0.08,Brominated Flame Retardants,Drop-off center,Sustainable Waste Management,In Progress,Pyrometallurgical,Yes,Medium,0.24
+EW_00219,France,2023,Auvergne-RhÃ´ne-Alpes,Paris,Smart Water Leak Detector,Panasonic,Panasonic 6594,1,Damaged,Rubber,0.3,Mercury,Municipal collection,Green Earth Recycling,In Progress,Chemical,No,Medium,0.9
+EW_00220,Japan,2023,Aichi,Nagoya,Scanner,Samsung,Samsung 3038,3,Working,Metal,2.46,Brominated Flame Retardants,Retail take-back,EcoRecyclers Inc.,Pending,Pyrometallurgical,Yes,Low,4.92
+EW_00221,USA,2021,New York,Los Angeles,Scanner,Samsung,Samsung 1247,7,Damaged,Plastic,4.39,Cadmium,Pick-up service,Green Earth Recycling,Disposed,Chemical,No,Medium,13.17
+EW_00222,Brazil,2024,Bahia,Salvador,Projector,Amazon,Amazon 2184,3,Working,Glass,3.49,None,Municipal collection,Green Future Recycling,In Progress,Hydrometallurgical,Yes,Low,6.98
+EW_00223,Germany,2023,Hesse,Hamburg,MP3 Player,ZTE,ZTE 3066,1,Damaged,Glass,0.26,Brominated Flame Retardants,Municipal collection,EcoTech Recycling,Pending,Mechanical,No,Medium,0.78
+EW_00224,Australia,2020,Queensland,Perth,Printer,Samsung,Samsung 2553,10,Obsolete,Glass,3.39,None,Drop-off center,Global Recycling Solutions,Recycled,Hydrometallurgical,Yes,Low,7.46
+EW_00225,Germany,2020,Hesse,Frankfurt,Projector,Apple,Apple 2978,8,Working,Rubber,2.75,Mercury,Retail take-back,Sustainable Electronics,Pending,Pyrometallurgical,Yes,Low,5.5
+EW_00226,Germany,2021,Hamburg,Hamburg,Laptop,Asus,Asus 3859,9,Repairable,Glass,2.71,Lead,Drop-off center,EcoRecyclers Inc.,Disposed,Hydrometallurgical,No,Low,8.13
+EW_00227,UK,2023,Liverpool,Glasgow,Charger,Fujitsu,Fujitsu 1470,4,Obsolete,Rubber,0.14,Lead,Retail take-back,Green Future Recycling,Pending,Hydrometallurgical,No,Low,0.31
+EW_00228,France,2021,ÃŽle-de-France,Lyon,GPS Device,Oppo,Oppo 8631,6,Damaged,Mixed,0.3,None,Pick-up service,EcoRecyclers Inc.,Disposed,Hydrometallurgical,Yes,Medium,0.9
+EW_00229,USA,2022,Texas,Los Angeles,Speakers,Lenovo,Lenovo 1519,4,Repairable,Rubber,1.5,Mercury,Pick-up service,EcoRecyclers Inc.,Recycled,Mechanical,No,Low,3
+EW_00230,India,2020,Karnataka,Bangalore,Fax Machine,ZTE,ZTE 6061,6,Working,Rubber,5.24,Cadmium,Municipal collection,EcoTech Recycling,Recycled,Pyrometallurgical,No,Low,10.48
+EW_00231,Japan,2023,Hokkaido,Sapporo,Smart Mirror,Sony,Sony 7736,3,Repairable,Plastic,1.56,Brominated Flame Retardants,Pick-up service,Sustainable Electronics,Pending,Thermal,No,Low,3.12
+EW_00232,India,2024,Maharashtra,Chennai,E-reader,Motorola,Motorola 4178,3,Repairable,Mixed,0.29,None,Pick-up service,Sustainable Electronics,Recycled,Chemical,Yes,Low,0.58
+EW_00233,Canada,2021,Quebec,Edmonton,Laptop,Nokia,Nokia 2473,3,Non-working,Ceramic,2.78,Cadmium,Municipal collection,Green Earth Recycling,In Progress,Thermal,Yes,Medium,10.01
+EW_00234,China,2021,Guangdong,Shenzhen,GPS Device,BlackBerry,BlackBerry 3777,4,Working,Mixed,0.37,Mercury,Pick-up service,Sustainable Waste Management,In Progress,Pyrometallurgical,No,Low,0.74
+EW_00235,France,2021,Nouvelle-Aquitaine,Toulouse,Charger,OnePlus,OnePlus 6152,10,Repairable,Rubber,0.11,Lead,Retail take-back,EcoTech Recycling,Recycled,Hydrometallurgical,No,Low,0.22
+EW_00236,Japan,2023,Osaka,Sapporo,Smart Refrigerator,Xiaomi,Xiaomi 6302,6,Damaged,Glass,66.4,Mercury,Pick-up service,GreenTech Recycle,In Progress,Mechanical,Yes,High,398.4
+EW_00237,Japan,2022,Tokyo,Sapporo,Power Bank,ZTE,ZTE 4759,6,Non-working,Metal,0.41,Mercury,Retail take-back,EcoRecyclers Inc.,In Progress,Chemical,Yes,Low,0.98
+EW_00238,UK,2022,Liverpool,London,Keyboard,Microsoft,Microsoft 6518,8,Repairable,Glass,0.77,Brominated Flame Retardants,Retail take-back,Sustainable Materials Recovery,In Progress,Chemical,Yes,Low,1.54
+EW_00239,UK,2023,Manchester,London,Calculator,Xiaomi,Xiaomi 6153,1,Repairable,Rubber,0.22,Lead,Pick-up service,GreenTech Recycle,Disposed,Hydrometallurgical,No,Low,0.44
+EW_00240,Brazil,2022,Rio de Janeiro,Belo Horizonte,Smart Thermostat,Huawei,Huawei 3952,9,Non-working,Mixed,0.47,None,Drop-off center,Sustainable Electronics,In Progress,Thermal,No,Low,1.13
+EW_00241,Canada,2020,British Columbia,Calgary,Monitor,Lenovo,Lenovo 6508,1,Damaged,Mixed,4.38,Brominated Flame Retardants,Municipal collection,Global Recycling Solutions,Recycled,Hydrometallurgical,No,Medium,13.14
+EW_00242,Canada,2023,Quebec,Vancouver,Smart Dishwasher,Apple,Apple 3175,9,Working,Ceramic,46.38,Mercury,Municipal collection,Sustainable Electronics,In Progress,Pyrometallurgical,No,Low,92.76
+EW_00243,India,2024,Gujarat,Mumbai,Smart Plug,Nokia,Nokia 5210,1,Non-working,Metal,0.26,Lead,Municipal collection,Global Recycling Solutions,Pending,Chemical,Yes,Low,0.62
+EW_00244,Canada,2022,Ontario,Montreal,Smart Lock,Acer,Acer 4359,6,Non-working,Ceramic,0.62,Brominated Flame Retardants,Municipal collection,Sustainable Materials Recovery,In Progress,Chemical,Yes,Low,1.49
+EW_00245,Canada,2022,British Columbia,Vancouver,Smart Lock,Gateway,Gateway 9308,10,Working,Rubber,0.45,Mercury,Drop-off center,Eco-Friendly Disposal,Disposed,Thermal,Yes,Low,0.9
+EW_00246,China,2024,Shanghai,Beijing,Smart Dishwasher,LG,LG 3471,10,Obsolete,Rubber,36.79,Mercury,Retail take-back,Green Earth Recycling,Pending,Hydrometallurgical,No,Medium,80.94
+EW_00247,Brazil,2020,Bahia,SÃ£o Paulo,Game Console,LG,LG 8676,2,Repairable,Metal,1.67,None,Pick-up service,Global Recycling Solutions,In Progress,Hydrometallurgical,Yes,Low,3.34
+EW_00248,Germany,2023,North Rhine-Westphalia,Berlin,External Hard Drive,Oppo,Oppo 5223,8,Obsolete,Mixed,0.6,Lead,Municipal collection,Eco-Friendly Disposal,Recycled,Hydrometallurgical,Yes,Low,1.32
+EW_00249,Japan,2022,Hokkaido,Osaka,VR Headset,Dell,Dell 9924,6,Working,Ceramic,0.85,Cadmium,Municipal collection,EcoTech Recycling,Recycled,Mechanical,Yes,Low,1.7
+EW_00250,China,2023,Beijing,Shenzhen,Television,MSI,MSI 1650,10,Damaged,Mixed,22.69,Cadmium,Drop-off center,GreenTech Recycle,Disposed,Hydrometallurgical,Yes,High,136.14
+EW_00251,USA,2023,Texas,Los Angeles,Smart Water Leak Detector,HP,HP 1241,5,Damaged,Mixed,0.19,Brominated Flame Retardants,Retail take-back,Green Future Recycling,In Progress,Thermal,No,Medium,0.57
+EW_00252,Canada,2024,Manitoba,Edmonton,Radio,HTC,HTC 1533,9,Damaged,Mixed,0.86,Lead,Drop-off center,Sustainable Waste Management,In Progress,Thermal,Yes,Medium,2.58
+EW_00253,Brazil,2024,Bahia,Salvador,Smart Thermostat,Razer,Razer 7768,4,Working,Mixed,0.43,Cadmium,Municipal collection,GreenTech Recycle,Pending,Mechanical,Yes,Low,0.86
+EW_00254,Japan,2021,Fukuoka,Yokohama,External Hard Drive,Dell,Dell 6115,8,Obsolete,Metal,0.47,Cadmium,Retail take-back,GreenTech Recycle,Disposed,Mechanical,No,Low,1.03
+EW_00255,China,2021,Sichuan,Shenzhen,Television,Google,Google 2112,2,Damaged,Rubber,19.06,Brominated Flame Retardants,Municipal collection,GreenTech Recycle,Recycled,Mechanical,No,High,114.36
+EW_00256,USA,2024,New York,New York,Smart Smoke Detector,Nokia,Nokia 5057,7,Non-working,Plastic,0.33,Brominated Flame Retardants,Municipal collection,Green Earth Recycling,Recycled,Pyrometallurgical,No,Low,0.79
+EW_00257,Germany,2021,Berlin,Berlin,Laptop,HTC,HTC 8985,5,Repairable,Glass,1.95,None,Municipal collection,Global Recycling Solutions,In Progress,Mechanical,No,Low,5.85
+EW_00258,Canada,2020,British Columbia,Calgary,Tablet,Razer,Razer 5503,9,Obsolete,Plastic,0.4,Mercury,Municipal collection,Green Earth Recycling,Recycled,Mechanical,Yes,Low,1.32
+EW_00259,France,2020,ÃŽle-de-France,Marseille,Fax Machine,Sony,Sony 4069,4,Obsolete,Metal,5.27,Lead,Drop-off center,GreenTech Recycle,Disposed,Thermal,Yes,Medium,11.59
+EW_00260,UK,2021,Glasgow,London,Power Bank,Gateway,Gateway 3833,9,Repairable,Plastic,0.3,Cadmium,Pick-up service,Sustainable Electronics,In Progress,Pyrometallurgical,Yes,Low,0.6
+EW_00261,USA,2020,Florida,New York,Smart Lock,Google,Google 6121,10,Repairable,Ceramic,0.68,Lead,Pick-up service,Green Earth Recycling,Pending,Mechanical,Yes,Low,1.36
+EW_00262,UK,2024,Liverpool,Glasgow,Smart Thermostat,HTC,HTC 4330,10,Damaged,Rubber,0.4,Brominated Flame Retardants,Retail take-back,Sustainable Waste Management,In Progress,Pyrometallurgical,Yes,Medium,1.2
+EW_00263,Canada,2022,Ontario,Montreal,Smart Sprinkler Controller,Nokia,Nokia 4181,10,Non-working,Plastic,0.75,Mercury,Pick-up service,EcoRecyclers Inc.,Recycled,Chemical,Yes,Low,1.8
+EW_00264,France,2024,ÃŽle-de-France,Bordeaux,Smart Smoke Detector,Amazon,Amazon 8966,5,Non-working,Mixed,0.26,Lead,Pick-up service,Green Future Recycling,Disposed,Thermal,No,Low,0.62
+EW_00265,France,2022,Nouvelle-Aquitaine,Marseille,Mouse,Vivo,Vivo 7929,2,Repairable,Rubber,0.22,Mercury,Municipal collection,Green Future Recycling,In Progress,Chemical,No,Low,0.44
+EW_00266,UK,2023,Liverpool,Birmingham,Smart Lock,MSI,MSI 3442,1,Obsolete,Glass,0.49,Mercury,Municipal collection,Green Earth Recycling,Recycled,Mechanical,Yes,Low,1.08
+EW_00267,USA,2023,New York,Los Angeles,Smart Doorbell,Samsung,Samsung 1838,9,Non-working,Mixed,0.2,None,Pick-up service,Green Earth Recycling,Pending,Chemical,Yes,Low,0.48
+EW_00268,India,2020,Tamil Nadu,Kolkata,VR Headset,OnePlus,OnePlus 5329,4,Obsolete,Rubber,0.95,Brominated Flame Retardants,Municipal collection,Global Recycling Solutions,In Progress,Hydrometallurgical,No,Low,2.09
+EW_00269,Brazil,2023,ParanÃ¡,Belo Horizonte,Smart Garage Door Opener,LG,LG 8986,5,Non-working,Rubber,0.64,Cadmium,Pick-up service,Sustainable Electronics,Pending,Pyrometallurgical,No,Low,1.54
+EW_00270,Canada,2024,Alberta,Edmonton,VR Headset,Google,Google 3009,6,Working,Ceramic,0.78,Cadmium,Municipal collection,EcoTech Recycling,Recycled,Mechanical,No,Low,1.56
+EW_00271,Canada,2020,British Columbia,Montreal,Laptop,Sony,Sony 1379,9,Damaged,Glass,1.68,Mercury,Pick-up service,EcoRecyclers Inc.,In Progress,Chemical,Yes,Medium,7.56
+EW_00272,India,2023,Tamil Nadu,Kolkata,Smart Oven,Microsoft,Microsoft 9665,3,Non-working,Mixed,37.2,Cadmium,Retail take-back,EcoRecyclers Inc.,Recycled,Pyrometallurgical,Yes,Medium,89.28
+EW_00273,China,2023,Guangdong,Beijing,Smart Smoke Detector,HP,HP 4229,2,Working,Rubber,0.47,Lead,Pick-up service,EcoTech Recycling,Recycled,Thermal,Yes,Low,0.94
+EW_00274,Germany,2023,Berlin,Cologne,Security Camera,Xiaomi,Xiaomi 6210,6,Obsolete,Metal,0.71,Cadmium,Pick-up service,Sustainable Waste Management,Pending,Mechanical,Yes,Low,1.56
+EW_00275,Canada,2021,Alberta,Montreal,Desktop Computer,Acer,Acer 7371,4,Non-working,Metal,7.3,Cadmium,Pick-up service,Global Recycling Solutions,In Progress,Pyrometallurgical,Yes,High,35.04
+EW_00276,Canada,2023,British Columbia,Calgary,Smart Sprinkler Controller,Nokia,Nokia 6655,2,Repairable,Mixed,0.31,Lead,Pick-up service,Eco-Friendly Disposal,In Progress,Hydrometallurgical,No,Low,0.62
+EW_00277,India,2021,Tamil Nadu,Bangalore,Smart Refrigerator,Amazon,Amazon 7989,7,Non-working,Ceramic,82.81,Cadmium,Drop-off center,Global Recycling Solutions,Disposed,Thermal,Yes,High,397.49
+EW_00278,France,2023,Occitanie,Toulouse,Smart Lock,Oppo,Oppo 4673,9,Repairable,Plastic,0.78,Brominated Flame Retardants,Retail take-back,Sustainable Materials Recovery,Recycled,Pyrometallurgical,Yes,Low,1.56
+EW_00279,UK,2022,Glasgow,Manchester,CD/DVD Player,Amazon,Amazon 2312,5,Repairable,Mixed,1.71,Cadmium,Retail take-back,Sustainable Electronics,Pending,Pyrometallurgical,No,Low,3.42
+EW_00280,UK,2024,Birmingham,London,Smart Dishwasher,Microsoft,Microsoft 3753,2,Working,Rubber,43.1,Mercury,Retail take-back,EcoRecyclers Inc.,Recycled,Pyrometallurgical,No,Low,86.2
+EW_00281,France,2023,Nouvelle-Aquitaine,Paris,Projector,Motorola,Motorola 3253,4,Repairable,Metal,3.12,Mercury,Drop-off center,Green Earth Recycling,In Progress,Pyrometallurgical,Yes,Low,6.24
+EW_00282,UK,2020,Birmingham,Liverpool,Calculator,Acer,Acer 9038,7,Working,Plastic,0.29,Cadmium,Municipal collection,GreenTech Recycle,In Progress,Chemical,No,Low,0.58
+EW_00283,UK,2020,Glasgow,Manchester,Smart Garage Door Opener,Razer,Razer 1619,7,Damaged,Glass,0.77,Mercury,Drop-off center,Eco-Friendly Disposal,Disposed,Pyrometallurgical,Yes,Medium,2.31
+EW_00284,Canada,2022,Alberta,Edmonton,Smart Water Leak Detector,Nokia,Nokia 3174,7,Non-working,Plastic,0.29,None,Retail take-back,Green Future Recycling,In Progress,Mechanical,Yes,Low,0.7
+EW_00285,China,2021,Beijing,Beijing,Fax Machine,HTC,HTC 8481,9,Obsolete,Ceramic,4.08,None,Retail take-back,Sustainable Materials Recovery,Pending,Chemical,Yes,Low,8.98
+EW_00286,USA,2024,Florida,Chicago,Smartwatch,Huawei,Huawei 8771,4,Damaged,Ceramic,0.12,Brominated Flame Retardants,Drop-off center,Global Recycling Solutions,Disposed,Thermal,Yes,Medium,0.36
+EW_00287,UK,2021,Glasgow,Liverpool,Printer,Huawei,Huawei 5209,8,Non-working,Metal,7.11,Brominated Flame Retardants,Pick-up service,Sustainable Electronics,In Progress,Thermal,Yes,Medium,17.06
+EW_00288,USA,2022,Texas,Houston,Calculator,Asus,Asus 6727,7,Non-working,Mixed,0.22,Cadmium,Municipal collection,Sustainable Materials Recovery,Pending,Hydrometallurgical,No,Low,0.53
+EW_00289,India,2020,Tamil Nadu,Chennai,Digital Clock,Vivo,Vivo 8844,1,Non-working,Plastic,0.23,Mercury,Pick-up service,Green Earth Recycling,Pending,Thermal,Yes,Low,0.55
+EW_00290,Japan,2020,Osaka,Tokyo,Smart Door Sensor,Razer,Razer 4999,3,Damaged,Metal,0.29,Lead,Retail take-back,GreenTech Recycle,In Progress,Chemical,No,Medium,0.87
+EW_00291,Canada,2020,British Columbia,Calgary,Smart Coffee Maker,Motorola,Motorola 9863,7,Non-working,Plastic,1.1,Mercury,Pick-up service,Eco-Friendly Disposal,In Progress,Hydrometallurgical,No,Low,2.64
+EW_00292,UK,2020,Manchester,London,Fax Machine,Google,Google 6566,9,Damaged,Glass,4.62,Cadmium,Municipal collection,EcoRecyclers Inc.,In Progress,Chemical,No,Medium,13.86
+EW_00293,USA,2023,Texas,New York,Mobile Phone,OnePlus,OnePlus 6013,4,Obsolete,Mixed,0.16,None,Pick-up service,Green Earth Recycling,Pending,Chemical,Yes,Low,0.53
+EW_00294,India,2021,Delhi,Kolkata,Television,Google,Google 9564,9,Damaged,Metal,24.12,Lead,Retail take-back,Sustainable Waste Management,Recycled,Hydrometallurgical,Yes,High,144.72
+EW_00295,Brazil,2024,Minas Gerais,SÃ£o Paulo,Laptop,Microsoft,Microsoft 9952,4,Repairable,Glass,1.7,Brominated Flame Retardants,Drop-off center,EcoTech Recycling,In Progress,Mechanical,No,Low,5.1
+EW_00296,UK,2022,Birmingham,London,Smart Window Blinds,LG,LG 1312,7,Repairable,Rubber,1.46,Lead,Municipal collection,GreenTech Recycle,Disposed,Chemical,Yes,Low,2.92
+EW_00297,Brazil,2022,SÃ£o Paulo,Rio de Janeiro,Smart Mirror,LG,LG 4456,4,Damaged,Ceramic,1.03,Lead,Drop-off center,Eco-Friendly Disposal,In Progress,Thermal,No,Medium,3.09
+EW_00298,India,2024,Tamil Nadu,Chennai,Monitor,Google,Google 6605,7,Damaged,Plastic,4.73,Cadmium,Retail take-back,EcoTech Recycling,Disposed,Chemical,Yes,Medium,14.19
+EW_00299,China,2024,Sichuan,Chengdu,Smart Plug,Nokia,Nokia 5462,8,Non-working,Ceramic,0.27,None,Retail take-back,Global Recycling Solutions,Pending,Hydrometallurgical,Yes,Low,0.65
+EW_00300,Canada,2020,British Columbia,Edmonton,Security Camera,Motorola,Motorola 8130,6,Damaged,Glass,0.57,Lead,Pick-up service,EcoTech Recycling,Pending,Pyrometallurgical,No,Medium,1.71
+EW_00301,Japan,2021,Tokyo,Nagoya,Desktop Computer,Samsung,Samsung 4120,4,Obsolete,Glass,7.48,Cadmium,Drop-off center,EcoTech Recycling,In Progress,Pyrometallurgical,No,High,32.91
+EW_00302,China,2020,Sichuan,Beijing,Monitor,Gateway,Gateway 2930,1,Repairable,Ceramic,2.83,Cadmium,Municipal collection,Green Future Recycling,Disposed,Chemical,Yes,Low,5.66
+EW_00303,China,2024,Shanghai,Chengdu,CD/DVD Player,HP,HP 2897,5,Repairable,Rubber,1.99,None,Drop-off center,EcoTech Recycling,In Progress,Thermal,Yes,Low,3.98
+EW_00304,Australia,2021,New South Wales,Sydney,Smart Water Leak Detector,HTC,HTC 4787,3,Damaged,Ceramic,0.29,Brominated Flame Retardants,Drop-off center,Sustainable Waste Management,In Progress,Thermal,Yes,Medium,0.87
+EW_00305,Germany,2024,Bavaria,Hamburg,Smart Scale,Amazon,Amazon 9292,2,Working,Mixed,0.27,Mercury,Retail take-back,Sustainable Electronics,Disposed,Pyrometallurgical,Yes,Low,0.54
+EW_00306,Brazil,2022,ParanÃ¡,Curitiba,Fax Machine,Amazon,Amazon 7608,7,Repairable,Metal,5.95,Mercury,Drop-off center,Eco-Friendly Disposal,In Progress,Pyrometallurgical,No,Low,11.9
+EW_00307,Australia,2024,New South Wales,Melbourne,VR Headset,Xiaomi,Xiaomi 6774,1,Non-working,Mixed,0.65,Cadmium,Retail take-back,Green Future Recycling,Recycled,Hydrometallurgical,No,Low,1.56
+EW_00308,Canada,2020,Alberta,Toronto,Projector,Xiaomi,Xiaomi 5023,5,Obsolete,Glass,2.33,None,Drop-off center,Sustainable Waste Management,Recycled,Mechanical,Yes,Low,5.13
+EW_00309,Germany,2020,Bavaria,Munich,Calculator,Gateway,Gateway 8713,10,Obsolete,Plastic,0.27,Lead,Retail take-back,Sustainable Electronics,Recycled,Thermal,No,Low,0.59
+EW_00310,Germany,2021,Berlin,Berlin,Smart Light Bulb,BlackBerry,BlackBerry 6340,8,Working,Glass,0.21,Cadmium,Retail take-back,Sustainable Materials Recovery,In Progress,Pyrometallurgical,No,Low,0.42
+EW_00311,Germany,2022,Hamburg,Frankfurt,Tablet,Vivo,Vivo 1712,8,Non-working,Glass,0.44,Brominated Flame Retardants,Drop-off center,Global Recycling Solutions,Disposed,Chemical,No,Medium,1.58
+EW_00312,France,2022,Provence-Alpes-CÃ´te d'Azur,Bordeaux,Game Console,Toshiba,Toshiba 1345,5,Repairable,Rubber,2.47,Mercury,Pick-up service,Global Recycling Solutions,Recycled,Chemical,Yes,Low,4.94
+EW_00313,Germany,2022,Bavaria,Berlin,Smart Garage Door Opener,Fujitsu,Fujitsu 2499,5,Obsolete,Ceramic,0.92,None,Municipal collection,Sustainable Electronics,Disposed,Pyrometallurgical,Yes,Low,2.02
+EW_00314,Canada,2020,Quebec,Edmonton,USB Drive,HP,HP 2296,8,Non-working,Mixed,0.12,None,Municipal collection,Eco-Friendly Disposal,In Progress,Mechanical,No,Low,0.29
+EW_00315,Japan,2020,Osaka,Yokohama,Smart Mirror,MSI,MSI 3840,5,Working,Rubber,2.45,Brominated Flame Retardants,Retail take-back,EcoRecyclers Inc.,Recycled,Chemical,Yes,Low,4.9
+EW_00316,UK,2021,London,Manchester,GPS Device,MSI,MSI 5908,4,Damaged,Metal,0.45,Mercury,Drop-off center,Sustainable Materials Recovery,Recycled,Mechanical,Yes,Medium,1.35
+EW_00317,Germany,2023,Hesse,Cologne,Smart Mirror,Huawei,Huawei 8476,9,Obsolete,Rubber,2.62,Lead,Pick-up service,Eco-Friendly Disposal,Disposed,Hydrometallurgical,No,Low,5.76
+EW_00318,Canada,2020,British Columbia,Toronto,Smart Coffee Maker,Dell,Dell 7854,1,Repairable,Ceramic,1.56,Mercury,Drop-off center,Sustainable Materials Recovery,Recycled,Mechanical,No,Low,3.12
+EW_00319,Australia,2021,Western Australia,Sydney,GPS Device,Razer,Razer 1344,2,Working,Mixed,0.35,Lead,Municipal collection,Eco-Friendly Disposal,Recycled,Hydrometallurgical,No,Low,0.7
+EW_00320,Brazil,2024,Minas Gerais,Salvador,Smart Coffee Maker,Motorola,Motorola 7258,2,Damaged,Glass,1.74,None,Retail take-back,Eco-Friendly Disposal,Pending,Pyrometallurgical,Yes,Medium,5.22
+EW_00321,USA,2024,California,Phoenix,CD/DVD Player,Gateway,Gateway 5765,2,Damaged,Glass,1.46,Mercury,Drop-off center,Green Future Recycling,Pending,Mechanical,Yes,Medium,4.38
+EW_00322,France,2024,Occitanie,Bordeaux,Router,Fujitsu,Fujitsu 8048,8,Repairable,Ceramic,0.78,Lead,Retail take-back,Global Recycling Solutions,Disposed,Thermal,No,Low,1.56
+EW_00323,Germany,2023,Bavaria,Berlin,Smart Door Sensor,Gateway,Gateway 8418,4,Repairable,Rubber,0.19,None,Municipal collection,Eco-Friendly Disposal,Disposed,Pyrometallurgical,No,Low,0.38
+EW_00324,Germany,2020,Berlin,Frankfurt,VR Headset,HP,HP 5499,2,Repairable,Rubber,0.78,Brominated Flame Retardants,Municipal collection,EcoRecyclers Inc.,Disposed,Mechanical,No,Low,1.56
+EW_00325,UK,2021,Birmingham,Glasgow,E-reader,HP,HP 9026,1,Working,Glass,0.25,Lead,Municipal collection,Sustainable Electronics,In Progress,Hydrometallurgical,No,Low,0.5
+EW_00326,Australia,2021,Victoria,Adelaide,Power Bank,Amazon,Amazon 6088,5,Obsolete,Plastic,0.3,Mercury,Pick-up service,Green Earth Recycling,Pending,Chemical,Yes,Low,0.66
+EW_00327,Canada,2022,Manitoba,Vancouver,CD/DVD Player,Amazon,Amazon 1940,2,Repairable,Ceramic,1.18,Brominated Flame Retardants,Drop-off center,Global Recycling Solutions,In Progress,Mechanical,Yes,Low,2.36
+EW_00328,Brazil,2022,Bahia,Salvador,Charger,HP,HP 5404,10,Repairable,Rubber,0.16,Mercury,Drop-off center,Eco-Friendly Disposal,Pending,Mechanical,Yes,Low,0.32
+EW_00329,Australia,2024,Western Australia,Brisbane,Security Camera,Samsung,Samsung 7084,10,Non-working,Plastic,0.33,None,Municipal collection,Green Earth Recycling,Pending,Thermal,Yes,Low,0.79
+EW_00330,Germany,2023,Hamburg,Cologne,MP3 Player,Nokia,Nokia 7309,8,Repairable,Ceramic,0.11,None,Pick-up service,Sustainable Waste Management,Disposed,Thermal,No,Low,0.22
+EW_00331,China,2021,Shanghai,Shanghai,Smartwatch,Dell,Dell 7488,6,Obsolete,Mixed,0.06,None,Pick-up service,EcoTech Recycling,Recycled,Chemical,No,Low,0.13
+EW_00332,UK,2024,London,Liverpool,Desktop Computer,Huawei,Huawei 1951,10,Working,Ceramic,10,None,Municipal collection,EcoRecyclers Inc.,Pending,Pyrometallurgical,No,Medium,40
+EW_00333,Canada,2022,Alberta,Vancouver,USB Drive,HP,HP 7593,8,Working,Mixed,0.15,Lead,Pick-up service,EcoRecyclers Inc.,In Progress,Thermal,No,Low,0.3
+EW_00334,Germany,2020,Hamburg,Hamburg,Smart Coffee Maker,Oppo,Oppo 4427,4,Non-working,Rubber,1.72,Mercury,Pick-up service,Sustainable Electronics,In Progress,Chemical,Yes,Low,4.13
+EW_00335,India,2024,Maharashtra,Chennai,Smart Smoke Detector,OnePlus,OnePlus 1964,9,Working,Plastic,0.22,Lead,Pick-up service,Sustainable Materials Recovery,Recycled,Hydrometallurgical,No,Low,0.44
+EW_00336,Germany,2020,North Rhine-Westphalia,Hamburg,Game Console,OnePlus,OnePlus 6331,8,Damaged,Rubber,2.08,Mercury,Pick-up service,GreenTech Recycle,Pending,Chemical,Yes,Medium,6.24
+EW_00337,Japan,2024,Hokkaido,Osaka,USB Drive,Xiaomi,Xiaomi 7144,4,Repairable,Rubber,0.11,Cadmium,Drop-off center,Eco-Friendly Disposal,In Progress,Pyrometallurgical,Yes,Low,0.22
+EW_00338,India,2020,Gujarat,Bangalore,E-reader,Oppo,Oppo 1675,9,Obsolete,Mixed,0.44,Mercury,Municipal collection,EcoTech Recycling,In Progress,Thermal,No,Low,0.97
+EW_00339,Brazil,2023,SÃ£o Paulo,Belo Horizonte,Calculator,BlackBerry,BlackBerry 3302,9,Non-working,Metal,0.24,Cadmium,Retail take-back,Sustainable Electronics,Recycled,Thermal,No,Low,0.58
+EW_00340,India,2022,Tamil Nadu,Delhi,Smart Refrigerator,Sony,Sony 9872,7,Working,Glass,93.3,Cadmium,Pick-up service,Sustainable Materials Recovery,Disposed,Pyrometallurgical,Yes,Medium,373.2
+EW_00341,India,2020,Gujarat,Chennai,Smartwatch,Asus,Asus 3588,7,Damaged,Metal,0.07,Brominated Flame Retardants,Drop-off center,GreenTech Recycle,Recycled,Chemical,No,Medium,0.21
+EW_00342,China,2024,Zhejiang,Beijing,VR Headset,Microsoft,Microsoft 7760,8,Repairable,Mixed,0.8,Brominated Flame Retardants,Pick-up service,Sustainable Electronics,Disposed,Hydrometallurgical,Yes,Low,1.6
+EW_00343,India,2024,Gujarat,Delhi,Monitor,MSI,MSI 5923,7,Repairable,Ceramic,4.52,Mercury,Retail take-back,Green Future Recycling,Pending,Chemical,No,Low,9.04
+EW_00344,USA,2023,Texas,Los Angeles,Calculator,Toshiba,Toshiba 7236,9,Working,Ceramic,0.14,None,Retail take-back,Sustainable Materials Recovery,Recycled,Chemical,No,Low,0.28
+EW_00345,Japan,2021,Osaka,Osaka,Smart Mirror,Amazon,Amazon 6974,3,Damaged,Plastic,2.27,Brominated Flame Retardants,Pick-up service,Sustainable Waste Management,Disposed,Chemical,Yes,Medium,6.81
+EW_00346,Brazil,2022,Bahia,Rio de Janeiro,Smart Window Blinds,Vivo,Vivo 9241,2,Damaged,Glass,1.18,Cadmium,Retail take-back,EcoTech Recycling,Disposed,Pyrometallurgical,No,Medium,3.54
+EW_00347,USA,2022,Illinois,Los Angeles,E-reader,Motorola,Motorola 7065,9,Damaged,Plastic,0.31,Cadmium,Drop-off center,Eco-Friendly Disposal,Recycled,Mechanical,Yes,Medium,0.93
+EW_00348,Brazil,2023,Bahia,Curitiba,Power Bank,Fujitsu,Fujitsu 4850,10,Working,Rubber,0.44,Mercury,Retail take-back,Green Future Recycling,Recycled,Thermal,Yes,Low,0.88
+EW_00349,India,2022,Tamil Nadu,Bangalore,Radio,ZTE,ZTE 2890,5,Working,Rubber,0.84,Mercury,Pick-up service,Green Earth Recycling,Disposed,Chemical,Yes,Low,1.68
+EW_00350,Japan,2022,Fukuoka,Yokohama,Laptop,Google,Google 7337,3,Damaged,Rubber,2.48,None,Retail take-back,Sustainable Materials Recovery,Recycled,Pyrometallurgical,No,High,11.16
+EW_00351,Canada,2023,Alberta,Edmonton,Fax Machine,BlackBerry,BlackBerry 6837,6,Non-working,Ceramic,4.13,Brominated Flame Retardants,Municipal collection,Green Earth Recycling,In Progress,Mechanical,No,Medium,9.91
+EW_00352,Germany,2023,Hamburg,Frankfurt,Television,Razer,Razer 5626,4,Working,Glass,29.91,Lead,Municipal collection,GreenTech Recycle,Recycled,Thermal,Yes,Medium,119.64
+EW_00353,Japan,2021,Tokyo,Yokohama,VR Headset,Amazon,Amazon 4952,3,Repairable,Glass,0.76,Brominated Flame Retardants,Retail take-back,Sustainable Electronics,In Progress,Pyrometallurgical,Yes,Low,1.52
+EW_00354,Japan,2022,Osaka,Tokyo,Fax Machine,Huawei,Huawei 4309,5,Working,Metal,5.57,None,Drop-off center,Eco-Friendly Disposal,Recycled,Hydrometallurgical,Yes,Low,11.14
+EW_00355,Canada,2021,Ontario,Calgary,E-reader,Toshiba,Toshiba 5040,7,Repairable,Ceramic,0.46,Brominated Flame Retardants,Drop-off center,Eco-Friendly Disposal,Pending,Mechanical,Yes,Low,0.92
+EW_00356,Australia,2021,New South Wales,Sydney,Monitor,Razer,Razer 4601,7,Obsolete,Metal,4.46,Lead,Pick-up service,GreenTech Recycle,Pending,Thermal,Yes,Low,9.81
+EW_00357,UK,2024,Birmingham,London,Smart Doorbell,BlackBerry,BlackBerry 8488,10,Non-working,Metal,0.41,Mercury,Retail take-back,Green Earth Recycling,Disposed,Pyrometallurgical,Yes,Low,0.98
+EW_00358,USA,2021,California,Los Angeles,Smart Sprinkler Controller,Apple,Apple 8206,8,Working,Ceramic,0.51,Mercury,Drop-off center,Sustainable Waste Management,In Progress,Hydrometallurgical,Yes,Low,1.02
+EW_00359,USA,2020,Illinois,Chicago,Smart Doorbell,LG,LG 5957,3,Damaged,Glass,0.31,Brominated Flame Retardants,Drop-off center,GreenTech Recycle,Pending,Hydrometallurgical,Yes,Medium,0.93
+EW_00360,India,2022,Delhi,Chennai,Fax Machine,Toshiba,Toshiba 5985,10,Damaged,Mixed,5.01,Mercury,Retail take-back,Sustainable Electronics,In Progress,Hydrometallurgical,Yes,High,15.03
+EW_00361,Japan,2024,Hokkaido,Tokyo,Security Camera,Google,Google 5151,3,Working,Mixed,0.4,Cadmium,Pick-up service,EcoTech Recycling,Disposed,Pyrometallurgical,Yes,Low,0.8
+EW_00362,UK,2024,Liverpool,Manchester,Smart Doorbell,Microsoft,Microsoft 9960,4,Repairable,Plastic,0.24,Lead,Retail take-back,Sustainable Waste Management,In Progress,Hydrometallurgical,Yes,Low,0.48
+EW_00363,Australia,2021,Victoria,Melbourne,Smart Lock,Panasonic,Panasonic 5017,1,Non-working,Glass,0.56,Mercury,Drop-off center,Eco-Friendly Disposal,Pending,Mechanical,Yes,Low,1.34
+EW_00364,Australia,2020,Victoria,Sydney,Television,Oppo,Oppo 9816,7,Working,Metal,25.05,None,Retail take-back,Sustainable Materials Recovery,Recycled,Thermal,No,Medium,100.2
+EW_00365,USA,2020,New York,Phoenix,Smart Door Sensor,Amazon,Amazon 1978,2,Working,Mixed,0.16,Mercury,Drop-off center,Sustainable Waste Management,Recycled,Mechanical,No,Low,0.32
+EW_00366,Germany,2024,Hesse,Berlin,Scanner,Asus,Asus 5296,5,Obsolete,Metal,2.77,Cadmium,Municipal collection,Eco-Friendly Disposal,In Progress,Mechanical,Yes,Low,6.09
+EW_00367,Japan,2021,Fukuoka,Osaka,MP3 Player,Asus,Asus 3701,8,Non-working,Ceramic,0.17,None,Municipal collection,Sustainable Materials Recovery,In Progress,Chemical,No,Low,0.41
+EW_00368,Australia,2020,South Australia,Adelaide,Scanner,LG,LG 6271,2,Obsolete,Mixed,3.52,Brominated Flame Retardants,Retail take-back,Green Future Recycling,Disposed,Pyrometallurgical,No,Low,7.74
+EW_00369,China,2020,Shanghai,Shenzhen,Smart Window Blinds,Sony,Sony 7639,8,Repairable,Rubber,1.41,Brominated Flame Retardants,Retail take-back,Sustainable Waste Management,In Progress,Hydrometallurgical,No,Low,2.82
+EW_00370,UK,2022,Manchester,Liverpool,Charger,BlackBerry,BlackBerry 6777,8,Repairable,Ceramic,0.28,Cadmium,Drop-off center,Sustainable Materials Recovery,Recycled,Mechanical,No,Low,0.56
+EW_00371,USA,2022,California,Chicago,Projector,Toshiba,Toshiba 7851,8,Obsolete,Plastic,3.44,Mercury,Municipal collection,Sustainable Waste Management,Disposed,Pyrometallurgical,No,Low,7.57
+EW_00372,Germany,2023,Hamburg,Hamburg,Speakers,MSI,MSI 9108,10,Obsolete,Mixed,1.86,Lead,Municipal collection,EcoTech Recycling,Disposed,Pyrometallurgical,No,Low,4.09
+EW_00373,India,2023,Gujarat,Kolkata,GPS Device,MSI,MSI 5663,8,Non-working,Metal,0.27,Mercury,Pick-up service,Eco-Friendly Disposal,In Progress,Chemical,Yes,Low,0.65
+EW_00374,France,2024,Occitanie,Bordeaux,Smart Light Bulb,BlackBerry,BlackBerry 6759,9,Repairable,Rubber,0.12,Mercury,Pick-up service,GreenTech Recycle,Disposed,Pyrometallurgical,Yes,Low,0.24
+EW_00375,Japan,2024,Osaka,Osaka,Printer,Toshiba,Toshiba 3830,6,Obsolete,Rubber,5.85,None,Drop-off center,Sustainable Waste Management,Recycled,Thermal,No,Medium,12.87
+EW_00376,Germany,2020,North Rhine-Westphalia,Hamburg,Smart Water Leak Detector,HP,HP 6775,6,Damaged,Ceramic,0.28,Mercury,Municipal collection,Sustainable Waste Management,Recycled,Pyrometallurgical,Yes,Medium,0.84
+EW_00377,Canada,2022,British Columbia,Toronto,Radio,Samsung,Samsung 8831,10,Non-working,Metal,0.77,Mercury,Retail take-back,Sustainable Waste Management,Recycled,Thermal,No,Low,1.85
+EW_00378,Japan,2020,Aichi,Tokyo,Mobile Phone,Apple,Apple 3993,2,Repairable,Glass,0.11,Lead,Pick-up service,GreenTech Recycle,Recycled,Chemical,No,Low,0.33
+EW_00379,China,2020,Shanghai,Shanghai,Smart Coffee Maker,Toshiba,Toshiba 2117,1,Damaged,Metal,1.57,None,Pick-up service,Green Future Recycling,Recycled,Pyrometallurgical,No,Medium,4.71
+EW_00380,USA,2021,Illinois,Los Angeles,Projector,HP,HP 9537,3,Obsolete,Ceramic,3.71,Lead,Municipal collection,Sustainable Materials Recovery,Recycled,Mechanical,Yes,Low,8.16
+EW_00381,China,2024,Guangdong,Shenzhen,Monitor,Xiaomi,Xiaomi 2978,4,Damaged,Glass,2.6,Brominated Flame Retardants,Retail take-back,Sustainable Materials Recovery,Pending,Chemical,Yes,Medium,7.8
+EW_00382,Germany,2021,Hesse,Berlin,Smartwatch,BlackBerry,BlackBerry 5120,7,Obsolete,Glass,0.05,Brominated Flame Retardants,Retail take-back,GreenTech Recycle,Recycled,Mechanical,No,Low,0.11
+EW_00383,France,2020,Provence-Alpes-CÃ´te d'Azur,Toulouse,Digital Clock,Google,Google 8339,1,Non-working,Rubber,0.27,Cadmium,Municipal collection,Sustainable Materials Recovery,In Progress,Pyrometallurgical,No,Low,0.65
+EW_00384,Canada,2020,Ontario,Edmonton,Camera,HP,HP 4561,1,Repairable,Glass,0.99,Lead,Pick-up service,Eco-Friendly Disposal,Recycled,Thermal,No,Low,1.98
+EW_00385,Germany,2022,Hamburg,Cologne,Smart Coffee Maker,BlackBerry,BlackBerry 7402,2,Working,Plastic,1.18,Mercury,Pick-up service,Green Earth Recycling,Disposed,Mechanical,No,Low,2.36
+EW_00386,China,2024,Shanghai,Shenzhen,Smart Mirror,Microsoft,Microsoft 4507,5,Working,Rubber,1.95,Brominated Flame Retardants,Retail take-back,EcoTech Recycling,In Progress,Chemical,Yes,Low,3.9
+EW_00387,Germany,2023,Bavaria,Cologne,Smart Plug,HP,HP 1908,5,Obsolete,Mixed,0.27,Lead,Municipal collection,Green Earth Recycling,Recycled,Mechanical,Yes,Low,0.59
+EW_00388,India,2024,Delhi,Delhi,Smart Light Bulb,Vivo,Vivo 1937,5,Working,Mixed,0.21,Mercury,Municipal collection,Green Future Recycling,In Progress,Pyrometallurgical,No,Low,0.42
+EW_00389,Australia,2021,South Australia,Sydney,Smart Home Device,Oppo,Oppo 2850,1,Damaged,Ceramic,0.26,Brominated Flame Retardants,Municipal collection,Green Earth Recycling,Pending,Thermal,Yes,Medium,0.78
+EW_00390,France,2020,Occitanie,Toulouse,Smartwatch,BlackBerry,BlackBerry 3022,6,Obsolete,Plastic,0.14,Brominated Flame Retardants,Drop-off center,Sustainable Materials Recovery,Recycled,Mechanical,Yes,Low,0.31
+EW_00391,France,2023,ÃŽle-de-France,Bordeaux,Fax Machine,Microsoft,Microsoft 8088,8,Repairable,Plastic,5.58,Cadmium,Municipal collection,Sustainable Waste Management,Pending,Chemical,Yes,Low,11.16
+EW_00392,USA,2023,Florida,New York,USB Drive,LG,LG 3412,4,Obsolete,Glass,0.05,Lead,Municipal collection,Eco-Friendly Disposal,In Progress,Mechanical,No,Low,0.11
+EW_00393,Canada,2021,Manitoba,Toronto,Mobile Phone,Xiaomi,Xiaomi 3602,5,Obsolete,Metal,0.21,Brominated Flame Retardants,Municipal collection,Eco-Friendly Disposal,Pending,Thermal,No,Low,0.69
+EW_00394,Japan,2022,Tokyo,Yokohama,Smart Home Device,Dell,Dell 6212,10,Damaged,Glass,0.3,None,Municipal collection,EcoTech Recycling,Pending,Thermal,No,Medium,0.9
+EW_00395,USA,2022,Florida,New York,GPS Device,Motorola,Motorola 1090,2,Damaged,Rubber,0.28,Lead,Municipal collection,GreenTech Recycle,Disposed,Chemical,Yes,Medium,0.84
+EW_00396,Germany,2022,Bavaria,Frankfurt,Smart Oven,Asus,Asus 7734,5,Working,Plastic,23.88,Lead,Retail take-back,Green Earth Recycling,In Progress,Chemical,Yes,Low,47.76
+EW_00397,China,2022,Sichuan,Beijing,Television,HP,HP 2188,4,Working,Glass,22.42,Mercury,Retail take-back,EcoRecyclers Inc.,Pending,Hydrometallurgical,No,Medium,89.68
+EW_00398,Brazil,2023,Rio de Janeiro,Belo Horizonte,Router,Panasonic,Panasonic 6805,3,Non-working,Ceramic,0.4,Lead,Pick-up service,Global Recycling Solutions,Recycled,Hydrometallurgical,Yes,Low,0.96
+EW_00399,Japan,2024,Hokkaido,Osaka,E-reader,Google,Google 4235,5,Obsolete,Rubber,0.29,Cadmium,Municipal collection,GreenTech Recycle,Pending,Pyrometallurgical,No,Low,0.64
+EW_00400,USA,2021,Illinois,Los Angeles,Router,HP,HP 9265,2,Non-working,Mixed,0.67,Mercury,Retail take-back,EcoRecyclers Inc.,Recycled,Chemical,Yes,Low,1.61
+EW_00401,India,2020,Maharashtra,Bangalore,Drone,Huawei,Huawei 2399,6,Non-working,Mixed,1,Lead,Pick-up service,Green Future Recycling,Recycled,Chemical,Yes,Low,2.4
+EW_00402,Brazil,2021,SÃ£o Paulo,Rio de Janeiro,Smart Scale,BlackBerry,BlackBerry 9441,10,Damaged,Plastic,0.32,Brominated Flame Retardants,Municipal collection,Green Earth Recycling,Recycled,Thermal,No,Medium,0.96
+EW_00403,Australia,2024,New South Wales,Adelaide,Tablet,Toshiba,Toshiba 3803,10,Non-working,Rubber,0.76,Mercury,Municipal collection,Sustainable Electronics,Disposed,Thermal,No,Medium,2.74
+EW_00404,France,2020,Occitanie,Bordeaux,Smart Lock,OnePlus,OnePlus 7618,10,Obsolete,Metal,0.51,Mercury,Municipal collection,Sustainable Electronics,Disposed,Thermal,No,Low,1.12
+EW_00405,India,2022,Karnataka,Kolkata,Radio,HP,HP 1514,2,Working,Ceramic,0.78,Brominated Flame Retardants,Pick-up service,EcoTech Recycling,In Progress,Pyrometallurgical,Yes,Low,1.56
+EW_00406,Brazil,2022,ParanÃ¡,Salvador,Smart Garage Door Opener,Microsoft,Microsoft 9138,8,Non-working,Metal,0.74,None,Retail take-back,Sustainable Electronics,In Progress,Pyrometallurgical,No,Low,1.78
+EW_00407,Australia,2022,Western Australia,Melbourne,Smart Coffee Maker,Gateway,Gateway 1605,9,Repairable,Mixed,1.84,Cadmium,Municipal collection,GreenTech Recycle,Pending,Chemical,No,Low,3.68
+EW_00408,France,2024,Nouvelle-Aquitaine,Lyon,CD/DVD Player,Fujitsu,Fujitsu 2104,6,Obsolete,Plastic,1.26,Lead,Pick-up service,Green Future Recycling,Pending,Thermal,No,Low,2.77
+EW_00409,USA,2024,Texas,Houston,Power Bank,Toshiba,Toshiba 8913,4,Damaged,Ceramic,0.36,Mercury,Pick-up service,Sustainable Electronics,Recycled,Mechanical,Yes,Medium,1.08
+EW_00410,USA,2024,Illinois,Chicago,Mouse,Gateway,Gateway 8181,10,Non-working,Glass,0.16,None,Municipal collection,Sustainable Electronics,In Progress,Pyrometallurgical,Yes,Low,0.38
+EW_00411,USA,2023,Illinois,Houston,Calculator,BlackBerry,BlackBerry 5622,6,Non-working,Mixed,0.13,Lead,Retail take-back,EcoTech Recycling,In Progress,Pyrometallurgical,No,Low,0.31
+EW_00412,Germany,2024,Berlin,Frankfurt,Smart Doorbell,Oppo,Oppo 7214,8,Repairable,Ceramic,0.4,Mercury,Pick-up service,Sustainable Waste Management,Disposed,Mechanical,No,Low,0.8
+EW_00413,Brazil,2021,ParanÃ¡,Curitiba,Smart Home Device,Toshiba,Toshiba 3038,6,Obsolete,Glass,0.17,Lead,Drop-off center,GreenTech Recycle,Pending,Thermal,No,Low,0.37
+EW_00414,Japan,2024,Hokkaido,Sapporo,Smart Thermostat,ZTE,ZTE 8777,10,Working,Glass,0.5,Cadmium,Pick-up service,Sustainable Electronics,In Progress,Thermal,Yes,Low,1
+EW_00415,France,2024,Auvergne-RhÃ´ne-Alpes,Lyon,Router,Huawei,Huawei 2722,10,Non-working,Plastic,0.55,Brominated Flame Retardants,Retail take-back,Global Recycling Solutions,Recycled,Chemical,Yes,Low,1.32
+EW_00416,Australia,2024,Victoria,Perth,Smart Garage Door Opener,Oppo,Oppo 4651,6,Working,Plastic,0.91,None,Municipal collection,Green Future Recycling,Disposed,Mechanical,No,Low,1.82
+EW_00417,Australia,2022,New South Wales,Brisbane,Radio,Microsoft,Microsoft 1465,5,Non-working,Glass,0.93,Mercury,Municipal collection,Eco-Friendly Disposal,Recycled,Chemical,Yes,Low,2.23
+EW_00418,India,2021,Delhi,Kolkata,Scanner,MSI,MSI 4364,5,Repairable,Ceramic,4.47,Mercury,Municipal collection,Green Earth Recycling,In Progress,Mechanical,Yes,Low,8.94
+EW_00419,Australia,2022,Western Australia,Brisbane,Smart Water Leak Detector,MSI,MSI 1427,1,Obsolete,Glass,0.13,Mercury,Drop-off center,Green Future Recycling,In Progress,Chemical,No,Low,0.29
+EW_00420,France,2024,Auvergne-RhÃ´ne-Alpes,Marseille,E-reader,Samsung,Samsung 4932,10,Obsolete,Mixed,0.25,Lead,Pick-up service,Green Earth Recycling,Pending,Hydrometallurgical,Yes,Low,0.55
+EW_00421,Canada,2022,Ontario,Toronto,Mobile Phone,Asus,Asus 3714,7,Repairable,Mixed,0.16,Cadmium,Municipal collection,EcoTech Recycling,Disposed,Pyrometallurgical,No,Low,0.48
+EW_00422,USA,2022,Texas,Houston,Calculator,Motorola,Motorola 5353,2,Non-working,Plastic,0.15,Cadmium,Retail take-back,EcoRecyclers Inc.,In Progress,Pyrometallurgical,Yes,Low,0.36
+EW_00423,India,2022,Tamil Nadu,Delhi,Smart Lock,Razer,Razer 2727,9,Damaged,Plastic,0.54,Cadmium,Drop-off center,EcoRecyclers Inc.,Recycled,Pyrometallurgical,Yes,Medium,1.62
+EW_00424,Germany,2022,North Rhine-Westphalia,Munich,GPS Device,Nokia,Nokia 7350,9,Repairable,Plastic,0.48,Cadmium,Drop-off center,Green Earth Recycling,Disposed,Thermal,No,Low,0.96
+EW_00425,India,2021,Karnataka,Mumbai,Digital Clock,ZTE,ZTE 1995,10,Damaged,Mixed,0.25,Lead,Retail take-back,Green Earth Recycling,In Progress,Thermal,No,Medium,0.75
+EW_00426,France,2022,Auvergne-RhÃ´ne-Alpes,Paris,VR Headset,Huawei,Huawei 2460,4,Damaged,Plastic,0.76,Mercury,Retail take-back,Global Recycling Solutions,Pending,Chemical,Yes,Medium,2.28
+EW_00427,India,2024,Gujarat,Kolkata,Smart Scale,Panasonic,Panasonic 5449,9,Obsolete,Glass,0.22,Cadmium,Drop-off center,Sustainable Materials Recovery,Pending,Chemical,No,Low,0.48
+EW_00428,Japan,2022,Hokkaido,Sapporo,Drone,Google,Google 1585,1,Working,Ceramic,0.9,Brominated Flame Retardants,Retail take-back,GreenTech Recycle,Pending,Hydrometallurgical,Yes,Low,1.8
+EW_00429,India,2022,Maharashtra,Bangalore,CD/DVD Player,Samsung,Samsung 4293,10,Non-working,Plastic,1.8,Cadmium,Pick-up service,Green Future Recycling,In Progress,Pyrometallurgical,Yes,Low,4.32
+EW_00430,UK,2021,London,Birmingham,External Hard Drive,Motorola,Motorola 5180,10,Working,Plastic,0.51,Mercury,Retail take-back,Sustainable Materials Recovery,Pending,Pyrometallurgical,Yes,Low,1.02
+EW_00431,USA,2020,Illinois,Phoenix,Drone,Apple,Apple 1632,7,Repairable,Ceramic,1.33,None,Retail take-back,Sustainable Materials Recovery,In Progress,Mechanical,Yes,Low,2.66
+EW_00432,UK,2020,Glasgow,London,Smart Mirror,Panasonic,Panasonic 6808,1,Non-working,Metal,2.29,Cadmium,Pick-up service,EcoRecyclers Inc.,Recycled,Hydrometallurgical,No,Medium,5.5
+EW_00433,Japan,2021,Fukuoka,Nagoya,Charger,Apple,Apple 6920,7,Damaged,Mixed,0.23,Mercury,Drop-off center,Global Recycling Solutions,Pending,Hydrometallurgical,Yes,Medium,0.69
+EW_00434,China,2020,Beijing,Guangzhou,Smart Door Sensor,Sony,Sony 7487,5,Damaged,Glass,0.25,None,Municipal collection,Global Recycling Solutions,In Progress,Pyrometallurgical,No,Medium,0.75
+EW_00435,Japan,2022,Osaka,Sapporo,GPS Device,BlackBerry,BlackBerry 1577,5,Damaged,Metal,0.37,None,Municipal collection,Eco-Friendly Disposal,Recycled,Mechanical,No,Medium,1.11
+EW_00436,UK,2022,Birmingham,Glasgow,GPS Device,Asus,Asus 7881,1,Non-working,Mixed,0.2,Lead,Drop-off center,Sustainable Waste Management,Disposed,Pyrometallurgical,Yes,Low,0.48
+EW_00437,Australia,2021,Victoria,Brisbane,E-reader,Razer,Razer 5665,6,Obsolete,Metal,0.41,Lead,Drop-off center,Sustainable Electronics,Disposed,Pyrometallurgical,No,Low,0.9
+EW_00438,Australia,2020,New South Wales,Melbourne,Speakers,Xiaomi,Xiaomi 2883,5,Non-working,Glass,2.69,Brominated Flame Retardants,Retail take-back,EcoTech Recycling,Recycled,Pyrometallurgical,Yes,Medium,6.46
+EW_00439,China,2024,Beijing,Shenzhen,Smart Doorbell,ZTE,ZTE 9024,8,Repairable,Rubber,0.44,Brominated Flame Retardants,Retail take-back,Eco-Friendly Disposal,Recycled,Hydrometallurgical,No,Low,0.88
+EW_00440,France,2023,Nouvelle-Aquitaine,Paris,Smart Light Bulb,Apple,Apple 6791,4,Damaged,Metal,0.27,Cadmium,Pick-up service,Green Earth Recycling,Recycled,Thermal,Yes,Medium,0.81
+EW_00441,Australia,2020,Western Australia,Brisbane,Smart Doorbell,Lenovo,Lenovo 4066,2,Working,Glass,0.47,None,Retail take-back,Green Future Recycling,In Progress,Pyrometallurgical,Yes,Low,0.94
+EW_00442,China,2023,Shanghai,Shenzhen,Smart Dishwasher,BlackBerry,BlackBerry 3087,10,Non-working,Ceramic,38.8,Brominated Flame Retardants,Pick-up service,Green Earth Recycling,Pending,Hydrometallurgical,Yes,Medium,93.12
+EW_00443,Brazil,2021,Bahia,Rio de Janeiro,Smart Thermostat,Acer,Acer 7992,7,Non-working,Plastic,0.36,Cadmium,Pick-up service,Global Recycling Solutions,Disposed,Chemical,Yes,Low,0.86
+EW_00444,India,2023,Karnataka,Mumbai,Power Bank,OnePlus,OnePlus 2765,4,Working,Rubber,0.39,Mercury,Municipal collection,Green Future Recycling,Pending,Thermal,No,Low,0.78
+EW_00445,Canada,2024,Alberta,Toronto,Game Console,HP,HP 6607,3,Damaged,Mixed,1.12,Mercury,Pick-up service,Sustainable Waste Management,Recycled,Thermal,No,Medium,3.36
+EW_00446,China,2023,Beijing,Shenzhen,E-reader,Fujitsu,Fujitsu 5059,6,Repairable,Plastic,0.31,Lead,Pick-up service,Sustainable Materials Recovery,Disposed,Thermal,No,Low,0.62
+EW_00447,Australia,2024,South Australia,Perth,External Hard Drive,Amazon,Amazon 5381,7,Damaged,Rubber,0.33,Brominated Flame Retardants,Pick-up service,Sustainable Materials Recovery,Recycled,Mechanical,No,Medium,0.99
+EW_00448,Canada,2020,British Columbia,Montreal,Game Console,Microsoft,Microsoft 3907,1,Non-working,Rubber,2.09,Lead,Municipal collection,Green Future Recycling,Pending,Chemical,No,Medium,5.02
+EW_00449,China,2020,Guangdong,Shenzhen,Headphones,LG,LG 9592,1,Obsolete,Rubber,0.49,Lead,Drop-off center,Green Earth Recycling,In Progress,Thermal,No,Low,1.08
+EW_00450,Australia,2022,Victoria,Perth,Desktop Computer,Acer,Acer 4050,6,Damaged,Rubber,6.8,None,Retail take-back,Green Future Recycling,In Progress,Chemical,Yes,High,40.8
+EW_00451,Canada,2021,Alberta,Edmonton,Laptop,Xiaomi,Xiaomi 3614,5,Working,Rubber,2.55,Cadmium,Drop-off center,Sustainable Waste Management,Pending,Pyrometallurgical,No,Low,7.65
+EW_00452,Japan,2022,Hokkaido,Nagoya,Desktop Computer,ZTE,ZTE 2654,6,Obsolete,Ceramic,7.1,None,Municipal collection,Eco-Friendly Disposal,In Progress,Chemical,Yes,High,31.24
+EW_00453,China,2024,Sichuan,Shenzhen,Smart Mirror,Acer,Acer 2602,5,Non-working,Metal,1.02,Brominated Flame Retardants,Pick-up service,Global Recycling Solutions,Pending,Pyrometallurgical,Yes,Low,2.45
+EW_00454,China,2020,Sichuan,Shenzhen,Smart Plug,Sony,Sony 9289,3,Obsolete,Glass,0.27,Brominated Flame Retardants,Retail take-back,Sustainable Waste Management,Disposed,Thermal,No,Low,0.59
+EW_00455,UK,2023,Glasgow,Glasgow,Smart Doorbell,OnePlus,OnePlus 2163,2,Non-working,Mixed,0.44,Cadmium,Retail take-back,Sustainable Electronics,Disposed,Pyrometallurgical,No,Low,1.06
+EW_00456,Germany,2023,Hamburg,Hamburg,Security Camera,ZTE,ZTE 4407,10,Working,Rubber,0.73,Cadmium,Retail take-back,Sustainable Materials Recovery,In Progress,Mechanical,Yes,Low,1.46
+EW_00457,Canada,2021,Alberta,Calgary,Smart Mirror,Samsung,Samsung 5857,3,Repairable,Metal,2.46,None,Municipal collection,GreenTech Recycle,In Progress,Hydrometallurgical,Yes,Low,4.92
+EW_00458,UK,2020,London,London,Smartwatch,HTC,HTC 8162,9,Obsolete,Glass,0.09,Mercury,Municipal collection,Sustainable Electronics,Disposed,Chemical,Yes,Low,0.2
+EW_00459,India,2021,Delhi,Kolkata,Smart Thermostat,HTC,HTC 7973,6,Repairable,Mixed,0.36,None,Retail take-back,EcoRecyclers Inc.,Recycled,Thermal,No,Low,0.72
+EW_00460,France,2020,Auvergne-RhÃ´ne-Alpes,Bordeaux,Fax Machine,LG,LG 6333,7,Obsolete,Glass,5.67,None,Retail take-back,Sustainable Waste Management,Disposed,Mechanical,No,Medium,12.47
+EW_00461,Germany,2024,Bavaria,Cologne,Printer,Nokia,Nokia 3703,9,Working,Glass,3.7,None,Municipal collection,Green Future Recycling,Recycled,Hydrometallurgical,No,Low,7.4
+EW_00462,Canada,2020,Ontario,Montreal,Smart Mirror,Huawei,Huawei 9757,9,Obsolete,Rubber,1.75,Brominated Flame Retardants,Municipal collection,Green Future Recycling,Recycled,Pyrometallurgical,No,Low,3.85
+EW_00463,Australia,2020,Queensland,Melbourne,Security Camera,BlackBerry,BlackBerry 4356,10,Working,Plastic,0.75,Lead,Drop-off center,GreenTech Recycle,Recycled,Chemical,Yes,Low,1.5
+EW_00464,France,2022,Nouvelle-Aquitaine,Marseille,External Hard Drive,LG,LG 5398,3,Obsolete,Metal,0.65,Brominated Flame Retardants,Pick-up service,GreenTech Recycle,In Progress,Pyrometallurgical,Yes,Low,1.43
+EW_00465,France,2022,Provence-Alpes-CÃ´te d'Azur,Marseille,Smart Home Device,MSI,MSI 8740,2,Obsolete,Ceramic,0.4,Cadmium,Retail take-back,Sustainable Electronics,Pending,Mechanical,Yes,Low,0.88
+EW_00466,Canada,2024,Alberta,Toronto,Smart Scale,Toshiba,Toshiba 1227,4,Repairable,Ceramic,0.43,Brominated Flame Retardants,Pick-up service,Green Earth Recycling,Recycled,Pyrometallurgical,No,Low,0.86
+EW_00467,India,2023,Delhi,Bangalore,USB Drive,BlackBerry,BlackBerry 6924,5,Obsolete,Ceramic,0.13,Brominated Flame Retardants,Pick-up service,Green Earth Recycling,Pending,Mechanical,No,Low,0.29
+EW_00468,France,2021,Auvergne-RhÃ´ne-Alpes,Lyon,External Hard Drive,Panasonic,Panasonic 1616,4,Obsolete,Plastic,0.76,Lead,Retail take-back,Sustainable Electronics,Disposed,Mechanical,No,Low,1.67
+EW_00469,Germany,2021,Bavaria,Frankfurt,Smart Oven,HP,HP 1205,7,Damaged,Glass,30.37,Lead,Retail take-back,Sustainable Waste Management,Disposed,Chemical,Yes,High,91.11
+EW_00470,Germany,2023,Hamburg,Munich,Smart Thermostat,Panasonic,Panasonic 8679,7,Non-working,Ceramic,0.25,Lead,Drop-off center,Global Recycling Solutions,Recycled,Hydrometallurgical,No,Low,0.6
+EW_00471,UK,2023,London,Birmingham,Smart Mirror,MSI,MSI 8966,8,Repairable,Plastic,2.5,Cadmium,Municipal collection,Green Future Recycling,In Progress,Pyrometallurgical,No,Low,5
+EW_00472,UK,2024,Manchester,Birmingham,Radio,Lenovo,Lenovo 1068,8,Working,Mixed,0.85,Cadmium,Drop-off center,Global Recycling Solutions,Disposed,Pyrometallurgical,Yes,Low,1.7
+EW_00473,Japan,2020,Tokyo,Tokyo,Tablet,LG,LG 3877,8,Damaged,Ceramic,0.4,Mercury,Retail take-back,Sustainable Materials Recovery,Disposed,Thermal,No,Medium,1.8
+EW_00474,UK,2022,Liverpool,London,Smart Doorbell,Oppo,Oppo 5970,7,Working,Ceramic,0.38,None,Drop-off center,Sustainable Electronics,Pending,Mechanical,No,Low,0.76
+EW_00475,India,2023,Delhi,Kolkata,Mouse,Asus,Asus 2486,6,Repairable,Mixed,0.19,None,Pick-up service,EcoTech Recycling,Recycled,Thermal,No,Low,0.38
+EW_00476,Germany,2024,North Rhine-Westphalia,Berlin,VR Headset,Nokia,Nokia 5227,3,Obsolete,Glass,0.58,Brominated Flame Retardants,Pick-up service,Green Earth Recycling,Pending,Hydrometallurgical,Yes,Low,1.28
+EW_00477,USA,2022,California,Chicago,Smart Water Leak Detector,BlackBerry,BlackBerry 8891,9,Obsolete,Glass,0.13,Mercury,Municipal collection,Global Recycling Solutions,Pending,Hydrometallurgical,No,Low,0.29
+EW_00478,USA,2022,Illinois,Chicago,Calculator,Vivo,Vivo 6889,3,Working,Glass,0.11,None,Pick-up service,Sustainable Electronics,Disposed,Chemical,Yes,Low,0.22
+EW_00479,UK,2020,Liverpool,Manchester,Monitor,OnePlus,OnePlus 2731,2,Obsolete,Glass,3.97,Lead,Municipal collection,Green Earth Recycling,Disposed,Chemical,Yes,Low,8.73
+EW_00480,UK,2022,Birmingham,Manchester,Fax Machine,Acer,Acer 1124,6,Non-working,Metal,5.38,None,Retail take-back,Eco-Friendly Disposal,Disposed,Mechanical,Yes,Medium,12.91
+EW_00481,China,2024,Sichuan,Shenzhen,Keyboard,Amazon,Amazon 6197,9,Damaged,Metal,0.95,None,Drop-off center,Green Future Recycling,Disposed,Mechanical,Yes,Medium,2.85
+EW_00482,UK,2022,Birmingham,Glasgow,External Hard Drive,OnePlus,OnePlus 4953,10,Repairable,Metal,0.6,Mercury,Retail take-back,Global Recycling Solutions,Pending,Pyrometallurgical,Yes,Low,1.2
+EW_00483,Canada,2020,British Columbia,Vancouver,Desktop Computer,Apple,Apple 4334,9,Repairable,Mixed,9.65,Lead,Drop-off center,Green Earth Recycling,Pending,Pyrometallurgical,Yes,Medium,38.6
+EW_00484,Brazil,2021,Bahia,Belo Horizonte,Speakers,OnePlus,OnePlus 1593,10,Obsolete,Plastic,1.15,Lead,Drop-off center,Eco-Friendly Disposal,Pending,Hydrometallurgical,No,Low,2.53
+EW_00485,Germany,2023,Berlin,Berlin,Printer,OnePlus,OnePlus 8768,7,Non-working,Mixed,4.85,Mercury,Retail take-back,Global Recycling Solutions,Recycled,Hydrometallurgical,Yes,Medium,11.64
+EW_00486,UK,2022,London,Manchester,Television,Amazon,Amazon 4861,10,Working,Plastic,10.15,Brominated Flame Retardants,Retail take-back,Sustainable Materials Recovery,Pending,Chemical,No,Medium,40.6
+EW_00487,Canada,2021,Alberta,Calgary,MP3 Player,Fujitsu,Fujitsu 4625,2,Damaged,Glass,0.23,Lead,Municipal collection,Global Recycling Solutions,Disposed,Hydrometallurgical,No,Medium,0.69
+EW_00488,Germany,2024,North Rhine-Westphalia,Hamburg,Charger,Microsoft,Microsoft 5134,7,Repairable,Plastic,0.22,Mercury,Retail take-back,Sustainable Waste Management,Disposed,Pyrometallurgical,Yes,Low,0.44
+EW_00489,India,2020,Maharashtra,Mumbai,Security Camera,Lenovo,Lenovo 2827,5,Damaged,Ceramic,0.51,Lead,Pick-up service,Green Future Recycling,Recycled,Hydrometallurgical,Yes,Medium,1.53
+EW_00490,France,2020,Nouvelle-Aquitaine,Toulouse,MP3 Player,LG,LG 7417,9,Working,Rubber,0.24,None,Pick-up service,EcoTech Recycling,Pending,Pyrometallurgical,No,Low,0.48
+EW_00491,Japan,2022,Aichi,Osaka,Smart Plug,Toshiba,Toshiba 9225,8,Working,Glass,0.16,Cadmium,Pick-up service,Global Recycling Solutions,Disposed,Chemical,Yes,Low,0.32
+EW_00492,Australia,2023,New South Wales,Sydney,Calculator,HTC,HTC 7251,7,Working,Plastic,0.14,Brominated Flame Retardants,Municipal collection,Green Earth Recycling,Recycled,Thermal,No,Low,0.28
+EW_00493,China,2024,Shanghai,Shanghai,Calculator,Fujitsu,Fujitsu 2574,8,Non-working,Mixed,0.3,None,Municipal collection,Sustainable Materials Recovery,Pending,Mechanical,No,Low,0.72
+EW_00494,UK,2023,Birmingham,Manchester,E-reader,Acer,Acer 1824,7,Obsolete,Rubber,0.35,Brominated Flame Retardants,Retail take-back,Global Recycling Solutions,In Progress,Mechanical,No,Low,0.77
+EW_00495,Brazil,2024,Rio de Janeiro,Belo Horizonte,Charger,Lenovo,Lenovo 3947,4,Non-working,Metal,0.13,Cadmium,Drop-off center,EcoRecyclers Inc.,Recycled,Hydrometallurgical,Yes,Low,0.31
+EW_00496,Australia,2022,South Australia,Melbourne,Smart Home Device,BlackBerry,BlackBerry 9380,10,Working,Ceramic,0.44,None,Retail take-back,Sustainable Electronics,Disposed,Thermal,Yes,Low,0.88
+EW_00497,Canada,2021,Manitoba,Vancouver,Smart Plug,Razer,Razer 8745,7,Repairable,Ceramic,0.14,Cadmium,Pick-up service,Green Earth Recycling,Disposed,Hydrometallurgical,Yes,Low,0.28
+EW_00498,India,2024,Maharashtra,Bangalore,Monitor,LG,LG 8016,9,Obsolete,Metal,4.26,Cadmium,Drop-off center,Eco-Friendly Disposal,Pending,Chemical,No,Low,9.37
+EW_00499,India,2024,Gujarat,Kolkata,Smart Dishwasher,Acer,Acer 9751,4,Repairable,Plastic,31.26,Brominated Flame Retardants,Drop-off center,Green Earth Recycling,Pending,Thermal,No,Low,62.52
+EW_00500,Brazil,2020,Bahia,SÃ£o Paulo,Monitor,Huawei,Huawei 3121,9,Obsolete,Rubber,3.88,Mercury,Retail take-back,Eco-Friendly Disposal,In Progress,Chemical,No,Low,8.54
+EW_00501,Brazil,2024,Bahia,Rio de Janeiro,Laptop,Asus,Asus 2831,2,Obsolete,Rubber,2.93,Mercury,Drop-off center,Sustainable Waste Management,Disposed,Hydrometallurgical,No,Medium,9.67
+EW_00502,Australia,2022,Western Australia,Melbourne,Smart Doorbell,Google,Google 9380,9,Obsolete,Rubber,0.46,None,Retail take-back,EcoRecyclers Inc.,Recycled,Mechanical,No,Low,1.01
+EW_00503,France,2023,ÃŽle-de-France,Toulouse,USB Drive,Fujitsu,Fujitsu 4401,7,Obsolete,Metal,0.07,Mercury,Drop-off center,Green Future Recycling,Recycled,Pyrometallurgical,Yes,Low,0.15
+EW_00504,France,2021,ÃŽle-de-France,Marseille,Keyboard,HP,HP 7103,10,Non-working,Glass,0.53,Cadmium,Pick-up service,Sustainable Electronics,Pending,Thermal,Yes,Low,1.27
+EW_00505,USA,2020,New York,Phoenix,Smart Sprinkler Controller,Asus,Asus 1182,4,Repairable,Ceramic,0.41,Mercury,Drop-off center,EcoTech Recycling,Pending,Mechanical,Yes,Low,0.82
+EW_00506,China,2022,Guangdong,Shanghai,Laptop,OnePlus,OnePlus 9120,7,Damaged,Glass,1.73,Lead,Retail take-back,EcoRecyclers Inc.,Pending,Chemical,No,Medium,7.78
+EW_00507,USA,2020,Texas,Los Angeles,Router,Huawei,Huawei 9434,5,Working,Glass,0.68,Mercury,Municipal collection,Sustainable Materials Recovery,Pending,Chemical,Yes,Low,1.36
+EW_00508,India,2023,Tamil Nadu,Bangalore,Headphones,BlackBerry,BlackBerry 6441,4,Obsolete,Rubber,0.5,Cadmium,Municipal collection,Sustainable Waste Management,In Progress,Mechanical,Yes,Low,1.1
+EW_00509,China,2020,Sichuan,Shanghai,Laptop,Toshiba,Toshiba 7582,6,Damaged,Ceramic,1.61,Brominated Flame Retardants,Retail take-back,Sustainable Waste Management,In Progress,Mechanical,No,Medium,7.25
+EW_00510,USA,2023,California,Phoenix,GPS Device,HTC,HTC 2224,2,Repairable,Plastic,0.28,Cadmium,Pick-up service,GreenTech Recycle,Recycled,Hydrometallurgical,Yes,Low,0.56
+EW_00511,Australia,2020,Queensland,Perth,E-reader,Google,Google 4431,10,Obsolete,Metal,0.23,None,Drop-off center,EcoRecyclers Inc.,Disposed,Thermal,Yes,Low,0.51
+EW_00512,Australia,2024,Queensland,Sydney,Security Camera,Nokia,Nokia 2029,4,Obsolete,Mixed,0.75,None,Pick-up service,Sustainable Waste Management,Disposed,Mechanical,Yes,Low,1.65
+EW_00513,Japan,2022,Osaka,Sapporo,Smart Thermostat,Microsoft,Microsoft 3685,2,Damaged,Rubber,0.47,Brominated Flame Retardants,Pick-up service,Sustainable Electronics,In Progress,Hydrometallurgical,No,Medium,1.41
+EW_00514,Canada,2024,Alberta,Toronto,Keyboard,Nokia,Nokia 8023,8,Non-working,Mixed,0.67,Cadmium,Drop-off center,EcoTech Recycling,Recycled,Chemical,Yes,Low,1.61
+EW_00515,UK,2021,Birmingham,Glasgow,Power Bank,Motorola,Motorola 2149,7,Repairable,Ceramic,0.26,Brominated Flame Retardants,Pick-up service,EcoTech Recycling,Disposed,Hydrometallurgical,Yes,Low,0.52
+EW_00516,India,2022,Gujarat,Chennai,Smart Home Device,Dell,Dell 7717,7,Obsolete,Glass,0.33,Brominated Flame Retardants,Drop-off center,EcoRecyclers Inc.,Recycled,Chemical,Yes,Low,0.73
+EW_00517,Japan,2022,Aichi,Yokohama,Game Console,LG,LG 3977,5,Obsolete,Metal,1.36,Mercury,Pick-up service,EcoRecyclers Inc.,Pending,Mechanical,Yes,Low,2.99
+EW_00518,Brazil,2023,Minas Gerais,Belo Horizonte,Tablet,Asus,Asus 3830,3,Working,Mixed,0.65,Mercury,Pick-up service,EcoRecyclers Inc.,Pending,Chemical,No,Low,1.95
+EW_00519,UK,2021,Liverpool,London,Smart Thermostat,Microsoft,Microsoft 1881,1,Working,Glass,0.34,Lead,Retail take-back,EcoTech Recycling,In Progress,Mechanical,Yes,Low,0.68
+EW_00520,China,2021,Guangdong,Beijing,Smart Window Blinds,Asus,Asus 7338,10,Repairable,Plastic,1.08,Lead,Drop-off center,EcoTech Recycling,Recycled,Thermal,No,Low,2.16
+EW_00521,USA,2022,Illinois,Chicago,Calculator,Panasonic,Panasonic 7484,8,Repairable,Ceramic,0.11,Brominated Flame Retardants,Drop-off center,EcoRecyclers Inc.,In Progress,Chemical,Yes,Low,0.22
+EW_00522,India,2021,Tamil Nadu,Chennai,MP3 Player,Sony,Sony 2604,1,Working,Metal,0.2,Cadmium,Municipal collection,Sustainable Waste Management,Pending,Thermal,No,Low,0.4
+EW_00523,Canada,2021,Ontario,Vancouver,Security Camera,Asus,Asus 8416,5,Damaged,Mixed,0.63,Brominated Flame Retardants,Retail take-back,Global Recycling Solutions,Recycled,Thermal,Yes,Medium,1.89
+EW_00524,UK,2020,Liverpool,Manchester,Smart Home Device,HTC,HTC 4247,1,Working,Metal,0.42,Mercury,Drop-off center,Global Recycling Solutions,Pending,Thermal,Yes,Low,0.84
+EW_00525,Brazil,2022,Rio de Janeiro,Salvador,Camera,Gateway,Gateway 9776,7,Working,Metal,1.14,Cadmium,Pick-up service,EcoRecyclers Inc.,Recycled,Hydrometallurgical,No,Low,2.28
+EW_00526,Japan,2024,Fukuoka,Tokyo,Smart Water Leak Detector,Nokia,Nokia 6931,3,Working,Ceramic,0.19,Lead,Pick-up service,Eco-Friendly Disposal,Pending,Mechanical,Yes,Low,0.38
+EW_00527,China,2023,Shanghai,Chengdu,Mobile Phone,ZTE,ZTE 7566,9,Non-working,Glass,0.27,Lead,Retail take-back,EcoRecyclers Inc.,In Progress,Thermal,Yes,Medium,0.97
+EW_00528,Canada,2023,Manitoba,Montreal,Power Bank,Xiaomi,Xiaomi 1875,10,Repairable,Mixed,0.36,Brominated Flame Retardants,Drop-off center,Sustainable Materials Recovery,In Progress,Chemical,Yes,Low,0.72
+EW_00529,India,2020,Delhi,Kolkata,Smart Sprinkler Controller,Razer,Razer 4598,2,Working,Mixed,0.42,Cadmium,Drop-off center,Global Recycling Solutions,Disposed,Chemical,Yes,Low,0.84
+EW_00530,UK,2022,London,Birmingham,Smart Thermostat,HTC,HTC 2244,6,Damaged,Glass,0.25,None,Drop-off center,Global Recycling Solutions,In Progress,Pyrometallurgical,Yes,Medium,0.75
+EW_00531,China,2022,Sichuan,Chengdu,Smart Doorbell,Motorola,Motorola 5622,3,Damaged,Plastic,0.28,None,Pick-up service,EcoTech Recycling,Recycled,Thermal,Yes,Medium,0.84
+EW_00532,Australia,2021,South Australia,Adelaide,Smart Coffee Maker,MSI,MSI 9625,4,Repairable,Plastic,1.66,Cadmium,Municipal collection,Green Earth Recycling,Disposed,Pyrometallurgical,Yes,Low,3.32
+EW_00533,USA,2024,Florida,Chicago,External Hard Drive,LG,LG 6136,2,Working,Mixed,0.43,Lead,Drop-off center,GreenTech Recycle,Pending,Hydrometallurgical,Yes,Low,0.86
+EW_00534,China,2024,Zhejiang,Shenzhen,Speakers,ZTE,ZTE 2869,8,Non-working,Ceramic,2.16,Cadmium,Municipal collection,Green Earth Recycling,In Progress,Mechanical,Yes,Medium,5.18
+EW_00535,Germany,2023,Hesse,Hamburg,Mobile Phone,Fujitsu,Fujitsu 8642,7,Non-working,Plastic,0.2,Brominated Flame Retardants,Pick-up service,Green Future Recycling,In Progress,Pyrometallurgical,No,Medium,0.72
+EW_00536,USA,2023,Illinois,Chicago,CD/DVD Player,Fujitsu,Fujitsu 7279,1,Working,Mixed,1.57,Mercury,Municipal collection,Global Recycling Solutions,Recycled,Hydrometallurgical,Yes,Low,3.14
+EW_00537,UK,2021,Manchester,Glasgow,USB Drive,HTC,HTC 7292,3,Non-working,Rubber,0.06,None,Retail take-back,EcoTech Recycling,Disposed,Hydrometallurgical,Yes,Low,0.14
+EW_00538,India,2022,Delhi,Bangalore,Tablet,Google,Google 6558,6,Working,Rubber,0.59,Brominated Flame Retardants,Retail take-back,Green Future Recycling,In Progress,Mechanical,Yes,Low,1.77
+EW_00539,Australia,2024,South Australia,Perth,Smart Refrigerator,Razer,Razer 3917,7,Working,Rubber,79.93,Mercury,Pick-up service,Sustainable Materials Recovery,Pending,Mechanical,No,Medium,319.72
+EW_00540,UK,2023,Glasgow,Birmingham,Charger,Gateway,Gateway 3699,9,Damaged,Plastic,0.14,Mercury,Pick-up service,EcoRecyclers Inc.,Recycled,Thermal,Yes,Medium,0.42
+EW_00541,Australia,2021,Victoria,Melbourne,Smart Lock,HP,HP 5497,9,Working,Rubber,0.53,None,Municipal collection,Sustainable Waste Management,Pending,Thermal,Yes,Low,1.06
+EW_00542,Japan,2023,Fukuoka,Tokyo,Smart Oven,Toshiba,Toshiba 7441,5,Damaged,Ceramic,32.83,None,Pick-up service,Green Future Recycling,Disposed,Mechanical,Yes,High,98.49
+EW_00543,Brazil,2023,Rio de Janeiro,Belo Horizonte,Drone,Motorola,Motorola 9576,9,Non-working,Metal,1.55,Cadmium,Municipal collection,Sustainable Waste Management,In Progress,Mechanical,No,Low,3.72
+EW_00544,Japan,2024,Fukuoka,Tokyo,Mobile Phone,BlackBerry,BlackBerry 5911,7,Repairable,Mixed,0.26,None,Drop-off center,GreenTech Recycle,Pending,Chemical,Yes,Low,0.78
+EW_00545,France,2020,Provence-Alpes-CÃ´te d'Azur,Lyon,Smart Light Bulb,Google,Google 1997,8,Working,Metal,0.21,Mercury,Drop-off center,Global Recycling Solutions,Recycled,Mechanical,No,Low,0.42
+EW_00546,France,2022,Nouvelle-Aquitaine,Paris,Power Bank,BlackBerry,BlackBerry 1442,6,Obsolete,Rubber,0.35,Mercury,Pick-up service,Sustainable Materials Recovery,In Progress,Chemical,No,Low,0.77
+EW_00547,China,2024,Shanghai,Guangzhou,Smart Thermostat,Nokia,Nokia 1998,7,Working,Glass,0.2,Lead,Pick-up service,Sustainable Electronics,Pending,Mechanical,Yes,Low,0.4
+EW_00548,France,2024,ÃŽle-de-France,Toulouse,Laptop,Xiaomi,Xiaomi 6051,1,Obsolete,Ceramic,2.06,Lead,Drop-off center,EcoTech Recycling,Disposed,Hydrometallurgical,No,Medium,6.8
+EW_00549,France,2022,Occitanie,Lyon,VR Headset,Samsung,Samsung 9254,6,Damaged,Metal,0.94,Brominated Flame Retardants,Retail take-back,Sustainable Electronics,Pending,Thermal,Yes,Medium,2.82
+EW_00550,Germany,2021,Hamburg,Hamburg,Smart Sprinkler Controller,Toshiba,Toshiba 8322,9,Obsolete,Metal,0.59,None,Retail take-back,Green Earth Recycling,Recycled,Hydrometallurgical,No,Low,1.3
+EW_00551,Canada,2024,Quebec,Toronto,Television,Asus,Asus 7643,5,Non-working,Metal,15.25,Mercury,Municipal collection,EcoRecyclers Inc.,Recycled,Pyrometallurgical,Yes,High,73.2
+EW_00552,Australia,2023,Victoria,Brisbane,Camera,Toshiba,Toshiba 7068,1,Repairable,Rubber,0.83,Brominated Flame Retardants,Municipal collection,Sustainable Materials Recovery,Pending,Hydrometallurgical,No,Low,1.66
+EW_00553,Canada,2020,Manitoba,Calgary,Printer,Fujitsu,Fujitsu 1725,6,Repairable,Plastic,5.99,Mercury,Drop-off center,EcoRecyclers Inc.,Disposed,Hydrometallurgical,Yes,Low,11.98
+EW_00554,France,2021,Nouvelle-Aquitaine,Toulouse,Television,Lenovo,Lenovo 2571,5,Obsolete,Glass,24.94,None,Drop-off center,EcoTech Recycling,Disposed,Hydrometallurgical,Yes,High,109.74
+EW_00555,Australia,2023,South Australia,Adelaide,Desktop Computer,Sony,Sony 6314,4,Working,Glass,9.68,None,Municipal collection,Sustainable Waste Management,Pending,Chemical,Yes,Medium,38.72
+EW_00556,Japan,2020,Fukuoka,Yokohama,Smart Door Sensor,HP,HP 8907,9,Obsolete,Glass,0.25,Brominated Flame Retardants,Pick-up service,Sustainable Waste Management,Pending,Thermal,No,Low,0.55
+EW_00557,Germany,2022,North Rhine-Westphalia,Munich,Smart Scale,Oppo,Oppo 1645,9,Working,Plastic,0.31,Mercury,Drop-off center,GreenTech Recycle,Disposed,Chemical,Yes,Low,0.62
+EW_00558,Canada,2020,Quebec,Montreal,Router,BlackBerry,BlackBerry 8604,10,Repairable,Mixed,0.48,Mercury,Retail take-back,EcoTech Recycling,Pending,Thermal,Yes,Low,0.96
+EW_00559,Brazil,2024,ParanÃ¡,Curitiba,Smart Thermostat,Xiaomi,Xiaomi 7990,3,Damaged,Ceramic,0.23,Cadmium,Pick-up service,EcoTech Recycling,Pending,Pyrometallurgical,Yes,Medium,0.69
+EW_00560,Germany,2023,Hesse,Hamburg,Charger,Amazon,Amazon 1796,1,Non-working,Rubber,0.26,Cadmium,Municipal collection,Sustainable Waste Management,Recycled,Chemical,No,Low,0.62
+EW_00561,Germany,2024,Bavaria,Cologne,USB Drive,BlackBerry,BlackBerry 8820,9,Working,Glass,0.11,Brominated Flame Retardants,Drop-off center,Sustainable Materials Recovery,Disposed,Pyrometallurgical,No,Low,0.22
+EW_00562,Japan,2021,Fukuoka,Sapporo,Tablet,HTC,HTC 4008,9,Non-working,Ceramic,0.74,Cadmium,Pick-up service,Sustainable Waste Management,Pending,Pyrometallurgical,No,Medium,2.66
+EW_00563,China,2022,Sichuan,Chengdu,Smart Oven,OnePlus,OnePlus 6560,1,Repairable,Rubber,21.93,Mercury,Drop-off center,Sustainable Materials Recovery,Pending,Mechanical,Yes,Low,43.86
+EW_00564,China,2023,Zhejiang,Guangzhou,Security Camera,Panasonic,Panasonic 1926,6,Non-working,Rubber,0.69,Mercury,Drop-off center,Green Future Recycling,In Progress,Chemical,Yes,Low,1.66
+EW_00565,China,2023,Beijing,Beijing,Calculator,Huawei,Huawei 9261,1,Non-working,Glass,0.2,Brominated Flame Retardants,Drop-off center,Green Future Recycling,Pending,Hydrometallurgical,Yes,Low,0.48
+EW_00566,Japan,2024,Hokkaido,Osaka,Game Console,Huawei,Huawei 6962,6,Non-working,Rubber,2.27,Brominated Flame Retardants,Pick-up service,Sustainable Waste Management,Disposed,Pyrometallurgical,Yes,Medium,5.45
+EW_00567,India,2020,Delhi,Kolkata,Smart Garage Door Opener,MSI,MSI 4057,1,Obsolete,Plastic,1,Lead,Pick-up service,GreenTech Recycle,Disposed,Pyrometallurgical,Yes,Low,2.2
+EW_00568,Brazil,2022,ParanÃ¡,Belo Horizonte,Game Console,Oppo,Oppo 9024,7,Damaged,Ceramic,1.96,Lead,Drop-off center,EcoRecyclers Inc.,Pending,Thermal,Yes,Medium,5.88
+EW_00569,India,2022,Gujarat,Delhi,Charger,Panasonic,Panasonic 6751,1,Non-working,Ceramic,0.22,Mercury,Drop-off center,Sustainable Materials Recovery,Recycled,Thermal,Yes,Low,0.53
+EW_00570,China,2022,Guangdong,Shenzhen,MP3 Player,MSI,MSI 4578,7,Damaged,Ceramic,0.24,Cadmium,Municipal collection,GreenTech Recycle,Disposed,Mechanical,Yes,Medium,0.72
+EW_00571,Germany,2023,North Rhine-Westphalia,Berlin,CD/DVD Player,Oppo,Oppo 1660,9,Damaged,Plastic,1.32,Brominated Flame Retardants,Pick-up service,EcoTech Recycling,Pending,Mechanical,No,Medium,3.96
+EW_00572,Germany,2024,Bavaria,Frankfurt,Mobile Phone,Sony,Sony 3396,4,Repairable,Rubber,0.28,Cadmium,Pick-up service,Green Future Recycling,Pending,Thermal,No,Low,0.84
+EW_00573,Australia,2020,Queensland,Brisbane,Calculator,Amazon,Amazon 8864,8,Working,Mixed,0.14,Lead,Municipal collection,Green Earth Recycling,Disposed,Mechanical,Yes,Low,0.28
+EW_00574,India,2024,Tamil Nadu,Chennai,Smart Garage Door Opener,Acer,Acer 1384,2,Working,Plastic,0.64,Brominated Flame Retardants,Retail take-back,Green Earth Recycling,Recycled,Chemical,No,Low,1.28
+EW_00575,Australia,2023,Queensland,Perth,USB Drive,BlackBerry,BlackBerry 7573,9,Working,Mixed,0.14,None,Drop-off center,Green Earth Recycling,Pending,Thermal,Yes,Low,0.28
+EW_00576,France,2020,ÃŽle-de-France,Marseille,Mobile Phone,Gateway,Gateway 5664,3,Working,Plastic,0.27,Lead,Municipal collection,Green Earth Recycling,Pending,Hydrometallurgical,No,Low,0.81
+EW_00577,USA,2024,New York,Los Angeles,Smart Lock,Nokia,Nokia 5600,1,Damaged,Rubber,0.48,None,Drop-off center,Sustainable Waste Management,Recycled,Thermal,Yes,Medium,1.44
+EW_00578,France,2024,Auvergne-RhÃ´ne-Alpes,Paris,Smart Mirror,Razer,Razer 9916,4,Working,Ceramic,2.09,Lead,Drop-off center,EcoRecyclers Inc.,Disposed,Pyrometallurgical,Yes,Low,4.18
+EW_00579,France,2020,Provence-Alpes-CÃ´te d'Azur,Lyon,Headphones,Motorola,Motorola 7956,10,Repairable,Plastic,0.31,Cadmium,Retail take-back,Eco-Friendly Disposal,In Progress,Chemical,Yes,Low,0.62
+EW_00580,Japan,2020,Hokkaido,Osaka,Smart Plug,Asus,Asus 5848,10,Damaged,Mixed,0.26,Cadmium,Retail take-back,Green Future Recycling,Recycled,Pyrometallurgical,No,Medium,0.78
+EW_00581,Germany,2023,Hamburg,Cologne,Speakers,Dell,Dell 7633,10,Repairable,Glass,2.84,Lead,Pick-up service,Sustainable Waste Management,In Progress,Pyrometallurgical,Yes,Low,5.68
+EW_00582,Japan,2024,Hokkaido,Tokyo,Desktop Computer,Samsung,Samsung 1543,2,Damaged,Plastic,7.09,Lead,Municipal collection,Green Future Recycling,Pending,Chemical,No,High,42.54
+EW_00583,Canada,2021,Ontario,Toronto,Mobile Phone,Samsung,Samsung 5743,8,Obsolete,Ceramic,0.14,Brominated Flame Retardants,Drop-off center,Green Future Recycling,Pending,Thermal,Yes,Low,0.46
+EW_00584,Brazil,2021,Minas Gerais,Curitiba,Security Camera,Lenovo,Lenovo 9099,7,Working,Ceramic,0.66,Cadmium,Municipal collection,GreenTech Recycle,Disposed,Thermal,Yes,Low,1.32
+EW_00585,UK,2020,Manchester,Liverpool,Smart Oven,MSI,MSI 9572,6,Damaged,Plastic,22.08,Cadmium,Retail take-back,Sustainable Materials Recovery,Disposed,Mechanical,No,High,66.24
+EW_00586,India,2021,Delhi,Mumbai,Monitor,Lenovo,Lenovo 7904,2,Working,Plastic,2.64,Mercury,Retail take-back,Eco-Friendly Disposal,Disposed,Thermal,No,Low,5.28
+EW_00587,USA,2022,Florida,Los Angeles,Television,Lenovo,Lenovo 5150,1,Repairable,Rubber,16.77,Cadmium,Drop-off center,Eco-Friendly Disposal,In Progress,Mechanical,No,Medium,67.08
+EW_00588,India,2022,Delhi,Kolkata,Smart Thermostat,Lenovo,Lenovo 5384,3,Obsolete,Plastic,0.32,Cadmium,Municipal collection,Sustainable Electronics,Recycled,Hydrometallurgical,No,Low,0.7
+EW_00589,Australia,2021,New South Wales,Sydney,Television,HTC,HTC 7982,9,Non-working,Ceramic,16.06,Brominated Flame Retardants,Drop-off center,Sustainable Electronics,Recycled,Mechanical,Yes,High,77.09
+EW_00590,India,2020,Delhi,Kolkata,Tablet,Microsoft,Microsoft 3551,9,Working,Plastic,0.55,None,Municipal collection,Sustainable Materials Recovery,Recycled,Chemical,Yes,Low,1.65
+EW_00591,France,2021,Provence-Alpes-CÃ´te d'Azur,Lyon,Camera,Xiaomi,Xiaomi 3587,9,Obsolete,Metal,1.21,Brominated Flame Retardants,Drop-off center,EcoTech Recycling,Pending,Thermal,Yes,Low,2.66
+EW_00592,China,2022,Guangdong,Shanghai,Radio,Nokia,Nokia 7978,3,Non-working,Metal,0.85,Lead,Pick-up service,Eco-Friendly Disposal,In Progress,Hydrometallurgical,Yes,Low,2.04
+EW_00593,Germany,2021,North Rhine-Westphalia,Frankfurt,Calculator,BlackBerry,BlackBerry 6885,7,Damaged,Plastic,0.25,Lead,Pick-up service,Green Earth Recycling,In Progress,Thermal,Yes,Medium,0.75
+EW_00594,India,2020,Karnataka,Mumbai,Smart Plug,Amazon,Amazon 6617,9,Working,Metal,0.2,Lead,Retail take-back,Global Recycling Solutions,Disposed,Pyrometallurgical,Yes,Low,0.4
+EW_00595,China,2024,Guangdong,Guangzhou,Security Camera,OnePlus,OnePlus 5869,2,Working,Glass,0.62,Brominated Flame Retardants,Municipal collection,Green Earth Recycling,Disposed,Thermal,No,Low,1.24
+EW_00596,India,2023,Maharashtra,Chennai,Tablet,ZTE,ZTE 2455,5,Working,Plastic,0.41,Brominated Flame Retardants,Municipal collection,EcoTech Recycling,Disposed,Hydrometallurgical,No,Low,1.23
+EW_00597,India,2022,Delhi,Mumbai,Smart Coffee Maker,Amazon,Amazon 3528,6,Non-working,Rubber,1.5,Brominated Flame Retardants,Pick-up service,Green Earth Recycling,Disposed,Chemical,No,Low,3.6
+EW_00598,India,2022,Karnataka,Mumbai,Smart Refrigerator,Nokia,Nokia 8226,3,Working,Mixed,56.79,Cadmium,Retail take-back,Sustainable Materials Recovery,Disposed,Chemical,No,Medium,227.16
+EW_00599,Canada,2021,Ontario,Edmonton,Smart Sprinkler Controller,Sony,Sony 1288,8,Obsolete,Glass,0.32,Lead,Retail take-back,Sustainable Materials Recovery,Pending,Hydrometallurgical,No,Low,0.7
+EW_00600,Germany,2020,Berlin,Berlin,Fax Machine,Xiaomi,Xiaomi 5748,3,Non-working,Metal,5.74,Brominated Flame Retardants,Municipal collection,EcoTech Recycling,Pending,Thermal,No,Medium,13.78
+EW_00601,Canada,2021,British Columbia,Calgary,Smart Sprinkler Controller,ZTE,ZTE 5809,9,Damaged,Glass,0.4,Cadmium,Drop-off center,Eco-Friendly Disposal,Disposed,Thermal,No,Medium,1.2
+EW_00602,France,2020,Provence-Alpes-CÃ´te d'Azur,Paris,Smart Garage Door Opener,Oppo,Oppo 3728,5,Repairable,Ceramic,0.75,None,Retail take-back,Sustainable Waste Management,In Progress,Mechanical,Yes,Low,1.5
+EW_00603,Canada,2023,Ontario,Calgary,Smart Scale,Gateway,Gateway 8565,8,Working,Rubber,0.45,Lead,Municipal collection,Global Recycling Solutions,In Progress,Hydrometallurgical,Yes,Low,0.9
+EW_00604,Japan,2023,Fukuoka,Osaka,Calculator,Acer,Acer 7178,5,Repairable,Glass,0.14,Cadmium,Retail take-back,EcoRecyclers Inc.,In Progress,Hydrometallurgical,Yes,Low,0.28
+EW_00605,Japan,2020,Tokyo,Yokohama,Digital Clock,LG,LG 9171,1,Working,Ceramic,0.11,Brominated Flame Retardants,Drop-off center,Global Recycling Solutions,In Progress,Thermal,Yes,Low,0.22
+EW_00606,UK,2020,Birmingham,Liverpool,Desktop Computer,Microsoft,Microsoft 6515,9,Damaged,Ceramic,5.95,Mercury,Pick-up service,Global Recycling Solutions,Disposed,Pyrometallurgical,No,High,35.7
+EW_00607,Japan,2020,Osaka,Yokohama,Keyboard,MSI,MSI 6974,1,Working,Metal,0.56,Lead,Municipal collection,Sustainable Waste Management,Pending,Hydrometallurgical,No,Low,1.12
+EW_00608,China,2022,Beijing,Shanghai,Security Camera,Google,Google 9444,1,Repairable,Rubber,0.65,Cadmium,Retail take-back,Eco-Friendly Disposal,Recycled,Thermal,No,Low,1.3
+EW_00609,Australia,2024,New South Wales,Perth,Smart Doorbell,ZTE,ZTE 3018,6,Working,Mixed,0.35,None,Drop-off center,Global Recycling Solutions,Disposed,Chemical,No,Low,0.7
+EW_00610,USA,2022,Texas,New York,USB Drive,Motorola,Motorola 5088,1,Repairable,Plastic,0.09,Lead,Retail take-back,Sustainable Materials Recovery,Disposed,Hydrometallurgical,No,Low,0.18
+EW_00611,Canada,2022,Alberta,Vancouver,Smart Window Blinds,Oppo,Oppo 3411,8,Non-working,Mixed,0.68,Cadmium,Drop-off center,GreenTech Recycle,Recycled,Thermal,Yes,Low,1.63
+EW_00612,Canada,2024,Quebec,Edmonton,MP3 Player,Amazon,Amazon 1477,9,Damaged,Metal,0.24,None,Drop-off center,GreenTech Recycle,Pending,Mechanical,Yes,Medium,0.72
+EW_00613,India,2022,Gujarat,Delhi,Smart Garage Door Opener,Xiaomi,Xiaomi 2252,8,Repairable,Ceramic,0.74,Lead,Municipal collection,Green Earth Recycling,Disposed,Mechanical,Yes,Low,1.48
+EW_00614,UK,2020,Birmingham,Birmingham,CD/DVD Player,Huawei,Huawei 6799,1,Repairable,Glass,1.19,Cadmium,Pick-up service,GreenTech Recycle,Pending,Mechanical,Yes,Low,2.38
+EW_00615,Brazil,2024,Rio de Janeiro,Rio de Janeiro,Mobile Phone,Xiaomi,Xiaomi 6216,2,Non-working,Ceramic,0.22,Brominated Flame Retardants,Drop-off center,Sustainable Materials Recovery,In Progress,Hydrometallurgical,Yes,Medium,0.79
+EW_00616,Canada,2020,Alberta,Edmonton,Digital Clock,Xiaomi,Xiaomi 2774,10,Obsolete,Metal,0.17,Brominated Flame Retardants,Retail take-back,GreenTech Recycle,Disposed,Thermal,Yes,Low,0.37
+EW_00617,Germany,2023,Bavaria,Frankfurt,Fax Machine,LG,LG 1456,8,Repairable,Ceramic,4.72,None,Pick-up service,Sustainable Waste Management,Pending,Thermal,Yes,Low,9.44
+EW_00618,Germany,2020,North Rhine-Westphalia,Hamburg,Smart Scale,LG,LG 7564,9,Working,Rubber,0.31,Cadmium,Pick-up service,Sustainable Waste Management,Recycled,Hydrometallurgical,Yes,Low,0.62
+EW_00619,Japan,2024,Hokkaido,Sapporo,VR Headset,ZTE,ZTE 7885,4,Damaged,Ceramic,0.97,Brominated Flame Retardants,Retail take-back,EcoTech Recycling,In Progress,Thermal,Yes,Medium,2.91
+EW_00620,Japan,2022,Fukuoka,Osaka,Television,Razer,Razer 7417,10,Repairable,Metal,18.23,Brominated Flame Retardants,Municipal collection,Sustainable Electronics,In Progress,Hydrometallurgical,No,Medium,72.92
+EW_00621,USA,2022,Texas,Houston,Smart Window Blinds,Oppo,Oppo 9459,6,Working,Metal,0.86,Lead,Municipal collection,EcoRecyclers Inc.,In Progress,Chemical,No,Low,1.72
+EW_00622,China,2021,Beijing,Shanghai,Keyboard,Amazon,Amazon 4321,2,Damaged,Glass,0.53,None,Retail take-back,Global Recycling Solutions,Pending,Pyrometallurgical,No,Medium,1.59
+EW_00623,India,2022,Delhi,Bangalore,CD/DVD Player,Apple,Apple 6243,8,Non-working,Rubber,1.95,Cadmium,Drop-off center,Sustainable Materials Recovery,Disposed,Chemical,No,Low,4.68
+EW_00624,UK,2022,Liverpool,London,Smart Smoke Detector,Apple,Apple 2643,6,Non-working,Metal,0.23,Mercury,Pick-up service,Sustainable Materials Recovery,In Progress,Hydrometallurgical,No,Low,0.55
+EW_00625,China,2021,Beijing,Chengdu,Keyboard,ZTE,ZTE 8812,7,Repairable,Metal,0.9,Cadmium,Drop-off center,Green Earth Recycling,Disposed,Chemical,No,Low,1.8
+EW_00626,Australia,2020,Queensland,Brisbane,Television,MSI,MSI 4508,2,Obsolete,Metal,23.24,Brominated Flame Retardants,Retail take-back,Green Earth Recycling,Recycled,Hydrometallurgical,Yes,High,102.26
+EW_00627,UK,2020,Manchester,London,Radio,Apple,Apple 4093,7,Non-working,Rubber,0.5,Lead,Municipal collection,EcoRecyclers Inc.,In Progress,Chemical,No,Low,1.2
+EW_00628,Brazil,2023,Rio de Janeiro,Rio de Janeiro,Digital Clock,Amazon,Amazon 2541,2,Non-working,Metal,0.12,None,Pick-up service,Sustainable Electronics,In Progress,Thermal,Yes,Low,0.29
+EW_00629,UK,2023,London,Manchester,Smart Light Bulb,OnePlus,OnePlus 3439,1,Damaged,Rubber,0.22,None,Pick-up service,GreenTech Recycle,In Progress,Hydrometallurgical,No,Medium,0.66
+EW_00630,Germany,2023,Hamburg,Cologne,Keyboard,Toshiba,Toshiba 1960,1,Obsolete,Plastic,0.85,Brominated Flame Retardants,Pick-up service,EcoRecyclers Inc.,Pending,Pyrometallurgical,Yes,Low,1.87
+EW_00631,China,2024,Beijing,Chengdu,Smart Plug,Amazon,Amazon 8618,2,Damaged,Metal,0.23,None,Retail take-back,Sustainable Waste Management,In Progress,Mechanical,Yes,Medium,0.69
+EW_00632,Germany,2023,Berlin,Cologne,Keyboard,Oppo,Oppo 5977,7,Non-working,Metal,0.67,Mercury,Drop-off center,Sustainable Materials Recovery,In Progress,Hydrometallurgical,Yes,Low,1.61
+EW_00633,Australia,2020,South Australia,Perth,Smart Scale,BlackBerry,BlackBerry 1267,1,Damaged,Plastic,0.42,None,Retail take-back,Sustainable Waste Management,In Progress,Thermal,No,Medium,1.26
+EW_00634,USA,2020,New York,Phoenix,External Hard Drive,Acer,Acer 1559,6,Obsolete,Mixed,0.51,None,Drop-off center,Global Recycling Solutions,Disposed,Pyrometallurgical,No,Low,1.12
+EW_00635,Australia,2020,Queensland,Sydney,Smart Mirror,ZTE,ZTE 6898,10,Non-working,Mixed,2.75,Mercury,Municipal collection,Sustainable Materials Recovery,Disposed,Chemical,No,Medium,6.6
+EW_00636,Australia,2023,Western Australia,Adelaide,External Hard Drive,Acer,Acer 4256,5,Repairable,Ceramic,0.5,Mercury,Pick-up service,Sustainable Waste Management,Recycled,Thermal,Yes,Low,1
+EW_00637,UK,2021,Glasgow,Liverpool,Mobile Phone,Dell,Dell 8479,4,Obsolete,Plastic,0.19,Brominated Flame Retardants,Pick-up service,Green Earth Recycling,Pending,Hydrometallurgical,Yes,Low,0.63
+EW_00638,Australia,2022,Victoria,Sydney,Mobile Phone,Motorola,Motorola 1689,9,Damaged,Rubber,0.11,Brominated Flame Retardants,Pick-up service,Global Recycling Solutions,Pending,Thermal,No,Medium,0.49
+EW_00639,USA,2023,Florida,New York,Keyboard,Vivo,Vivo 9868,6,Working,Mixed,0.88,None,Pick-up service,Global Recycling Solutions,Disposed,Chemical,Yes,Low,1.76
+EW_00640,Japan,2021,Aichi,Nagoya,Television,Asus,Asus 8710,6,Obsolete,Plastic,27.58,Mercury,Pick-up service,Sustainable Materials Recovery,In Progress,Thermal,No,High,121.35
+EW_00641,India,2023,Delhi,Kolkata,Smart Coffee Maker,Gateway,Gateway 2949,2,Obsolete,Glass,1.74,Lead,Municipal collection,Sustainable Materials Recovery,In Progress,Hydrometallurgical,Yes,Low,3.83
+EW_00642,Germany,2024,Hamburg,Berlin,Smart Thermostat,Samsung,Samsung 2134,6,Obsolete,Metal,0.33,Cadmium,Drop-off center,Sustainable Electronics,Recycled,Pyrometallurgical,Yes,Low,0.73
+EW_00643,USA,2023,New York,Phoenix,Headphones,Sony,Sony 4932,3,Damaged,Ceramic,0.34,Brominated Flame Retardants,Retail take-back,Green Future Recycling,Recycled,Thermal,Yes,Medium,1.02
+EW_00644,India,2021,Tamil Nadu,Bangalore,Laptop,Razer,Razer 4799,5,Working,Metal,2.45,None,Pick-up service,Eco-Friendly Disposal,Pending,Chemical,Yes,Low,7.35
+EW_00645,India,2023,Maharashtra,Chennai,Speakers,BlackBerry,BlackBerry 8430,6,Working,Metal,1.82,Mercury,Pick-up service,GreenTech Recycle,Disposed,Chemical,Yes,Low,3.64
+EW_00646,USA,2020,Illinois,Houston,Smart Coffee Maker,Huawei,Huawei 9466,3,Obsolete,Plastic,1.71,Cadmium,Drop-off center,EcoRecyclers Inc.,Disposed,Hydrometallurgical,Yes,Low,3.76
+EW_00647,Germany,2021,Hamburg,Frankfurt,Printer,Lenovo,Lenovo 3273,8,Repairable,Ceramic,3.68,Mercury,Municipal collection,Global Recycling Solutions,Pending,Hydrometallurgical,No,Low,7.36
+EW_00648,Brazil,2020,ParanÃ¡,Rio de Janeiro,Smart Water Leak Detector,Motorola,Motorola 4320,4,Working,Metal,0.12,Mercury,Pick-up service,GreenTech Recycle,Recycled,Pyrometallurgical,Yes,Low,0.24
+EW_00649,Australia,2024,Victoria,Adelaide,Smart Light Bulb,Panasonic,Panasonic 6814,4,Working,Rubber,0.22,None,Drop-off center,Sustainable Electronics,In Progress,Pyrometallurgical,No,Low,0.44
+EW_00650,India,2023,Gujarat,Kolkata,Security Camera,Toshiba,Toshiba 7898,7,Repairable,Mixed,0.42,Lead,Drop-off center,EcoTech Recycling,Pending,Thermal,Yes,Low,0.84
+EW_00651,France,2023,Nouvelle-Aquitaine,Paris,Smart Refrigerator,Panasonic,Panasonic 2535,2,Repairable,Mixed,83.22,Lead,Pick-up service,Eco-Friendly Disposal,Pending,Hydrometallurgical,No,Medium,332.88
+EW_00652,Australia,2021,South Australia,Adelaide,Laptop,Google,Google 1891,5,Damaged,Rubber,1.6,Brominated Flame Retardants,Drop-off center,Global Recycling Solutions,In Progress,Pyrometallurgical,Yes,Medium,7.2
+EW_00653,India,2021,Maharashtra,Mumbai,Mouse,BlackBerry,BlackBerry 4521,8,Damaged,Glass,0.28,Mercury,Retail take-back,EcoRecyclers Inc.,Pending,Thermal,No,Medium,0.84
+EW_00654,USA,2020,Illinois,Chicago,External Hard Drive,BlackBerry,BlackBerry 4140,7,Non-working,Rubber,0.36,Mercury,Municipal collection,EcoRecyclers Inc.,Recycled,Mechanical,No,Low,0.86
+EW_00655,UK,2021,Manchester,Liverpool,Headphones,Razer,Razer 1559,4,Damaged,Glass,0.21,Lead,Drop-off center,Eco-Friendly Disposal,Pending,Thermal,Yes,Medium,0.63
+EW_00656,Germany,2020,Hamburg,Berlin,Printer,BlackBerry,BlackBerry 5443,1,Working,Glass,3.36,Mercury,Retail take-back,Sustainable Materials Recovery,Disposed,Thermal,No,Low,6.72
+EW_00657,Germany,2022,North Rhine-Westphalia,Hamburg,Keyboard,HP,HP 3337,7,Non-working,Plastic,0.92,None,Pick-up service,GreenTech Recycle,Pending,Thermal,Yes,Low,2.21
+EW_00658,Brazil,2023,SÃ£o Paulo,Salvador,Power Bank,HTC,HTC 6694,7,Repairable,Plastic,0.38,Lead,Pick-up service,Sustainable Materials Recovery,Pending,Chemical,Yes,Low,0.76
+EW_00659,India,2023,Gujarat,Mumbai,Smart Oven,Xiaomi,Xiaomi 3607,6,Damaged,Rubber,30.59,Lead,Municipal collection,Green Earth Recycling,Pending,Mechanical,No,High,91.77
+EW_00660,China,2020,Shanghai,Shenzhen,Smart Dishwasher,Microsoft,Microsoft 3217,8,Damaged,Plastic,46.91,Lead,Retail take-back,Sustainable Materials Recovery,Disposed,Mechanical,Yes,High,140.73
+EW_00661,Brazil,2023,SÃ£o Paulo,Belo Horizonte,Printer,MSI,MSI 7267,8,Non-working,Glass,5.83,Mercury,Retail take-back,Sustainable Waste Management,Pending,Chemical,No,Medium,13.99
+EW_00662,Canada,2024,Quebec,Vancouver,Smart Lock,OnePlus,OnePlus 3747,8,Repairable,Metal,0.68,Mercury,Municipal collection,Sustainable Electronics,In Progress,Mechanical,Yes,Low,1.36
+EW_00663,Brazil,2022,ParanÃ¡,Rio de Janeiro,USB Drive,BlackBerry,BlackBerry 3497,3,Non-working,Rubber,0.15,Brominated Flame Retardants,Pick-up service,Green Future Recycling,Pending,Hydrometallurgical,No,Low,0.36
+EW_00664,India,2021,Karnataka,Delhi,GPS Device,OnePlus,OnePlus 5039,8,Obsolete,Ceramic,0.42,None,Retail take-back,Green Future Recycling,Pending,Thermal,No,Low,0.92
+EW_00665,UK,2020,Glasgow,Liverpool,Smart Doorbell,Apple,Apple 9748,4,Repairable,Mixed,0.25,Mercury,Municipal collection,Eco-Friendly Disposal,In Progress,Pyrometallurgical,Yes,Low,0.5
+EW_00666,France,2020,Auvergne-RhÃ´ne-Alpes,Bordeaux,Smart Sprinkler Controller,Google,Google 5312,8,Working,Metal,0.8,Mercury,Retail take-back,Green Earth Recycling,Recycled,Mechanical,No,Low,1.6
+EW_00667,Canada,2024,Alberta,Vancouver,Smart Doorbell,Sony,Sony 2714,4,Damaged,Plastic,0.33,None,Drop-off center,Green Future Recycling,In Progress,Pyrometallurgical,Yes,Medium,0.99
+EW_00668,Germany,2020,Berlin,Frankfurt,Smart Doorbell,Huawei,Huawei 6735,2,Obsolete,Mixed,0.49,Lead,Drop-off center,Sustainable Materials Recovery,Pending,Hydrometallurgical,No,Low,1.08
+EW_00669,France,2022,ÃŽle-de-France,Marseille,Smart Window Blinds,Toshiba,Toshiba 3534,1,Non-working,Plastic,0.77,Mercury,Pick-up service,Sustainable Electronics,Recycled,Pyrometallurgical,Yes,Low,1.85
+EW_00670,France,2022,Provence-Alpes-CÃ´te d'Azur,Bordeaux,Smart Door Sensor,Sony,Sony 1707,9,Obsolete,Plastic,0.11,Lead,Retail take-back,Sustainable Waste Management,Disposed,Mechanical,Yes,Low,0.24
+EW_00671,India,2023,Delhi,Chennai,Smart Door Sensor,Microsoft,Microsoft 7821,10,Obsolete,Ceramic,0.19,Lead,Drop-off center,Green Earth Recycling,Disposed,Thermal,No,Low,0.42
+EW_00672,Australia,2021,South Australia,Adelaide,Smart Sprinkler Controller,Google,Google 5404,7,Damaged,Mixed,0.43,Mercury,Pick-up service,Sustainable Materials Recovery,Disposed,Chemical,Yes,Medium,1.29
+EW_00673,USA,2021,Illinois,New York,Game Console,Panasonic,Panasonic 3649,8,Non-working,Rubber,2.8,None,Retail take-back,Eco-Friendly Disposal,In Progress,Thermal,No,Medium,6.72
+EW_00674,China,2021,Zhejiang,Beijing,Smart Plug,Motorola,Motorola 6899,9,Working,Glass,0.21,Cadmium,Municipal collection,Green Future Recycling,In Progress,Mechanical,Yes,Low,0.42
+EW_00675,Australia,2022,New South Wales,Sydney,Printer,Lenovo,Lenovo 5952,7,Damaged,Rubber,7.14,None,Pick-up service,Sustainable Materials Recovery,In Progress,Chemical,Yes,High,21.42
+EW_00676,China,2024,Zhejiang,Chengdu,Smart Sprinkler Controller,Oppo,Oppo 9090,8,Obsolete,Glass,0.65,Cadmium,Drop-off center,Green Earth Recycling,Pending,Chemical,Yes,Low,1.43
+EW_00677,Japan,2023,Aichi,Osaka,Router,OnePlus,OnePlus 6539,1,Obsolete,Glass,0.53,Lead,Retail take-back,Eco-Friendly Disposal,Pending,Chemical,Yes,Low,1.17
+EW_00678,Australia,2021,New South Wales,Adelaide,Smart Window Blinds,Apple,Apple 5036,8,Damaged,Mixed,1.34,Lead,Pick-up service,EcoRecyclers Inc.,In Progress,Thermal,No,Medium,4.02
+EW_00679,UK,2023,London,Glasgow,Scanner,Amazon,Amazon 2364,3,Damaged,Ceramic,4.66,None,Retail take-back,Eco-Friendly Disposal,Pending,Hydrometallurgical,Yes,Medium,13.98
+EW_00680,France,2023,Occitanie,Toulouse,Power Bank,Google,Google 2065,4,Non-working,Glass,0.38,Cadmium,Retail take-back,GreenTech Recycle,Recycled,Chemical,Yes,Low,0.91
+EW_00681,USA,2024,Florida,Phoenix,Smart Coffee Maker,Acer,Acer 8614,7,Repairable,Metal,1.58,Cadmium,Municipal collection,EcoTech Recycling,In Progress,Chemical,Yes,Low,3.16
+EW_00682,UK,2021,Manchester,Birmingham,Power Bank,Toshiba,Toshiba 8679,5,Non-working,Rubber,0.23,None,Retail take-back,Sustainable Electronics,Disposed,Pyrometallurgical,No,Low,0.55
+EW_00683,Germany,2024,Hamburg,Berlin,Laptop,Huawei,Huawei 1440,6,Damaged,Ceramic,2.11,None,Drop-off center,EcoRecyclers Inc.,Pending,Pyrometallurgical,Yes,High,9.5
+EW_00684,Germany,2020,Berlin,Munich,Mouse,BlackBerry,BlackBerry 9710,7,Damaged,Plastic,0.3,Mercury,Drop-off center,GreenTech Recycle,Disposed,Mechanical,Yes,Medium,0.9
+EW_00685,India,2021,Maharashtra,Mumbai,Smart Home Device,Lenovo,Lenovo 7738,7,Obsolete,Plastic,0.47,Brominated Flame Retardants,Retail take-back,Green Earth Recycling,Disposed,Mechanical,Yes,Low,1.03
+EW_00686,UK,2022,Birmingham,Birmingham,Smart Oven,ZTE,ZTE 1886,2,Repairable,Ceramic,29.33,Cadmium,Municipal collection,Global Recycling Solutions,Disposed,Mechanical,No,Low,58.66
+EW_00687,China,2020,Beijing,Chengdu,Television,HTC,HTC 2650,5,Damaged,Mixed,23.63,Mercury,Municipal collection,Green Future Recycling,Recycled,Mechanical,No,High,141.78
+EW_00688,Australia,2021,Western Australia,Brisbane,Television,Acer,Acer 2713,2,Repairable,Mixed,25.06,None,Drop-off center,GreenTech Recycle,Pending,Thermal,No,Medium,100.24
+EW_00689,France,2020,Auvergne-RhÃ´ne-Alpes,Marseille,Security Camera,Amazon,Amazon 2787,7,Obsolete,Plastic,0.79,Mercury,Municipal collection,Sustainable Waste Management,Disposed,Thermal,No,Low,1.74
+EW_00690,USA,2021,New York,Chicago,Smart Refrigerator,Google,Google 9278,9,Repairable,Metal,81.08,Lead,Retail take-back,Global Recycling Solutions,In Progress,Thermal,No,Medium,324.32
+EW_00691,UK,2024,Birmingham,Birmingham,Smart Sprinkler Controller,HTC,HTC 4870,1,Obsolete,Plastic,0.53,None,Drop-off center,Sustainable Electronics,Pending,Hydrometallurgical,No,Low,1.17
+EW_00692,Brazil,2022,ParanÃ¡,Salvador,External Hard Drive,Google,Google 1499,1,Repairable,Glass,0.71,None,Municipal collection,Global Recycling Solutions,Recycled,Chemical,No,Low,1.42
+EW_00693,Australia,2023,Western Australia,Melbourne,Smart Window Blinds,Lenovo,Lenovo 6244,4,Damaged,Mixed,1.28,Mercury,Pick-up service,Green Earth Recycling,Recycled,Pyrometallurgical,Yes,Medium,3.84
+EW_00694,India,2020,Maharashtra,Kolkata,External Hard Drive,LG,LG 1958,3,Repairable,Ceramic,0.44,Brominated Flame Retardants,Pick-up service,Eco-Friendly Disposal,Pending,Mechanical,Yes,Low,0.88
+EW_00695,Japan,2023,Aichi,Yokohama,Smart Light Bulb,Vivo,Vivo 6874,10,Repairable,Ceramic,0.14,Mercury,Pick-up service,Sustainable Waste Management,In Progress,Mechanical,No,Low,0.28
+EW_00696,China,2020,Guangdong,Chengdu,Keyboard,Nokia,Nokia 8362,1,Repairable,Mixed,0.82,Mercury,Drop-off center,Green Earth Recycling,Recycled,Hydrometallurgical,Yes,Low,1.64
+EW_00697,Australia,2021,New South Wales,Perth,Power Bank,Lenovo,Lenovo 5627,4,Damaged,Rubber,0.31,Mercury,Retail take-back,Sustainable Materials Recovery,Recycled,Hydrometallurgical,Yes,Medium,0.93
+EW_00698,USA,2023,Texas,Chicago,CD/DVD Player,BlackBerry,BlackBerry 1809,5,Obsolete,Metal,1.02,Cadmium,Retail take-back,Green Earth Recycling,Disposed,Chemical,Yes,Low,2.24
+EW_00699,China,2021,Zhejiang,Beijing,Smart Plug,Acer,Acer 3412,5,Damaged,Glass,0.19,Cadmium,Pick-up service,Global Recycling Solutions,Recycled,Mechanical,No,Medium,0.57
+EW_00700,China,2020,Guangdong,Shanghai,Smart Doorbell,LG,LG 3261,10,Working,Plastic,0.48,Mercury,Municipal collection,EcoTech Recycling,Recycled,Pyrometallurgical,No,Low,0.96
+EW_00701,Australia,2024,New South Wales,Brisbane,Smart Sprinkler Controller,OnePlus,OnePlus 1114,7,Damaged,Ceramic,0.65,Lead,Drop-off center,Sustainable Waste Management,In Progress,Chemical,Yes,Medium,1.95
+EW_00702,USA,2023,Texas,Chicago,GPS Device,Panasonic,Panasonic 6657,1,Repairable,Glass,0.41,Cadmium,Retail take-back,Eco-Friendly Disposal,Recycled,Hydrometallurgical,Yes,Low,0.82
+EW_00703,Japan,2023,Hokkaido,Tokyo,CD/DVD Player,Microsoft,Microsoft 8940,5,Damaged,Ceramic,1.99,Brominated Flame Retardants,Municipal collection,Global Recycling Solutions,Pending,Pyrometallurgical,No,Medium,5.97
+EW_00704,Germany,2021,Hesse,Berlin,Mobile Phone,Sony,Sony 7215,4,Non-working,Rubber,0.13,Brominated Flame Retardants,Drop-off center,EcoTech Recycling,Recycled,Hydrometallurgical,Yes,Medium,0.47
+EW_00705,Germany,2022,North Rhine-Westphalia,Cologne,MP3 Player,HP,HP 6714,5,Non-working,Mixed,0.22,None,Municipal collection,Sustainable Waste Management,Disposed,Hydrometallurgical,Yes,Low,0.53
+EW_00706,China,2024,Shanghai,Chengdu,Smart Dishwasher,LG,LG 7188,3,Damaged,Glass,30.06,Brominated Flame Retardants,Municipal collection,Sustainable Waste Management,Pending,Hydrometallurgical,Yes,High,90.18
+EW_00707,Australia,2022,South Australia,Perth,Smart Scale,MSI,MSI 1664,3,Non-working,Plastic,0.37,Mercury,Drop-off center,Green Future Recycling,Disposed,Pyrometallurgical,No,Low,0.89
+EW_00708,Canada,2024,Manitoba,Edmonton,Smart Dishwasher,Apple,Apple 7486,9,Obsolete,Plastic,43.51,Lead,Retail take-back,Sustainable Materials Recovery,Disposed,Mechanical,No,Medium,95.72
+EW_00709,Brazil,2021,Rio de Janeiro,SÃ£o Paulo,Scanner,Asus,Asus 2326,4,Repairable,Rubber,4.86,None,Municipal collection,Global Recycling Solutions,Pending,Thermal,No,Low,9.72
+EW_00710,Canada,2021,Ontario,Calgary,Charger,BlackBerry,BlackBerry 6428,1,Obsolete,Rubber,0.13,Brominated Flame Retardants,Retail take-back,EcoRecyclers Inc.,Disposed,Pyrometallurgical,No,Low,0.29
+EW_00711,Brazil,2022,ParanÃ¡,SÃ£o Paulo,Smart Dishwasher,Lenovo,Lenovo 8784,4,Working,Ceramic,36.21,Mercury,Pick-up service,Sustainable Materials Recovery,Recycled,Pyrometallurgical,Yes,Low,72.42
+EW_00712,Germany,2021,Bavaria,Cologne,Security Camera,Acer,Acer 1823,9,Working,Glass,0.8,None,Retail take-back,Green Earth Recycling,Pending,Hydrometallurgical,No,Low,1.6
+EW_00713,Australia,2023,Western Australia,Brisbane,Smartwatch,Razer,Razer 9586,3,Damaged,Metal,0.11,None,Pick-up service,Green Future Recycling,Disposed,Thermal,No,Medium,0.33
+EW_00714,Japan,2023,Hokkaido,Sapporo,VR Headset,Oppo,Oppo 7460,7,Non-working,Mixed,0.99,Mercury,Pick-up service,Eco-Friendly Disposal,Disposed,Thermal,No,Low,2.38
+EW_00715,Japan,2022,Hokkaido,Osaka,VR Headset,HTC,HTC 4019,4,Non-working,Mixed,0.99,Brominated Flame Retardants,Retail take-back,GreenTech Recycle,Pending,Hydrometallurgical,Yes,Low,2.38
+EW_00716,France,2020,Nouvelle-Aquitaine,Paris,Power Bank,Nokia,Nokia 1756,8,Repairable,Plastic,0.4,Mercury,Drop-off center,Global Recycling Solutions,Pending,Chemical,Yes,Low,0.8
+EW_00717,UK,2020,Manchester,Birmingham,CD/DVD Player,Motorola,Motorola 8804,3,Working,Ceramic,1.22,Lead,Pick-up service,Green Earth Recycling,Disposed,Pyrometallurgical,No,Low,2.44
+EW_00718,Canada,2023,British Columbia,Toronto,Security Camera,Toshiba,Toshiba 6580,7,Obsolete,Ceramic,0.7,None,Drop-off center,Green Earth Recycling,Recycled,Mechanical,Yes,Low,1.54
+EW_00719,Germany,2022,Bavaria,Berlin,Smart Garage Door Opener,Apple,Apple 4960,5,Obsolete,Rubber,0.55,Brominated Flame Retardants,Retail take-back,Green Earth Recycling,Disposed,Chemical,Yes,Low,1.21
+EW_00720,Japan,2023,Aichi,Osaka,CD/DVD Player,Motorola,Motorola 5619,7,Repairable,Ceramic,1.27,Brominated Flame Retardants,Municipal collection,EcoTech Recycling,Pending,Chemical,Yes,Low,2.54
+EW_00721,China,2021,Zhejiang,Chengdu,Calculator,Nokia,Nokia 2833,6,Damaged,Metal,0.19,Lead,Pick-up service,Green Earth Recycling,Pending,Hydrometallurgical,Yes,Medium,0.57
+EW_00722,Japan,2020,Osaka,Yokohama,VR Headset,OnePlus,OnePlus 4674,1,Repairable,Ceramic,0.89,Brominated Flame Retardants,Municipal collection,Sustainable Electronics,Pending,Thermal,Yes,Low,1.78
+EW_00723,UK,2024,London,Glasgow,Radio,Amazon,Amazon 4694,10,Damaged,Rubber,0.95,Lead,Drop-off center,Sustainable Materials Recovery,Disposed,Thermal,No,Medium,2.85
+EW_00724,USA,2022,Texas,Phoenix,Smart Garage Door Opener,Xiaomi,Xiaomi 6213,7,Obsolete,Ceramic,0.67,None,Drop-off center,GreenTech Recycle,Recycled,Hydrometallurgical,No,Low,1.47
+EW_00725,France,2020,Occitanie,Lyon,Charger,Apple,Apple 9193,9,Non-working,Mixed,0.17,None,Retail take-back,EcoTech Recycling,Pending,Pyrometallurgical,No,Low,0.41
+EW_00726,India,2021,Maharashtra,Kolkata,Power Bank,Huawei,Huawei 9782,8,Non-working,Glass,0.49,Brominated Flame Retardants,Municipal collection,Eco-Friendly Disposal,Disposed,Chemical,Yes,Low,1.18
+EW_00727,France,2021,Nouvelle-Aquitaine,Marseille,Mouse,Dell,Dell 9435,2,Damaged,Glass,0.1,Mercury,Pick-up service,Global Recycling Solutions,Pending,Hydrometallurgical,No,Medium,0.3
+EW_00728,France,2021,Provence-Alpes-CÃ´te d'Azur,Toulouse,Smartwatch,Google,Google 6329,3,Damaged,Metal,0.12,Cadmium,Drop-off center,EcoTech Recycling,In Progress,Hydrometallurgical,No,Medium,0.36
+EW_00729,France,2022,Nouvelle-Aquitaine,Bordeaux,Drone,MSI,MSI 1561,3,Non-working,Rubber,0.66,Lead,Pick-up service,Sustainable Materials Recovery,Recycled,Mechanical,No,Low,1.58
+EW_00730,France,2022,Nouvelle-Aquitaine,Bordeaux,Smart Home Device,ZTE,ZTE 8203,4,Damaged,Mixed,0.37,Brominated Flame Retardants,Municipal collection,Green Future Recycling,Disposed,Thermal,No,Medium,1.11
+EW_00731,Japan,2022,Tokyo,Sapporo,USB Drive,HTC,HTC 4598,9,Obsolete,Metal,0.07,Mercury,Pick-up service,Eco-Friendly Disposal,Recycled,Chemical,No,Low,0.15
+EW_00732,China,2022,Guangdong,Shanghai,Scanner,ZTE,ZTE 6819,2,Damaged,Glass,4.95,Lead,Drop-off center,Sustainable Electronics,In Progress,Pyrometallurgical,No,Medium,14.85
+EW_00733,France,2022,ÃŽle-de-France,Toulouse,Smartwatch,Google,Google 1088,2,Damaged,Mixed,0.05,None,Pick-up service,EcoTech Recycling,In Progress,Mechanical,No,Medium,0.15
+EW_00734,Canada,2024,Ontario,Montreal,Digital Clock,Huawei,Huawei 1076,1,Damaged,Plastic,0.23,Lead,Drop-off center,EcoRecyclers Inc.,Pending,Chemical,No,Medium,0.69
+EW_00735,Australia,2023,Victoria,Melbourne,External Hard Drive,Panasonic,Panasonic 3865,8,Obsolete,Ceramic,0.68,None,Retail take-back,GreenTech Recycle,In Progress,Thermal,Yes,Low,1.5
+EW_00736,Australia,2021,Western Australia,Adelaide,Speakers,Gateway,Gateway 3818,8,Non-working,Ceramic,1.78,Lead,Retail take-back,EcoRecyclers Inc.,Recycled,Mechanical,Yes,Low,4.27
+EW_00737,Germany,2021,Berlin,Munich,Smart Lock,Apple,Apple 8576,8,Repairable,Rubber,0.64,Cadmium,Retail take-back,EcoRecyclers Inc.,Recycled,Mechanical,Yes,Low,1.28
+EW_00738,USA,2021,Illinois,Phoenix,Smart Light Bulb,Huawei,Huawei 9334,3,Damaged,Ceramic,0.15,Cadmium,Municipal collection,Sustainable Waste Management,Pending,Hydrometallurgical,No,Medium,0.45
+EW_00739,Brazil,2023,Rio de Janeiro,Rio de Janeiro,Smart Coffee Maker,Apple,Apple 4880,7,Non-working,Metal,1.47,Lead,Retail take-back,Green Earth Recycling,In Progress,Thermal,No,Low,3.53
+EW_00740,India,2020,Delhi,Kolkata,Smart Door Sensor,Acer,Acer 5935,9,Working,Mixed,0.13,Brominated Flame Retardants,Retail take-back,Eco-Friendly Disposal,Disposed,Pyrometallurgical,No,Low,0.26
+EW_00741,Germany,2023,North Rhine-Westphalia,Frankfurt,Printer,Xiaomi,Xiaomi 1650,5,Obsolete,Glass,3.76,Lead,Retail take-back,EcoTech Recycling,In Progress,Mechanical,No,Low,8.27
+EW_00742,Canada,2023,Alberta,Edmonton,Mobile Phone,Sony,Sony 2101,8,Obsolete,Plastic,0.15,Mercury,Retail take-back,Green Earth Recycling,Recycled,Chemical,Yes,Low,0.49
+EW_00743,Brazil,2021,ParanÃ¡,Salvador,Monitor,Amazon,Amazon 1373,5,Obsolete,Mixed,3.42,None,Pick-up service,GreenTech Recycle,Disposed,Hydrometallurgical,No,Low,7.52
+EW_00744,Brazil,2023,Minas Gerais,Belo Horizonte,Security Camera,Acer,Acer 3231,10,Repairable,Metal,0.32,None,Retail take-back,EcoTech Recycling,Pending,Pyrometallurgical,No,Low,0.64
+EW_00745,France,2024,Auvergne-RhÃ´ne-Alpes,Lyon,External Hard Drive,Vivo,Vivo 7482,9,Repairable,Rubber,0.39,Mercury,Retail take-back,GreenTech Recycle,Disposed,Hydrometallurgical,Yes,Low,0.78
+EW_00746,Japan,2023,Osaka,Osaka,Router,Nokia,Nokia 9590,7,Repairable,Rubber,0.3,None,Municipal collection,EcoRecyclers Inc.,In Progress,Chemical,No,Low,0.6
+EW_00747,France,2023,ÃŽle-de-France,Toulouse,Power Bank,Microsoft,Microsoft 9728,1,Repairable,Mixed,0.39,Mercury,Retail take-back,EcoRecyclers Inc.,In Progress,Thermal,Yes,Low,0.78
+EW_00748,Japan,2023,Tokyo,Sapporo,Digital Clock,Huawei,Huawei 8259,7,Damaged,Rubber,0.26,Mercury,Retail take-back,Sustainable Waste Management,Recycled,Hydrometallurgical,Yes,Medium,0.78
+EW_00749,USA,2022,California,Los Angeles,Projector,LG,LG 3960,8,Repairable,Ceramic,3.38,Brominated Flame Retardants,Retail take-back,Green Earth Recycling,In Progress,Thermal,Yes,Low,6.76
+EW_00750,Japan,2022,Fukuoka,Yokohama,Radio,Xiaomi,Xiaomi 8639,7,Obsolete,Ceramic,0.99,Mercury,Drop-off center,Sustainable Electronics,Recycled,Mechanical,No,Low,2.18
+EW_00751,Australia,2021,New South Wales,Perth,Tablet,Acer,Acer 8451,9,Working,Metal,0.49,Mercury,Retail take-back,EcoTech Recycling,Recycled,Pyrometallurgical,Yes,Low,1.47
+EW_00752,Japan,2021,Hokkaido,Tokyo,Smart Plug,Oppo,Oppo 3318,4,Working,Plastic,0.17,Mercury,Retail take-back,GreenTech Recycle,Disposed,Mechanical,Yes,Low,0.34
+EW_00753,Germany,2020,North Rhine-Westphalia,Munich,Smart Oven,Xiaomi,Xiaomi 9036,4,Damaged,Plastic,20.54,Brominated Flame Retardants,Municipal collection,Sustainable Materials Recovery,Recycled,Hydrometallurgical,Yes,High,61.62
+EW_00754,Australia,2022,Queensland,Perth,Smart Scale,Lenovo,Lenovo 2099,10,Obsolete,Metal,0.21,Lead,Pick-up service,Sustainable Materials Recovery,Pending,Hydrometallurgical,Yes,Low,0.46
+EW_00755,France,2021,Occitanie,Lyon,Digital Clock,Acer,Acer 8466,1,Damaged,Mixed,0.18,Lead,Retail take-back,EcoTech Recycling,Pending,Hydrometallurgical,Yes,Medium,0.54
+EW_00756,UK,2024,Liverpool,Manchester,Smart Sprinkler Controller,Nokia,Nokia 9167,10,Non-working,Plastic,0.44,Lead,Retail take-back,Green Earth Recycling,Disposed,Mechanical,Yes,Low,1.06
+EW_00757,France,2024,Occitanie,Paris,Mouse,Amazon,Amazon 8653,2,Damaged,Glass,0.16,Lead,Drop-off center,GreenTech Recycle,In Progress,Mechanical,No,Medium,0.48
+EW_00758,Brazil,2022,Rio de Janeiro,SÃ£o Paulo,Keyboard,Gateway,Gateway 5819,5,Obsolete,Glass,0.82,Mercury,Drop-off center,Global Recycling Solutions,In Progress,Pyrometallurgical,Yes,Low,1.8
+EW_00759,USA,2020,Illinois,Los Angeles,MP3 Player,OnePlus,OnePlus 7374,9,Working,Plastic,0.12,None,Pick-up service,Sustainable Waste Management,Disposed,Thermal,Yes,Low,0.24
+EW_00760,UK,2023,Manchester,Birmingham,Desktop Computer,Huawei,Huawei 9452,3,Damaged,Rubber,6.78,Cadmium,Pick-up service,Sustainable Materials Recovery,Recycled,Pyrometallurgical,Yes,High,40.68
+EW_00761,Australia,2023,Queensland,Brisbane,Headphones,Vivo,Vivo 1409,9,Non-working,Rubber,0.28,Lead,Drop-off center,Sustainable Materials Recovery,Recycled,Hydrometallurgical,Yes,Low,0.67
+EW_00762,UK,2024,Manchester,Birmingham,Smart Dishwasher,Dell,Dell 2667,1,Repairable,Ceramic,31.98,Lead,Municipal collection,EcoRecyclers Inc.,Recycled,Thermal,Yes,Low,63.96
+EW_00763,Germany,2024,Bavaria,Hamburg,Smart Water Leak Detector,Oppo,Oppo 3753,6,Obsolete,Ceramic,0.11,Lead,Drop-off center,EcoRecyclers Inc.,In Progress,Thermal,No,Low,0.24
+EW_00764,Canada,2023,British Columbia,Toronto,Fax Machine,Amazon,Amazon 6806,7,Non-working,Mixed,5.5,Cadmium,Retail take-back,EcoRecyclers Inc.,Pending,Chemical,No,Medium,13.2
+EW_00765,Canada,2022,Quebec,Calgary,Monitor,MSI,MSI 3946,10,Damaged,Mixed,4.06,Mercury,Municipal collection,Green Future Recycling,In Progress,Mechanical,No,Medium,12.18
+EW_00766,China,2020,Beijing,Chengdu,Power Bank,MSI,MSI 5782,10,Obsolete,Mixed,0.42,Lead,Retail take-back,Sustainable Electronics,In Progress,Thermal,Yes,Low,0.92
+EW_00767,USA,2023,California,Chicago,Smart Window Blinds,Lenovo,Lenovo 9648,1,Working,Rubber,1.35,None,Drop-off center,Green Future Recycling,Disposed,Thermal,No,Low,2.7
+EW_00768,UK,2022,Liverpool,London,Smart Doorbell,MSI,MSI 6127,9,Repairable,Plastic,0.47,None,Pick-up service,GreenTech Recycle,Recycled,Pyrometallurgical,No,Low,0.94
+EW_00769,China,2024,Sichuan,Beijing,Game Console,Lenovo,Lenovo 4392,4,Obsolete,Mixed,1.45,Lead,Retail take-back,EcoRecyclers Inc.,Recycled,Hydrometallurgical,Yes,Low,3.19
+EW_00770,Australia,2024,South Australia,Adelaide,Speakers,Huawei,Huawei 1763,3,Working,Ceramic,1.55,None,Municipal collection,EcoRecyclers Inc.,Recycled,Hydrometallurgical,No,Low,3.1
+EW_00771,Australia,2021,Victoria,Sydney,Smart Water Leak Detector,Nokia,Nokia 4837,2,Repairable,Ceramic,0.13,Brominated Flame Retardants,Retail take-back,Green Future Recycling,In Progress,Chemical,No,Low,0.26
+EW_00772,Canada,2020,Quebec,Vancouver,GPS Device,Toshiba,Toshiba 1373,2,Damaged,Glass,0.29,Mercury,Retail take-back,Green Earth Recycling,Disposed,Hydrometallurgical,No,Medium,0.87
+EW_00773,Brazil,2024,Rio de Janeiro,SÃ£o Paulo,Charger,Razer,Razer 2041,7,Repairable,Mixed,0.27,Mercury,Pick-up service,EcoTech Recycling,Recycled,Pyrometallurgical,No,Low,0.54
+EW_00774,Japan,2022,Tokyo,Yokohama,Smart Scale,Toshiba,Toshiba 6266,3,Repairable,Metal,0.25,Brominated Flame Retardants,Retail take-back,EcoTech Recycling,Recycled,Mechanical,No,Low,0.5
+EW_00775,Brazil,2023,ParanÃ¡,Rio de Janeiro,External Hard Drive,Razer,Razer 9273,4,Working,Rubber,0.7,None,Pick-up service,GreenTech Recycle,In Progress,Hydrometallurgical,No,Low,1.4
+EW_00776,Japan,2024,Aichi,Sapporo,Television,Huawei,Huawei 4666,6,Non-working,Metal,23.11,Cadmium,Retail take-back,Green Earth Recycling,Disposed,Thermal,Yes,High,110.93
+EW_00777,Australia,2021,Victoria,Adelaide,Smart Door Sensor,Samsung,Samsung 1940,7,Non-working,Mixed,0.14,Brominated Flame Retardants,Municipal collection,EcoRecyclers Inc.,Recycled,Chemical,No,Low,0.34
+EW_00778,USA,2020,California,New York,Smart Oven,OnePlus,OnePlus 6459,10,Damaged,Glass,31.18,Brominated Flame Retardants,Retail take-back,Global Recycling Solutions,Pending,Thermal,No,High,93.54
+EW_00779,Brazil,2024,SÃ£o Paulo,Curitiba,Headphones,Asus,Asus 9487,3,Repairable,Plastic,0.26,Brominated Flame Retardants,Municipal collection,Sustainable Electronics,Recycled,Mechanical,Yes,Low,0.52
+EW_00780,Germany,2024,Hamburg,Hamburg,Power Bank,Nokia,Nokia 3279,6,Damaged,Ceramic,0.44,None,Municipal collection,Global Recycling Solutions,In Progress,Chemical,Yes,Medium,1.32
+EW_00781,UK,2022,London,London,Tablet,Razer,Razer 1230,1,Obsolete,Glass,0.53,Lead,Municipal collection,Sustainable Electronics,Recycled,Pyrometallurgical,No,Low,1.75
+EW_00782,Japan,2020,Osaka,Tokyo,Smart Coffee Maker,MSI,MSI 6525,9,Non-working,Mixed,1.48,Lead,Drop-off center,Sustainable Waste Management,Recycled,Chemical,Yes,Low,3.55
+EW_00783,Japan,2022,Hokkaido,Yokohama,Tablet,Acer,Acer 4412,10,Non-working,Ceramic,0.7,Lead,Municipal collection,Green Earth Recycling,Disposed,Chemical,Yes,Medium,2.52
+EW_00784,USA,2022,Illinois,Chicago,Radio,Razer,Razer 5080,5,Non-working,Glass,1,Cadmium,Pick-up service,Sustainable Materials Recovery,Pending,Pyrometallurgical,Yes,Low,2.4
+EW_00785,China,2024,Beijing,Beijing,Scanner,Asus,Asus 1232,7,Repairable,Mixed,3.97,Mercury,Pick-up service,Green Earth Recycling,In Progress,Mechanical,No,Low,7.94
+EW_00786,USA,2022,Illinois,Phoenix,Smart Mirror,HP,HP 1812,5,Working,Ceramic,2.7,Cadmium,Municipal collection,Green Future Recycling,Disposed,Pyrometallurgical,Yes,Low,5.4
+EW_00787,France,2023,Auvergne-RhÃ´ne-Alpes,Lyon,Smart Plug,Sony,Sony 9854,8,Damaged,Rubber,0.13,Mercury,Pick-up service,Eco-Friendly Disposal,Recycled,Mechanical,No,Medium,0.39
+EW_00788,France,2023,Occitanie,Paris,MP3 Player,Razer,Razer 3359,2,Damaged,Glass,0.14,Lead,Pick-up service,Sustainable Materials Recovery,In Progress,Chemical,Yes,Medium,0.42
+EW_00789,China,2022,Beijing,Shanghai,Smart Refrigerator,Samsung,Samsung 2474,2,Non-working,Glass,90.08,Cadmium,Pick-up service,Sustainable Waste Management,Disposed,Mechanical,No,High,432.38
+EW_00790,France,2024,Provence-Alpes-CÃ´te d'Azur,Marseille,Drone,Google,Google 6148,3,Obsolete,Mixed,1.44,Mercury,Drop-off center,GreenTech Recycle,Disposed,Hydrometallurgical,Yes,Low,3.17
+EW_00791,UK,2023,Manchester,Manchester,External Hard Drive,BlackBerry,BlackBerry 6561,2,Repairable,Glass,0.69,Lead,Municipal collection,Green Future Recycling,In Progress,Thermal,Yes,Low,1.38
+EW_00792,Brazil,2022,SÃ£o Paulo,Curitiba,Calculator,HP,HP 1746,3,Non-working,Plastic,0.22,Cadmium,Retail take-back,Sustainable Electronics,In Progress,Mechanical,Yes,Low,0.53
+EW_00793,UK,2021,Glasgow,London,Game Console,Asus,Asus 2776,1,Non-working,Ceramic,1.52,Mercury,Drop-off center,Eco-Friendly Disposal,Disposed,Chemical,No,Low,3.65
+EW_00794,Japan,2021,Fukuoka,Sapporo,Mouse,Amazon,Amazon 4720,10,Obsolete,Metal,0.15,Cadmium,Municipal collection,Green Earth Recycling,Disposed,Chemical,No,Low,0.33
+EW_00795,China,2023,Beijing,Beijing,Smart Light Bulb,Asus,Asus 4269,10,Damaged,Plastic,0.22,Brominated Flame Retardants,Drop-off center,Global Recycling Solutions,Disposed,Thermal,Yes,Medium,0.66
+EW_00796,Brazil,2024,Bahia,SÃ£o Paulo,Smart Refrigerator,LG,LG 3943,10,Repairable,Rubber,80.2,Mercury,Drop-off center,Green Earth Recycling,Pending,Thermal,Yes,Medium,320.8
+EW_00797,UK,2022,Birmingham,Manchester,Projector,Asus,Asus 1113,5,Non-working,Ceramic,2.83,None,Retail take-back,Eco-Friendly Disposal,Disposed,Thermal,Yes,Medium,6.79
+EW_00798,Germany,2020,Bavaria,Frankfurt,Mobile Phone,Motorola,Motorola 1490,8,Non-working,Metal,0.14,Brominated Flame Retardants,Drop-off center,Eco-Friendly Disposal,Recycled,Hydrometallurgical,No,Medium,0.5
+EW_00799,Brazil,2023,Minas Gerais,SÃ£o Paulo,Smart Mirror,Dell,Dell 7324,6,Non-working,Ceramic,2.5,Mercury,Municipal collection,Global Recycling Solutions,Recycled,Mechanical,Yes,Medium,6
+EW_00800,Canada,2023,Quebec,Calgary,Smart Smoke Detector,Xiaomi,Xiaomi 5102,5,Obsolete,Glass,0.37,Cadmium,Pick-up service,EcoRecyclers Inc.,Recycled,Hydrometallurgical,No,Low,0.81
+EW_00801,France,2022,ÃŽle-de-France,Toulouse,Router,LG,LG 6559,2,Damaged,Glass,0.43,Lead,Retail take-back,Eco-Friendly Disposal,Pending,Hydrometallurgical,No,Medium,1.29
+EW_00802,Germany,2022,North Rhine-Westphalia,Cologne,Printer,Lenovo,Lenovo 2380,10,Damaged,Mixed,3.62,Mercury,Drop-off center,Sustainable Materials Recovery,In Progress,Pyrometallurgical,No,Medium,10.86
+EW_00803,USA,2024,New York,Los Angeles,Monitor,OnePlus,OnePlus 8385,2,Repairable,Mixed,2.84,None,Retail take-back,GreenTech Recycle,Disposed,Chemical,Yes,Low,5.68
+EW_00804,Germany,2020,North Rhine-Westphalia,Hamburg,Television,OnePlus,OnePlus 4225,4,Non-working,Glass,17.13,Brominated Flame Retardants,Retail take-back,EcoTech Recycling,In Progress,Chemical,Yes,High,82.22
+EW_00805,UK,2024,Manchester,Manchester,Smartwatch,Vivo,Vivo 6613,9,Non-working,Plastic,0.09,Brominated Flame Retardants,Municipal collection,Sustainable Electronics,In Progress,Thermal,No,Low,0.22
+EW_00806,Brazil,2022,Bahia,SÃ£o Paulo,GPS Device,Vivo,Vivo 9208,1,Obsolete,Rubber,0.34,Brominated Flame Retardants,Municipal collection,Green Future Recycling,Disposed,Chemical,Yes,Low,0.75
+EW_00807,India,2024,Karnataka,Kolkata,Smart Door Sensor,Razer,Razer 1410,2,Damaged,Glass,0.12,Mercury,Pick-up service,Global Recycling Solutions,Recycled,Mechanical,Yes,Medium,0.36
+EW_00808,France,2020,Provence-Alpes-CÃ´te d'Azur,Bordeaux,Smart Plug,Amazon,Amazon 9892,1,Damaged,Rubber,0.18,Mercury,Pick-up service,GreenTech Recycle,In Progress,Thermal,Yes,Medium,0.54
+EW_00809,Japan,2021,Fukuoka,Yokohama,Charger,Xiaomi,Xiaomi 4464,4,Repairable,Metal,0.18,None,Pick-up service,Green Future Recycling,Recycled,Hydrometallurgical,No,Low,0.36
+EW_00810,Australia,2024,New South Wales,Melbourne,Smart Refrigerator,Acer,Acer 6135,9,Obsolete,Ceramic,86.3,None,Retail take-back,Sustainable Materials Recovery,Disposed,Hydrometallurgical,Yes,High,379.72
+EW_00811,India,2020,Karnataka,Kolkata,Smart Lock,Oppo,Oppo 1489,1,Non-working,Ceramic,0.33,Lead,Municipal collection,Green Earth Recycling,Disposed,Mechanical,Yes,Low,0.79
+EW_00812,China,2023,Beijing,Chengdu,Television,Apple,Apple 1288,10,Obsolete,Ceramic,24.71,None,Retail take-back,Eco-Friendly Disposal,In Progress,Pyrometallurgical,No,High,108.72
+EW_00813,China,2020,Beijing,Shenzhen,Desktop Computer,Apple,Apple 8946,2,Working,Glass,5.72,None,Retail take-back,Green Future Recycling,In Progress,Chemical,No,Medium,22.88
+EW_00814,Australia,2022,Western Australia,Sydney,Headphones,Fujitsu,Fujitsu 6568,7,Damaged,Glass,0.28,Lead,Drop-off center,Green Future Recycling,Disposed,Thermal,Yes,Medium,0.84
+EW_00815,USA,2021,Texas,Los Angeles,Headphones,Acer,Acer 1341,3,Repairable,Rubber,0.27,None,Retail take-back,GreenTech Recycle,In Progress,Hydrometallurgical,Yes,Low,0.54
+EW_00816,France,2023,Auvergne-RhÃ´ne-Alpes,Paris,Smart Oven,Asus,Asus 9721,9,Non-working,Metal,25.58,Cadmium,Municipal collection,EcoTech Recycling,Disposed,Mechanical,Yes,Medium,61.39
+EW_00817,Brazil,2020,Bahia,Curitiba,Printer,Xiaomi,Xiaomi 6302,9,Damaged,Metal,3.99,Cadmium,Pick-up service,Sustainable Materials Recovery,Pending,Chemical,No,Medium,11.97
+EW_00818,USA,2020,Florida,Los Angeles,Smart Scale,Samsung,Samsung 8538,10,Damaged,Plastic,0.45,None,Municipal collection,Sustainable Waste Management,Disposed,Pyrometallurgical,No,Medium,1.35
+EW_00819,UK,2024,Liverpool,London,Smart Plug,Lenovo,Lenovo 1341,4,Repairable,Glass,0.15,Mercury,Retail take-back,EcoTech Recycling,Pending,Pyrometallurgical,Yes,Low,0.3
+EW_00820,Japan,2024,Fukuoka,Osaka,Desktop Computer,Fujitsu,Fujitsu 5690,9,Damaged,Ceramic,7.5,Lead,Municipal collection,Sustainable Electronics,Pending,Pyrometallurgical,Yes,High,45
+EW_00821,France,2020,Auvergne-RhÃ´ne-Alpes,Marseille,Television,Toshiba,Toshiba 6293,8,Working,Mixed,29.46,None,Pick-up service,Sustainable Waste Management,In Progress,Pyrometallurgical,No,Medium,117.84
+EW_00822,India,2020,Maharashtra,Chennai,Tablet,Samsung,Samsung 4232,7,Obsolete,Mixed,0.52,Lead,Municipal collection,GreenTech Recycle,In Progress,Chemical,Yes,Low,1.72
+EW_00823,Canada,2021,British Columbia,Vancouver,Smart Plug,Amazon,Amazon 6307,6,Repairable,Mixed,0.25,Brominated Flame Retardants,Municipal collection,GreenTech Recycle,Pending,Pyrometallurgical,Yes,Low,0.5
+EW_00824,Australia,2020,South Australia,Brisbane,Smart Oven,ZTE,ZTE 6498,5,Obsolete,Plastic,31.14,Brominated Flame Retardants,Retail take-back,Sustainable Materials Recovery,Recycled,Thermal,Yes,Medium,68.51
+EW_00825,France,2022,Nouvelle-Aquitaine,Bordeaux,Keyboard,Acer,Acer 1421,2,Obsolete,Glass,0.57,None,Drop-off center,EcoRecyclers Inc.,In Progress,Hydrometallurgical,No,Low,1.25
+EW_00826,Canada,2021,Ontario,Edmonton,Headphones,Lenovo,Lenovo 2670,7,Obsolete,Glass,0.44,Mercury,Retail take-back,Eco-Friendly Disposal,In Progress,Hydrometallurgical,No,Low,0.97
+EW_00827,Australia,2022,Western Australia,Brisbane,Calculator,Vivo,Vivo 9987,4,Non-working,Rubber,0.25,None,Retail take-back,Green Future Recycling,Disposed,Chemical,Yes,Low,0.6
+EW_00828,Germany,2021,North Rhine-Westphalia,Munich,VR Headset,MSI,MSI 8699,10,Non-working,Ceramic,0.95,Brominated Flame Retardants,Drop-off center,EcoTech Recycling,Disposed,Chemical,Yes,Low,2.28
+EW_00829,France,2023,Provence-Alpes-CÃ´te d'Azur,Toulouse,Calculator,Acer,Acer 9174,6,Repairable,Plastic,0.23,Lead,Municipal collection,Sustainable Electronics,Pending,Pyrometallurgical,No,Low,0.46
+EW_00830,Brazil,2021,Minas Gerais,Rio de Janeiro,VR Headset,Gateway,Gateway 8966,9,Damaged,Metal,0.68,Mercury,Drop-off center,Green Future Recycling,Recycled,Mechanical,No,Medium,2.04
+EW_00831,Canada,2024,Manitoba,Calgary,Smart Door Sensor,Apple,Apple 8372,9,Obsolete,Metal,0.3,Lead,Retail take-back,Green Future Recycling,Pending,Thermal,No,Low,0.66
+EW_00832,France,2021,ÃŽle-de-France,Lyon,Power Bank,Gateway,Gateway 7415,5,Working,Rubber,0.3,Mercury,Retail take-back,Sustainable Electronics,In Progress,Hydrometallurgical,No,Low,0.6
+EW_00833,France,2020,Provence-Alpes-CÃ´te d'Azur,Paris,Mobile Phone,MSI,MSI 9576,3,Obsolete,Glass,0.13,Lead,Drop-off center,Sustainable Electronics,In Progress,Thermal,Yes,Low,0.43
+EW_00834,Brazil,2021,SÃ£o Paulo,Rio de Janeiro,Laptop,Panasonic,Panasonic 7216,9,Non-working,Mixed,2.44,Mercury,Retail take-back,Sustainable Waste Management,In Progress,Hydrometallurgical,Yes,Medium,8.78
+EW_00835,Australia,2024,Western Australia,Melbourne,CD/DVD Player,MSI,MSI 5971,4,Obsolete,Ceramic,1.01,Brominated Flame Retardants,Drop-off center,Green Future Recycling,Disposed,Thermal,Yes,Low,2.22
+EW_00836,USA,2022,Florida,Phoenix,Smart Light Bulb,Fujitsu,Fujitsu 3132,9,Repairable,Mixed,0.21,Mercury,Pick-up service,EcoTech Recycling,Pending,Hydrometallurgical,No,Low,0.42
+EW_00837,Brazil,2020,SÃ£o Paulo,Salvador,Security Camera,Toshiba,Toshiba 9357,1,Obsolete,Ceramic,0.39,Mercury,Pick-up service,EcoRecyclers Inc.,Recycled,Mechanical,No,Low,0.86
+EW_00838,Australia,2020,Queensland,Brisbane,Scanner,Amazon,Amazon 3813,3,Repairable,Plastic,3.39,Mercury,Municipal collection,EcoTech Recycling,Pending,Chemical,No,Low,6.78
+EW_00839,USA,2021,New York,Phoenix,Smart Sprinkler Controller,Xiaomi,Xiaomi 8644,6,Non-working,Rubber,0.55,Cadmium,Municipal collection,EcoRecyclers Inc.,In Progress,Chemical,Yes,Low,1.32
+EW_00840,Germany,2022,Hamburg,Hamburg,Calculator,Amazon,Amazon 8874,2,Damaged,Plastic,0.17,Mercury,Municipal collection,Global Recycling Solutions,Recycled,Thermal,No,Medium,0.51
+EW_00841,UK,2021,London,Liverpool,Printer,Microsoft,Microsoft 3515,5,Obsolete,Glass,6.26,Lead,Drop-off center,Green Future Recycling,Disposed,Hydrometallurgical,No,Medium,13.77
+EW_00842,Australia,2021,South Australia,Perth,Charger,Lenovo,Lenovo 9362,5,Working,Plastic,0.26,None,Pick-up service,Sustainable Waste Management,Recycled,Thermal,Yes,Low,0.52
+EW_00843,Japan,2022,Fukuoka,Sapporo,Digital Clock,Sony,Sony 6744,5,Repairable,Rubber,0.17,Cadmium,Drop-off center,Green Earth Recycling,In Progress,Hydrometallurgical,Yes,Low,0.34
+EW_00844,China,2020,Beijing,Shenzhen,Keyboard,Microsoft,Microsoft 7141,9,Repairable,Rubber,0.92,Lead,Pick-up service,Global Recycling Solutions,Recycled,Mechanical,No,Low,1.84
+EW_00845,China,2021,Beijing,Guangzhou,Drone,Amazon,Amazon 8636,5,Working,Glass,1.29,Lead,Retail take-back,Eco-Friendly Disposal,In Progress,Pyrometallurgical,Yes,Low,2.58
+EW_00846,Japan,2020,Tokyo,Nagoya,Charger,Acer,Acer 2696,4,Obsolete,Rubber,0.14,None,Retail take-back,EcoRecyclers Inc.,In Progress,Thermal,Yes,Low,0.31
+EW_00847,Brazil,2024,Minas Gerais,SÃ£o Paulo,Smartwatch,OnePlus,OnePlus 2064,3,Obsolete,Plastic,0.13,Mercury,Municipal collection,Global Recycling Solutions,Pending,Thermal,Yes,Low,0.29
+EW_00848,Japan,2022,Aichi,Tokyo,Desktop Computer,Panasonic,Panasonic 1282,5,Obsolete,Rubber,7.57,Mercury,Retail take-back,Sustainable Electronics,In Progress,Pyrometallurgical,Yes,High,33.31
+EW_00849,Brazil,2023,Minas Gerais,Salvador,Radio,Toshiba,Toshiba 4000,1,Repairable,Plastic,0.91,Brominated Flame Retardants,Pick-up service,Green Earth Recycling,In Progress,Chemical,No,Low,1.82
+EW_00850,Brazil,2022,Rio de Janeiro,Rio de Janeiro,Headphones,MSI,MSI 2804,6,Repairable,Plastic,0.47,None,Municipal collection,Sustainable Materials Recovery,Disposed,Hydrometallurgical,No,Low,0.94
+EW_00851,UK,2024,Manchester,Glasgow,GPS Device,Samsung,Samsung 4325,1,Working,Plastic,0.33,Cadmium,Municipal collection,Sustainable Waste Management,In Progress,Thermal,Yes,Low,0.66
+EW_00852,Germany,2022,Bavaria,Munich,External Hard Drive,Apple,Apple 4578,10,Damaged,Mixed,0.68,Cadmium,Retail take-back,Sustainable Electronics,Recycled,Thermal,No,Medium,2.04
+EW_00853,USA,2023,New York,New York,USB Drive,Asus,Asus 2026,3,Repairable,Ceramic,0.09,Cadmium,Pick-up service,Eco-Friendly Disposal,Pending,Hydrometallurgical,Yes,Low,0.18
+EW_00854,China,2022,Guangdong,Chengdu,Smart Mirror,Amazon,Amazon 2464,6,Damaged,Glass,1.33,Brominated Flame Retardants,Drop-off center,Green Future Recycling,Pending,Chemical,No,Medium,3.99
+EW_00855,Canada,2020,Ontario,Toronto,Power Bank,Samsung,Samsung 9795,4,Repairable,Mixed,0.32,Mercury,Municipal collection,Green Earth Recycling,Disposed,Hydrometallurgical,No,Low,0.64
+EW_00856,Australia,2023,New South Wales,Melbourne,Power Bank,Fujitsu,Fujitsu 4253,10,Damaged,Glass,0.46,None,Municipal collection,Eco-Friendly Disposal,Disposed,Chemical,No,Medium,1.38
+EW_00857,Japan,2021,Aichi,Nagoya,Tablet,Toshiba,Toshiba 4206,1,Damaged,Rubber,0.53,Lead,Retail take-back,Sustainable Waste Management,In Progress,Hydrometallurgical,Yes,Medium,2.39
+EW_00858,Australia,2021,Queensland,Adelaide,Smart Oven,HTC,HTC 1760,2,Damaged,Plastic,38.87,Lead,Municipal collection,Sustainable Materials Recovery,Recycled,Thermal,No,High,116.61
+EW_00859,Japan,2021,Aichi,Tokyo,Smart Home Device,Lenovo,Lenovo 7354,1,Repairable,Mixed,0.33,Mercury,Pick-up service,Green Future Recycling,Pending,Mechanical,No,Low,0.66
+EW_00860,China,2023,Shanghai,Shanghai,USB Drive,Toshiba,Toshiba 8876,8,Non-working,Rubber,0.11,Brominated Flame Retardants,Pick-up service,Eco-Friendly Disposal,Pending,Hydrometallurgical,Yes,Low,0.26
+EW_00861,China,2022,Sichuan,Shanghai,Camera,BlackBerry,BlackBerry 6547,1,Non-working,Plastic,0.89,None,Municipal collection,EcoTech Recycling,Disposed,Pyrometallurgical,No,Low,2.14
+EW_00862,Brazil,2020,Minas Gerais,Rio de Janeiro,Game Console,BlackBerry,BlackBerry 9208,6,Damaged,Metal,1.68,Brominated Flame Retardants,Retail take-back,Global Recycling Solutions,Disposed,Pyrometallurgical,Yes,Medium,5.04
+EW_00863,Brazil,2020,Rio de Janeiro,Curitiba,Digital Clock,Apple,Apple 4737,2,Damaged,Rubber,0.25,Lead,Drop-off center,Green Future Recycling,In Progress,Hydrometallurgical,No,Medium,0.75
+EW_00864,France,2020,Nouvelle-Aquitaine,Lyon,Tablet,Sony,Sony 9138,2,Damaged,Plastic,0.53,Lead,Retail take-back,EcoRecyclers Inc.,Pending,Pyrometallurgical,Yes,Medium,2.39
+EW_00865,USA,2021,Florida,New York,Tablet,Toshiba,Toshiba 1856,8,Working,Plastic,0.47,Cadmium,Pick-up service,GreenTech Recycle,Disposed,Thermal,Yes,Low,1.41
+EW_00866,UK,2020,Manchester,Liverpool,Smart Doorbell,Xiaomi,Xiaomi 9699,2,Damaged,Rubber,0.4,Mercury,Drop-off center,Eco-Friendly Disposal,Pending,Chemical,No,Medium,1.2
+EW_00867,Japan,2021,Hokkaido,Tokyo,Security Camera,Google,Google 6859,6,Repairable,Glass,0.58,Cadmium,Drop-off center,Green Earth Recycling,Disposed,Mechanical,Yes,Low,1.16
+EW_00868,Canada,2020,British Columbia,Vancouver,Fax Machine,Nokia,Nokia 8010,3,Obsolete,Metal,5.68,Lead,Retail take-back,Sustainable Materials Recovery,Recycled,Hydrometallurgical,No,Medium,12.5
+EW_00869,Brazil,2021,SÃ£o Paulo,SÃ£o Paulo,Smart Window Blinds,Gateway,Gateway 9468,1,Non-working,Metal,1.37,Lead,Drop-off center,EcoTech Recycling,Disposed,Pyrometallurgical,Yes,Low,3.29
+EW_00870,UK,2020,Manchester,Glasgow,Television,Motorola,Motorola 9203,2,Working,Rubber,18.55,Brominated Flame Retardants,Drop-off center,EcoRecyclers Inc.,Recycled,Chemical,Yes,Medium,74.2
+EW_00871,USA,2022,Illinois,Chicago,Power Bank,Gateway,Gateway 5820,4,Obsolete,Rubber,0.29,Lead,Retail take-back,EcoRecyclers Inc.,Pending,Chemical,No,Low,0.64
+EW_00872,Germany,2023,Bavaria,Frankfurt,GPS Device,BlackBerry,BlackBerry 1223,2,Working,Glass,0.23,Lead,Retail take-back,GreenTech Recycle,In Progress,Pyrometallurgical,Yes,Low,0.46
+EW_00873,India,2024,Gujarat,Chennai,Calculator,Oppo,Oppo 5255,10,Working,Rubber,0.14,Lead,Pick-up service,EcoTech Recycling,In Progress,Thermal,No,Low,0.28
+EW_00874,China,2024,Guangdong,Chengdu,Monitor,BlackBerry,BlackBerry 6721,7,Repairable,Rubber,3.27,Lead,Municipal collection,EcoTech Recycling,Disposed,Pyrometallurgical,Yes,Low,6.54
+EW_00875,China,2022,Zhejiang,Beijing,Drone,Huawei,Huawei 7684,2,Obsolete,Plastic,0.59,Mercury,Pick-up service,Global Recycling Solutions,Disposed,Thermal,Yes,Low,1.3
+EW_00876,India,2023,Delhi,Kolkata,External Hard Drive,Motorola,Motorola 5411,10,Damaged,Ceramic,0.59,Lead,Pick-up service,EcoTech Recycling,Pending,Mechanical,Yes,Medium,1.77
+EW_00877,USA,2023,Texas,New York,Printer,Oppo,Oppo 3307,4,Non-working,Metal,6.13,Cadmium,Drop-off center,EcoTech Recycling,Pending,Chemical,Yes,Medium,14.71
+EW_00878,China,2022,Shanghai,Chengdu,Smart Home Device,LG,LG 6637,1,Damaged,Plastic,0.44,Mercury,Retail take-back,GreenTech Recycle,Disposed,Pyrometallurgical,Yes,Medium,1.32
+EW_00879,India,2022,Tamil Nadu,Bangalore,Smart Light Bulb,Xiaomi,Xiaomi 4873,6,Working,Rubber,0.26,Brominated Flame Retardants,Pick-up service,EcoTech Recycling,Pending,Hydrometallurgical,No,Low,0.52
+EW_00880,India,2024,Maharashtra,Delhi,Camera,Amazon,Amazon 4483,5,Working,Rubber,1.22,None,Pick-up service,Green Earth Recycling,Pending,Mechanical,Yes,Low,2.44
+EW_00881,UK,2020,Glasgow,London,Laptop,Nokia,Nokia 9865,3,Damaged,Metal,1.51,Lead,Drop-off center,EcoRecyclers Inc.,Recycled,Hydrometallurgical,No,Medium,6.79
+EW_00882,USA,2024,Illinois,New York,Smart Door Sensor,Microsoft,Microsoft 3899,5,Working,Plastic,0.23,Lead,Retail take-back,GreenTech Recycle,In Progress,Mechanical,Yes,Low,0.46
+EW_00883,UK,2021,Glasgow,Birmingham,Smart Doorbell,BlackBerry,BlackBerry 8751,8,Working,Glass,0.41,Lead,Retail take-back,EcoTech Recycling,Pending,Hydrometallurgical,Yes,Low,0.82
+EW_00884,UK,2023,Birmingham,London,VR Headset,Fujitsu,Fujitsu 2429,7,Working,Ceramic,0.93,Cadmium,Pick-up service,Sustainable Waste Management,Pending,Mechanical,No,Low,1.86
+EW_00885,Japan,2021,Aichi,Yokohama,Headphones,Samsung,Samsung 2266,2,Non-working,Rubber,0.37,Brominated Flame Retardants,Pick-up service,Sustainable Waste Management,Disposed,Mechanical,Yes,Low,0.89
+EW_00886,India,2020,Delhi,Mumbai,Smart Door Sensor,Fujitsu,Fujitsu 3695,6,Non-working,Rubber,0.17,Lead,Pick-up service,GreenTech Recycle,Disposed,Thermal,Yes,Low,0.41
+EW_00887,Germany,2022,North Rhine-Westphalia,Hamburg,Mobile Phone,Amazon,Amazon 5670,2,Obsolete,Mixed,0.27,Brominated Flame Retardants,Municipal collection,Global Recycling Solutions,Disposed,Thermal,No,Low,0.89
+EW_00888,USA,2023,Texas,Houston,Headphones,Fujitsu,Fujitsu 5294,1,Non-working,Plastic,0.31,None,Drop-off center,Sustainable Materials Recovery,Pending,Thermal,Yes,Low,0.74
+EW_00889,Canada,2024,Alberta,Calgary,Keyboard,Lenovo,Lenovo 1646,3,Repairable,Mixed,0.55,None,Municipal collection,EcoTech Recycling,Recycled,Thermal,Yes,Low,1.1
+EW_00890,Germany,2023,North Rhine-Westphalia,Munich,Smart Coffee Maker,MSI,MSI 5222,8,Repairable,Rubber,1.45,Cadmium,Drop-off center,Sustainable Materials Recovery,Pending,Pyrometallurgical,No,Low,2.9
+EW_00891,Germany,2022,Hamburg,Munich,Tablet,Gateway,Gateway 5720,10,Non-working,Metal,0.72,Lead,Municipal collection,EcoTech Recycling,Recycled,Hydrometallurgical,Yes,Medium,2.59
+EW_00892,UK,2022,Birmingham,London,Smart Lock,Amazon,Amazon 3636,1,Obsolete,Metal,0.56,Brominated Flame Retardants,Drop-off center,EcoRecyclers Inc.,Disposed,Chemical,Yes,Low,1.23
+EW_00893,UK,2020,Liverpool,Glasgow,Monitor,Motorola,Motorola 6490,4,Non-working,Rubber,4.68,None,Drop-off center,Green Future Recycling,Disposed,Chemical,Yes,Medium,11.23
+EW_00894,China,2020,Sichuan,Shenzhen,Router,Lenovo,Lenovo 9628,2,Repairable,Plastic,0.8,Mercury,Municipal collection,Eco-Friendly Disposal,Recycled,Mechanical,No,Low,1.6
+EW_00895,Japan,2022,Aichi,Sapporo,Laptop,BlackBerry,BlackBerry 7321,3,Working,Glass,2.54,Lead,Drop-off center,EcoRecyclers Inc.,Recycled,Hydrometallurgical,Yes,Low,7.62
+EW_00896,USA,2023,California,Chicago,Smart Doorbell,Microsoft,Microsoft 9358,3,Repairable,Rubber,0.43,Mercury,Pick-up service,EcoTech Recycling,Disposed,Thermal,Yes,Low,0.86
+EW_00897,Australia,2021,Western Australia,Melbourne,Smart Sprinkler Controller,Motorola,Motorola 9179,5,Non-working,Rubber,0.34,Cadmium,Drop-off center,GreenTech Recycle,In Progress,Mechanical,No,Low,0.82
+EW_00898,Japan,2020,Tokyo,Tokyo,Desktop Computer,Fujitsu,Fujitsu 1001,8,Working,Rubber,5.39,None,Retail take-back,EcoRecyclers Inc.,Pending,Pyrometallurgical,No,Medium,21.56
+EW_00899,Australia,2020,Western Australia,Perth,Tablet,Gateway,Gateway 1949,9,Working,Rubber,0.73,Mercury,Pick-up service,Sustainable Waste Management,Recycled,Chemical,Yes,Low,2.19
+EW_00900,Canada,2024,Alberta,Edmonton,Smart Sprinkler Controller,Apple,Apple 6048,2,Non-working,Rubber,0.4,Cadmium,Municipal collection,Global Recycling Solutions,Recycled,Hydrometallurgical,No,Low,0.96
+EW_00901,France,2023,Auvergne-RhÃ´ne-Alpes,Bordeaux,External Hard Drive,Apple,Apple 6063,2,Non-working,Metal,0.69,Cadmium,Municipal collection,EcoTech Recycling,In Progress,Mechanical,Yes,Low,1.66
+EW_00902,France,2022,Auvergne-RhÃ´ne-Alpes,Marseille,Smart Dishwasher,HP,HP 1470,5,Working,Ceramic,46.37,Mercury,Municipal collection,EcoTech Recycling,Pending,Pyrometallurgical,Yes,Low,92.74
+EW_00903,Germany,2023,Hesse,Munich,Smart Coffee Maker,Razer,Razer 8841,7,Damaged,Mixed,1.96,Lead,Pick-up service,Sustainable Materials Recovery,In Progress,Mechanical,No,Medium,5.88
+EW_00904,Australia,2021,New South Wales,Melbourne,Smart Refrigerator,ZTE,ZTE 9054,4,Repairable,Rubber,68.72,Brominated Flame Retardants,Pick-up service,Sustainable Waste Management,In Progress,Pyrometallurgical,Yes,Medium,274.88
+EW_00905,Australia,2020,New South Wales,Brisbane,Smart Dishwasher,Nokia,Nokia 8209,1,Obsolete,Mixed,46.05,Lead,Pick-up service,Green Future Recycling,Disposed,Chemical,No,Medium,101.31
+EW_00906,Brazil,2024,Rio de Janeiro,Belo Horizonte,Smart Doorbell,Dell,Dell 7042,3,Non-working,Metal,0.42,None,Drop-off center,Sustainable Materials Recovery,In Progress,Mechanical,No,Low,1.01
+EW_00907,France,2023,ÃŽle-de-France,Marseille,Projector,HTC,HTC 8214,8,Damaged,Glass,3.57,None,Drop-off center,Eco-Friendly Disposal,In Progress,Mechanical,No,Medium,10.71
+EW_00908,Germany,2023,North Rhine-Westphalia,Frankfurt,Keyboard,ZTE,ZTE 6472,10,Damaged,Metal,0.88,None,Pick-up service,Global Recycling Solutions,In Progress,Thermal,No,Medium,2.64
+EW_00909,Canada,2021,Manitoba,Vancouver,Printer,Vivo,Vivo 3552,10,Damaged,Mixed,3.07,None,Pick-up service,GreenTech Recycle,Pending,Hydrometallurgical,No,Medium,9.21
+EW_00910,China,2023,Sichuan,Beijing,Printer,Fujitsu,Fujitsu 6485,7,Non-working,Mixed,4.14,Cadmium,Municipal collection,Green Future Recycling,Recycled,Hydrometallurgical,No,Medium,9.94
+EW_00911,France,2024,Occitanie,Lyon,Security Camera,BlackBerry,BlackBerry 9459,10,Working,Mixed,0.35,Brominated Flame Retardants,Pick-up service,Sustainable Materials Recovery,In Progress,Hydrometallurgical,Yes,Low,0.7
+EW_00912,Australia,2022,Victoria,Melbourne,Calculator,Gateway,Gateway 4968,9,Working,Glass,0.18,Cadmium,Pick-up service,Sustainable Waste Management,Recycled,Mechanical,No,Low,0.36
+EW_00913,USA,2020,Illinois,Chicago,Mouse,Razer,Razer 3605,9,Non-working,Rubber,0.19,Lead,Pick-up service,EcoTech Recycling,Pending,Pyrometallurgical,No,Low,0.46
+EW_00914,Germany,2022,North Rhine-Westphalia,Munich,Smart Lock,Lenovo,Lenovo 3295,4,Repairable,Ceramic,0.38,Lead,Pick-up service,Sustainable Waste Management,In Progress,Thermal,Yes,Low,0.76
+EW_00915,France,2021,Provence-Alpes-CÃ´te d'Azur,Toulouse,Smart Window Blinds,Huawei,Huawei 6104,10,Repairable,Metal,1.49,Brominated Flame Retardants,Drop-off center,Global Recycling Solutions,Pending,Chemical,No,Low,2.98
+EW_00916,Japan,2021,Tokyo,Yokohama,Smart Refrigerator,Toshiba,Toshiba 1606,10,Working,Ceramic,70.39,Cadmium,Drop-off center,EcoTech Recycling,Pending,Hydrometallurgical,No,Medium,281.56
+EW_00917,Germany,2024,North Rhine-Westphalia,Frankfurt,Smart Lock,Dell,Dell 7073,1,Repairable,Ceramic,0.47,None,Drop-off center,EcoRecyclers Inc.,Pending,Mechanical,No,Low,0.94
+EW_00918,Japan,2020,Hokkaido,Osaka,Mouse,HTC,HTC 1668,2,Non-working,Plastic,0.22,Cadmium,Retail take-back,Sustainable Materials Recovery,Pending,Hydrometallurgical,No,Low,0.53
+EW_00919,Australia,2020,Western Australia,Brisbane,Game Console,Microsoft,Microsoft 2408,2,Repairable,Metal,2.63,Cadmium,Pick-up service,GreenTech Recycle,Pending,Mechanical,Yes,Low,5.26
+EW_00920,France,2024,Auvergne-RhÃ´ne-Alpes,Marseille,Mobile Phone,Razer,Razer 7968,4,Damaged,Metal,0.11,Cadmium,Drop-off center,Green Future Recycling,Recycled,Hydrometallurgical,No,Medium,0.49
+EW_00921,Japan,2022,Hokkaido,Yokohama,Smart Coffee Maker,Sony,Sony 8443,5,Working,Metal,1.98,None,Drop-off center,EcoTech Recycling,Pending,Thermal,No,Low,3.96
+EW_00922,Canada,2024,Quebec,Toronto,Mobile Phone,BlackBerry,BlackBerry 3226,3,Repairable,Metal,0.16,Mercury,Retail take-back,GreenTech Recycle,Disposed,Pyrometallurgical,Yes,Low,0.48
+EW_00923,UK,2020,Liverpool,Manchester,Keyboard,Oppo,Oppo 5388,1,Obsolete,Plastic,0.94,Mercury,Retail take-back,Eco-Friendly Disposal,Disposed,Pyrometallurgical,No,Low,2.07
+EW_00924,USA,2023,Illinois,Los Angeles,Smart Light Bulb,Apple,Apple 3820,1,Working,Mixed,0.29,Cadmium,Municipal collection,EcoTech Recycling,Pending,Hydrometallurgical,Yes,Low,0.58
+EW_00925,Japan,2023,Osaka,Yokohama,Smart Coffee Maker,Amazon,Amazon 9632,5,Repairable,Mixed,1.73,Cadmium,Pick-up service,EcoRecyclers Inc.,Recycled,Thermal,Yes,Low,3.46
+EW_00926,France,2023,Provence-Alpes-CÃ´te d'Azur,Lyon,Router,Dell,Dell 7516,2,Damaged,Plastic,0.59,Lead,Retail take-back,EcoRecyclers Inc.,In Progress,Thermal,Yes,Medium,1.77
+EW_00927,France,2023,Nouvelle-Aquitaine,Marseille,Fax Machine,Nokia,Nokia 6237,2,Non-working,Ceramic,3.04,Mercury,Retail take-back,Green Earth Recycling,Recycled,Chemical,Yes,Medium,7.3
+EW_00928,Japan,2024,Aichi,Nagoya,Laptop,Google,Google 6171,7,Damaged,Plastic,2.59,Brominated Flame Retardants,Municipal collection,Global Recycling Solutions,In Progress,Thermal,Yes,High,11.65
+EW_00929,Germany,2020,Berlin,Munich,External Hard Drive,Microsoft,Microsoft 9772,9,Obsolete,Plastic,0.62,None,Retail take-back,Sustainable Materials Recovery,In Progress,Chemical,No,Low,1.36
+EW_00930,Brazil,2022,Minas Gerais,Belo Horizonte,Smart Refrigerator,OnePlus,OnePlus 7736,10,Obsolete,Glass,80.08,None,Municipal collection,Sustainable Electronics,In Progress,Chemical,Yes,High,352.35
+EW_00931,Japan,2020,Osaka,Tokyo,Mouse,Apple,Apple 9609,9,Non-working,Plastic,0.23,Cadmium,Drop-off center,Green Earth Recycling,Disposed,Chemical,Yes,Low,0.55
+EW_00932,Germany,2020,Bavaria,Berlin,Smart Light Bulb,Vivo,Vivo 3806,3,Damaged,Ceramic,0.1,Brominated Flame Retardants,Municipal collection,Sustainable Electronics,In Progress,Mechanical,Yes,Medium,0.3
+EW_00933,Germany,2024,North Rhine-Westphalia,Berlin,Keyboard,Lenovo,Lenovo 6470,4,Obsolete,Rubber,0.71,None,Municipal collection,Sustainable Materials Recovery,Pending,Chemical,Yes,Low,1.56
+EW_00934,India,2022,Karnataka,Kolkata,Monitor,Asus,Asus 7472,6,Repairable,Metal,2.39,Brominated Flame Retardants,Municipal collection,Sustainable Materials Recovery,Disposed,Mechanical,Yes,Low,4.78
+EW_00935,France,2021,Provence-Alpes-CÃ´te d'Azur,Bordeaux,External Hard Drive,Oppo,Oppo 7833,1,Damaged,Glass,0.78,Cadmium,Drop-off center,Sustainable Waste Management,Recycled,Pyrometallurgical,Yes,Medium,2.34
+EW_00936,Brazil,2024,Minas Gerais,Salvador,Smartwatch,Samsung,Samsung 8135,3,Working,Metal,0.11,Cadmium,Municipal collection,Green Future Recycling,Disposed,Chemical,No,Low,0.22
+EW_00937,USA,2021,Texas,Los Angeles,Digital Clock,Asus,Asus 5439,9,Obsolete,Metal,0.15,Lead,Municipal collection,Green Future Recycling,Recycled,Pyrometallurgical,Yes,Low,0.33
+EW_00938,India,2022,Karnataka,Bangalore,Smart Scale,Nokia,Nokia 9083,2,Damaged,Metal,0.45,None,Drop-off center,Global Recycling Solutions,Pending,Thermal,Yes,Medium,1.35
+EW_00939,China,2020,Beijing,Shenzhen,Smart Sprinkler Controller,Huawei,Huawei 8060,6,Working,Mixed,0.3,Brominated Flame Retardants,Retail take-back,Global Recycling Solutions,Disposed,Chemical,Yes,Low,0.6
+EW_00940,UK,2024,Liverpool,Manchester,Smart Doorbell,Samsung,Samsung 9059,3,Working,Rubber,0.35,None,Municipal collection,Sustainable Waste Management,Disposed,Pyrometallurgical,Yes,Low,0.7
+EW_00941,Australia,2020,Queensland,Brisbane,Smart Coffee Maker,Dell,Dell 8517,6,Repairable,Glass,1.31,Lead,Municipal collection,Green Earth Recycling,Disposed,Mechanical,No,Low,2.62
+EW_00942,France,2024,Nouvelle-Aquitaine,Marseille,Smart Oven,MSI,MSI 3493,8,Repairable,Rubber,30.04,None,Pick-up service,Green Earth Recycling,Recycled,Hydrometallurgical,Yes,Low,60.08
+EW_00943,Germany,2024,Hamburg,Berlin,Keyboard,Dell,Dell 6414,7,Repairable,Rubber,0.76,Mercury,Retail take-back,Sustainable Electronics,Pending,Hydrometallurgical,Yes,Low,1.52
+EW_00944,USA,2021,New York,Los Angeles,External Hard Drive,Toshiba,Toshiba 7440,2,Repairable,Plastic,0.38,Mercury,Drop-off center,GreenTech Recycle,Disposed,Hydrometallurgical,No,Low,0.76
+EW_00945,Australia,2022,New South Wales,Melbourne,Radio,Apple,Apple 9516,2,Obsolete,Glass,0.97,Cadmium,Pick-up service,EcoTech Recycling,Pending,Pyrometallurgical,Yes,Low,2.13
+EW_00946,China,2022,Sichuan,Chengdu,Fax Machine,Amazon,Amazon 7189,3,Non-working,Mixed,4.22,Cadmium,Drop-off center,GreenTech Recycle,Disposed,Hydrometallurgical,No,Medium,10.13
+EW_00947,China,2020,Sichuan,Chengdu,Smart Coffee Maker,MSI,MSI 7315,9,Obsolete,Plastic,1.55,Brominated Flame Retardants,Drop-off center,Sustainable Waste Management,Disposed,Mechanical,Yes,Low,3.41
+EW_00948,UK,2024,Birmingham,Birmingham,Scanner,Motorola,Motorola 8637,10,Damaged,Rubber,3.07,Lead,Municipal collection,Eco-Friendly Disposal,Recycled,Hydrometallurgical,No,Medium,9.21
+EW_00949,Japan,2024,Tokyo,Sapporo,MP3 Player,LG,LG 6109,9,Obsolete,Glass,0.21,Mercury,Retail take-back,GreenTech Recycle,Disposed,Mechanical,No,Low,0.46
+EW_00950,France,2023,Auvergne-RhÃ´ne-Alpes,Paris,Monitor,Samsung,Samsung 5907,9,Working,Plastic,4.59,None,Pick-up service,Sustainable Electronics,Pending,Hydrometallurgical,Yes,Low,9.18
+EW_00951,China,2022,Sichuan,Chengdu,Smart Mirror,OnePlus,OnePlus 1815,7,Obsolete,Ceramic,1.67,Lead,Pick-up service,Sustainable Waste Management,Pending,Thermal,No,Low,3.67
+EW_00952,Canada,2024,Quebec,Vancouver,Smart Refrigerator,HP,HP 3439,6,Obsolete,Plastic,53.98,None,Municipal collection,Green Earth Recycling,Pending,Hydrometallurgical,No,High,237.51
+EW_00953,Germany,2024,Berlin,Cologne,Smartwatch,BlackBerry,BlackBerry 8994,4,Working,Mixed,0.07,None,Municipal collection,Eco-Friendly Disposal,In Progress,Thermal,Yes,Low,0.14
+EW_00954,Australia,2020,New South Wales,Perth,Smart Water Leak Detector,Google,Google 9439,9,Repairable,Rubber,0.2,Brominated Flame Retardants,Municipal collection,Green Future Recycling,Disposed,Mechanical,No,Low,0.4
+EW_00955,China,2023,Zhejiang,Shenzhen,Smart Scale,Microsoft,Microsoft 5481,3,Non-working,Plastic,0.22,Brominated Flame Retardants,Retail take-back,Sustainable Materials Recovery,In Progress,Hydrometallurgical,Yes,Low,0.53
+EW_00956,China,2024,Zhejiang,Shenzhen,CD/DVD Player,Razer,Razer 5609,7,Damaged,Mixed,1.5,Cadmium,Pick-up service,GreenTech Recycle,In Progress,Hydrometallurgical,No,Medium,4.5
+EW_00957,Australia,2022,New South Wales,Brisbane,Laptop,MSI,MSI 1926,7,Repairable,Rubber,2.9,Brominated Flame Retardants,Retail take-back,Sustainable Electronics,Disposed,Pyrometallurgical,Yes,Low,8.7
+EW_00958,Canada,2024,Manitoba,Edmonton,Printer,BlackBerry,BlackBerry 2858,4,Repairable,Rubber,7.94,None,Drop-off center,EcoTech Recycling,In Progress,Chemical,No,Low,15.88
+EW_00959,Germany,2024,North Rhine-Westphalia,Cologne,Router,Motorola,Motorola 8216,2,Damaged,Glass,0.64,Lead,Municipal collection,Sustainable Materials Recovery,Pending,Thermal,No,Medium,1.92
+EW_00960,Germany,2024,Berlin,Munich,Smart Garage Door Opener,Samsung,Samsung 5770,2,Non-working,Mixed,0.58,Lead,Retail take-back,Global Recycling Solutions,Recycled,Mechanical,No,Low,1.39
+EW_00961,Japan,2022,Tokyo,Nagoya,Mouse,Dell,Dell 6920,4,Repairable,Rubber,0.15,Brominated Flame Retardants,Drop-off center,Sustainable Electronics,Pending,Thermal,No,Low,0.3
+EW_00962,USA,2023,New York,Houston,Speakers,Lenovo,Lenovo 4507,5,Damaged,Glass,2.42,None,Drop-off center,Global Recycling Solutions,Disposed,Chemical,No,Medium,7.26
+EW_00963,UK,2023,Birmingham,Birmingham,CD/DVD Player,BlackBerry,BlackBerry 3126,10,Working,Glass,1.67,Mercury,Municipal collection,EcoRecyclers Inc.,Pending,Mechanical,No,Low,3.34
+EW_00964,UK,2020,Liverpool,London,Scanner,Vivo,Vivo 9824,2,Working,Plastic,2.71,Brominated Flame Retardants,Municipal collection,Sustainable Materials Recovery,Recycled,Mechanical,Yes,Low,5.42
+EW_00965,Japan,2024,Tokyo,Tokyo,USB Drive,OnePlus,OnePlus 7082,9,Obsolete,Ceramic,0.11,Lead,Pick-up service,Global Recycling Solutions,Disposed,Mechanical,Yes,Low,0.24
+EW_00966,India,2020,Maharashtra,Kolkata,USB Drive,Panasonic,Panasonic 3477,10,Working,Mixed,0.07,Mercury,Municipal collection,Sustainable Materials Recovery,Pending,Thermal,Yes,Low,0.14
+EW_00967,Canada,2024,Manitoba,Montreal,Digital Clock,Motorola,Motorola 1219,5,Damaged,Mixed,0.23,Brominated Flame Retardants,Drop-off center,Sustainable Waste Management,Disposed,Thermal,No,Medium,0.69
+EW_00968,Brazil,2021,Bahia,Belo Horizonte,Drone,HTC,HTC 5808,3,Working,Ceramic,1.11,Mercury,Retail take-back,Sustainable Materials Recovery,Disposed,Thermal,No,Low,2.22
+EW_00969,UK,2020,Glasgow,Glasgow,Keyboard,Huawei,Huawei 7553,5,Non-working,Plastic,0.81,Mercury,Pick-up service,Sustainable Waste Management,Pending,Hydrometallurgical,No,Low,1.94
+EW_00970,Canada,2024,Manitoba,Edmonton,Fax Machine,Apple,Apple 3143,7,Repairable,Rubber,3.29,Brominated Flame Retardants,Drop-off center,Green Earth Recycling,Disposed,Mechanical,No,Low,6.58
+EW_00971,UK,2021,Glasgow,Liverpool,Game Console,Panasonic,Panasonic 3012,1,Working,Plastic,1.22,Cadmium,Pick-up service,Green Earth Recycling,Pending,Pyrometallurgical,No,Low,2.44
+EW_00972,Canada,2020,Alberta,Edmonton,Smart Lock,Sony,Sony 5231,3,Non-working,Glass,0.4,Lead,Retail take-back,Sustainable Waste Management,In Progress,Mechanical,No,Low,0.96
+EW_00973,France,2020,Nouvelle-Aquitaine,Lyon,Drone,Gateway,Gateway 8211,8,Working,Rubber,0.54,Cadmium,Municipal collection,Eco-Friendly Disposal,In Progress,Mechanical,No,Low,1.08
+EW_00974,Canada,2024,Quebec,Calgary,Smart Doorbell,Nokia,Nokia 6562,8,Obsolete,Mixed,0.47,None,Retail take-back,Sustainable Waste Management,In Progress,Mechanical,Yes,Low,1.03
+EW_00975,UK,2022,Manchester,Birmingham,Smart Water Leak Detector,Panasonic,Panasonic 1546,1,Working,Metal,0.24,None,Drop-off center,Sustainable Waste Management,Disposed,Hydrometallurgical,No,Low,0.48
+EW_00976,USA,2024,Florida,Houston,Smart Light Bulb,Samsung,Samsung 2519,6,Repairable,Mixed,0.22,Brominated Flame Retardants,Municipal collection,Sustainable Waste Management,Pending,Pyrometallurgical,Yes,Low,0.44
+EW_00977,Canada,2024,Ontario,Calgary,Desktop Computer,Xiaomi,Xiaomi 3036,8,Non-working,Plastic,6.02,Cadmium,Drop-off center,EcoRecyclers Inc.,Disposed,Hydrometallurgical,Yes,High,28.9
+EW_00978,Canada,2023,Quebec,Montreal,CD/DVD Player,LG,LG 9229,3,Working,Glass,1.58,Brominated Flame Retardants,Pick-up service,Eco-Friendly Disposal,Pending,Chemical,No,Low,3.16
+EW_00979,India,2020,Delhi,Chennai,Digital Clock,Lenovo,Lenovo 1135,1,Obsolete,Rubber,0.12,Lead,Pick-up service,Global Recycling Solutions,Recycled,Mechanical,Yes,Low,0.26
+EW_00980,UK,2024,Liverpool,Liverpool,Smart Light Bulb,Amazon,Amazon 3615,8,Damaged,Rubber,0.21,Mercury,Retail take-back,Global Recycling Solutions,Disposed,Pyrometallurgical,Yes,Medium,0.63
+EW_00981,Canada,2022,Quebec,Vancouver,Camera,Razer,Razer 8590,8,Obsolete,Metal,0.89,Lead,Retail take-back,Eco-Friendly Disposal,Disposed,Pyrometallurgical,No,Low,1.96
+EW_00982,Brazil,2022,Rio de Janeiro,SÃ£o Paulo,Smart Dishwasher,Apple,Apple 4975,4,Damaged,Metal,37.04,Lead,Municipal collection,Green Earth Recycling,In Progress,Thermal,Yes,High,111.12
+EW_00983,Germany,2024,Berlin,Berlin,Smart Water Leak Detector,Fujitsu,Fujitsu 4899,8,Repairable,Rubber,0.22,Lead,Drop-off center,EcoRecyclers Inc.,Recycled,Thermal,No,Low,0.44
+EW_00984,France,2020,Nouvelle-Aquitaine,Lyon,GPS Device,Lenovo,Lenovo 8092,4,Obsolete,Glass,0.32,Cadmium,Retail take-back,EcoRecyclers Inc.,Pending,Thermal,Yes,Low,0.7
+EW_00985,Canada,2020,Quebec,Montreal,Radio,MSI,MSI 4489,4,Working,Plastic,0.93,Brominated Flame Retardants,Pick-up service,EcoRecyclers Inc.,Recycled,Mechanical,Yes,Low,1.86
+EW_00986,India,2024,Maharashtra,Delhi,Projector,Acer,Acer 7540,7,Obsolete,Glass,3.92,Cadmium,Drop-off center,Global Recycling Solutions,In Progress,Mechanical,Yes,Low,8.62
+EW_00987,India,2022,Tamil Nadu,Kolkata,Router,Razer,Razer 2928,1,Working,Ceramic,0.61,Lead,Drop-off center,EcoRecyclers Inc.,Disposed,Thermal,No,Low,1.22
+EW_00988,China,2023,Guangdong,Chengdu,E-reader,OnePlus,OnePlus 9416,10,Non-working,Mixed,0.35,Mercury,Pick-up service,Eco-Friendly Disposal,Disposed,Mechanical,No,Low,0.84
+EW_00989,France,2021,Nouvelle-Aquitaine,Toulouse,External Hard Drive,Lenovo,Lenovo 1755,8,Damaged,Glass,0.32,Cadmium,Pick-up service,Green Future Recycling,In Progress,Pyrometallurgical,No,Medium,0.96
+EW_00990,Brazil,2022,ParanÃ¡,Salvador,Smart Thermostat,Sony,Sony 1637,2,Damaged,Glass,0.37,Lead,Municipal collection,Sustainable Materials Recovery,Disposed,Mechanical,No,Medium,1.11
+EW_00991,UK,2020,Birmingham,Liverpool,Laptop,HTC,HTC 2944,3,Repairable,Plastic,2.63,Cadmium,Retail take-back,Eco-Friendly Disposal,Recycled,Chemical,Yes,Low,7.89
+EW_00992,USA,2023,Illinois,Los Angeles,Television,MSI,MSI 5254,1,Obsolete,Ceramic,22.68,Mercury,Municipal collection,EcoRecyclers Inc.,Recycled,Chemical,No,High,99.79
+EW_00993,China,2020,Guangdong,Guangzhou,Smart Lock,Oppo,Oppo 1165,4,Non-working,Metal,0.7,None,Municipal collection,Green Earth Recycling,In Progress,Chemical,Yes,Low,1.68
+EW_00994,UK,2022,Manchester,Liverpool,Smart Refrigerator,Amazon,Amazon 4185,4,Non-working,Glass,69.28,Mercury,Pick-up service,Sustainable Materials Recovery,Pending,Mechanical,Yes,High,332.54
+EW_00995,Australia,2022,Western Australia,Perth,Smart Light Bulb,Nokia,Nokia 2531,9,Repairable,Plastic,0.27,Lead,Pick-up service,EcoTech Recycling,Pending,Chemical,No,Low,0.54
+EW_00996,India,2024,Gujarat,Mumbai,Smart Home Device,Toshiba,Toshiba 2460,8,Repairable,Mixed,0.17,Lead,Municipal collection,GreenTech Recycle,Recycled,Chemical,No,Low,0.34
+EW_00997,Canada,2024,Manitoba,Edmonton,Tablet,HP,HP 8332,8,Repairable,Glass,0.41,Cadmium,Municipal collection,Sustainable Electronics,Recycled,Pyrometallurgical,No,Low,1.23
+EW_00998,Canada,2022,Quebec,Edmonton,Smart Sprinkler Controller,Sony,Sony 8912,6,Non-working,Mixed,0.7,None,Retail take-back,Eco-Friendly Disposal,Disposed,Thermal,Yes,Low,1.68
+EW_00999,Brazil,2021,Bahia,Curitiba,Calculator,Acer,Acer 9445,2,Working,Glass,0.3,Cadmium,Pick-up service,Sustainable Materials Recovery,Pending,Pyrometallurgical,Yes,Low,0.6
