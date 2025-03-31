@@ -1,0 +1,95 @@
+{
+    "general_ewaste": {
+        "en": {
+            "questions": [
+                "What is e-waste?",
+                "What is electronic waste?",
+                "Define e-waste"
+            ],
+            "answers": [
+                "E-waste refers to electronic products that have reached the end of their useful life",
+                "It includes computers, TVs, smartphones, and other electronic devices that are obsolete, broken, or discarded"
+            ]
+        },
+        "hi": {
+            "questions": [
+                "ई-वेस्ट क्या है?",
+                "इलेक्ट्रॉनिक कचरा क्या है?"
+            ],
+            "answers": [
+                "ई-वेस्ट उन इलेक्ट्रॉनिक उत्पादों को कहा जाता है जो अपने जीवन के अंत में पहुंच गए हैं",
+                "इसमें कंप्यूटर, टीवी, स्मार्टफोन और अन्य इलेक्ट्रॉनिक उपकरण शामिल हैं जो पुराने, टूटे हुए या त्यागे गए हैं"
+            ]
+        },
+        "pa": {
+            "questions": [
+                "ਈ-ਕੂੜੇ ਦਾ ਵਾਤਾਵਰਣ 'ਤੇ ਕੀ ਪ੍ਰਭਾਵ ਪੈਂਦਾ ਹੈ?",
+                "ਇਲੈਕਟ੍ਰਾਨਿਕ ਕੂੜਾ ਵਾਤਾਵਰਣ ਨੂੰ ਕਿਵੇਂ ਪ੍ਰਭਾਵਿਤ ਕਰਦਾ ਹੈ?"
+            ],
+            "answers": [
+                "ਈ-ਕੂੜੇ ਵਿੱਚ ਜ਼ਹਿਰੀਲੇ ਪਦਾਰਥ ਜਿਵੇਂ ਲੈੱਡ, ਮਰਕਰੀ ਅਤੇ ਕੈਡਮੀਅਮ ਹੁੰਦੇ ਹਨ।",
+                "ਗਲਤ ਨਿਪਟਾਰੇ ਨਾਲ ਵਾਤਾਵਰਣ ਪ੍ਰਦੂਸ਼ਣ ਅਤੇ ਸਿਹਤ ਖ਼ਤਰੇ ਪੈਦਾ ਹੁੰਦੇ ਹਨ।"
+            ]
+        },
+        "fr": {
+            "questions": [
+                "Quels sont les impacts environnementaux des déchets électroniques?",
+                "Comment les déchets électroniques affectent-ils l'environnement?"
+            ],
+            "answers": [
+                "Les déchets électroniques contiennent des matériaux toxiques comme le plomb, le mercure et le cadmium.",
+                "L'élimination incorrecte entraîne une pollution environnementale et des risques pour la santé."
+            ]
+        }
+    },
+    "disposal": {
+        "en": {
+            "questions": [
+                "How to dispose of e-waste?",
+                "Where can I dispose electronic waste?",
+                "E-waste disposal methods"
+            ],
+            "answers": [
+                "Take your e-waste to certified recycling centers",
+                "Many electronics retailers offer take-back programs",
+                "Contact your local waste management authority for proper disposal guidelines"
+            ]
+        },
+        "hi": {
+            "questions": [
+                "ई-वेस्ट का निपटान कैसे करें?",
+                "इलेक्ट्रॉनिक कचरे का निपटान कहाँ करें?"
+            ],
+            "answers": [
+                "अपना ई-वेस्ट प्रमाणित रीसाइक्लिंग केंद्रों में ले जाएं",
+                "कई इलेक्ट्रॉनिक्स रिटेलर वापसी कार्यक्रम प्रदान करते हैं",
+                "उचित निपटान दिशानिर्देशों के लिए अपने स्थानीय कचरा प्रबंधन प्राधिकरण से संपर्क करें"
+            ]
+        }
+    },
+    "environmental_impact": {
+        "en": {
+            "questions": [
+                "Why is e-waste harmful?",
+                "Environmental impact of electronic waste",
+                "How does e-waste affect the environment?"
+            ],
+            "answers": [
+                "E-waste contains toxic materials like lead, mercury, and cadmium that can contaminate soil and water",
+                "Improper disposal can release harmful chemicals into the environment",
+                "E-waste in landfills can lead to groundwater pollution"
+            ]
+        },
+        "hi": {
+            "questions": [
+                "ई-वेस्ट हानिकारक क्यों है?",
+                "इलेक्ट्रॉनिक कचरे का पर्यावरण पर क्या प्रभाव पड़ता है?"
+            ],
+            "answers": [
+                "ई-वेस्ट में लेड, पारा और कैडमियम जैसे जहरीले पदार्थ होते हैं जो मिट्टी और पानी को दूषित कर सकते हैं",
+                "अनुचित निपटान से पर्यावरण में हानिकारक रसायन निकल सकते हैं",
+                "लैंडफिल में ई-वेस्ट भूजल प्रदूषण का कारण बन सकता है"
+            ]
+        }
+    }
+} 

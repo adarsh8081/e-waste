@@ -1,0 +1,95 @@
+{
+    "impact": {
+        "questions": [
+            "What are the environmental impacts of e-waste?",
+            "How does e-waste affect the environment?",
+            "What damage does electronic waste cause?",
+            "How harmful is e-waste to human health?",
+            "What are the consequences of improper e-waste disposal?"
+        ],
+        "answers": [
+            "E-waste contains toxic materials like lead, mercury, and cadmium that contaminate soil and water.",
+            "Improper disposal leads to environmental pollution and health hazards.",
+            "E-waste contributes to greenhouse gas emissions during production and disposal.",
+            "Affects wildlife and ecosystems through toxic leaching.",
+            "Can cause respiratory problems when burned in open air.",
+            "Contamination of groundwater through landfill leaching.",
+            "Bioaccumulation of toxins in the food chain.",
+            "Release of ozone-depleting substances from old refrigerators and air conditioners."
+        ]
+    },
+    "reasons": {
+        "questions": [
+            "What causes e-waste?",
+            "Why is electronic waste increasing?",
+            "What are the main sources of e-waste?",
+            "Why do people throw away electronics?",
+            "What contributes to the e-waste crisis?"
+        ],
+        "answers": [
+            "Rapid technological advancement leading to frequent device upgrades.",
+            "Planned obsolescence in electronic devices.",
+            "Lack of proper recycling infrastructure.",
+            "Consumer behavior and disposable culture.",
+            "Difficulty in repairing modern electronics.",
+            "Short product lifecycles of electronic devices.",
+            "Marketing strategies promoting regular upgrades.",
+            "Decreasing prices of electronic goods leading to increased consumption."
+        ]
+    },
+    "solutions": {
+        "questions": [
+            "How can we solve the e-waste problem?",
+            "What are the solutions for e-waste management?",
+            "How to reduce electronic waste?",
+            "What can be done about e-waste?",
+            "How to manage e-waste properly?"
+        ],
+        "answers": [
+            "Implement proper e-waste recycling programs.",
+            "Extended Producer Responsibility (EPR) policies.",
+            "Consumer education about responsible disposal.",
+            "Design for longevity and repairability.",
+            "Support right-to-repair legislation.",
+            "Choose eco-friendly electronic products.",
+            "Donate or sell working electronics.",
+            "Use certified e-waste recyclers.",
+            "Participate in manufacturer take-back programs.",
+            "Repair instead of replace when possible."
+        ]
+    },
+    "statistics": {
+        "questions": [
+            "How much e-waste is generated globally?",
+            "What are the e-waste statistics?",
+            "How serious is the e-waste problem?",
+            "Which countries produce the most e-waste?"
+        ],
+        "answers": [
+            "Global e-waste generation reached 53.6 million metric tonnes in 2019.",
+            "Only 17.4% of e-waste is formally collected and recycled.",
+            "E-waste is the fastest growing domestic waste stream.",
+            "Asia generates the highest volume of e-waste, followed by Americas and Europe.",
+            "The value of raw materials in e-waste is worth over $57 billion annually.",
+            "E-waste is expected to reach 74 million metric tonnes by 2030."
+        ]
+    },
+    "recycling": {
+        "questions": [
+            "How is e-waste recycled?",
+            "What happens to recycled electronics?",
+            "How does e-waste recycling work?",
+            "What can be recovered from e-waste?"
+        ],
+        "answers": [
+            "E-waste is dismantled to separate different materials.",
+            "Precious metals like gold, silver, and copper are extracted.",
+            "Plastics are sorted and processed for recycling.",
+            "Hazardous materials are safely disposed of.",
+            "Circuit boards are processed to recover valuable components.",
+            "Glass from screens is recycled into new products.",
+            "Batteries are processed separately for metal recovery.",
+            "Some components are refurbished for reuse."
+        ]
+    }
+} 

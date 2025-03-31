@@ -1,0 +1,26 @@
+{
+    "what is e-waste": {
+        "en": "E-waste, or electronic waste, refers to discarded electronic devices and equipment. This includes computers, smartphones, tablets, TVs, and other electronic items that are no longer in use or have reached end-of-life.",
+        "hi": "ई-वेस्ट या इलेक्ट्रॉनिक कचरा त्यागे गए इलेक्ट्रॉनिक उपकरणों को संदर्भित करता है। इसमें कंप्यूटर, स्मार्टफोन, टैबलेट, टीवी और अन्य इलेक्ट्रॉनिक वस्तुएं शामिल हैं जो अब उपयोग में नहीं हैं।",
+        "pa": "ਈ-ਕੂੜਾ, ਜਾਂ ਇਲੈਕਟ੍ਰਾਨਿਕ ਕੂੜਾ, ਛੱਡੇ ਗਏ ਇਲੈਕਟ੍ਰਾਨਿਕ ਉਪਕਰਣਾਂ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਕੰਪਿਊਟਰ, ਸਮਾਰਟਫੋਨ, ਟੈਬਲੇਟ, ਟੀਵੀ, ਅਤੇ ਹੋਰ ਇਲੈਕਟ੍ਰਾਨਿਕ ਆਈਟਮਾਂ ਸ਼ਾਮਲ ਹਨ।",
+        "fr": "Les déchets électroniques désignent les appareils électroniques mis au rebut. Cela comprend les ordinateurs, smartphones, tablettes, téléviseurs et autres articles électroniques qui ne sont plus utilisés."
+    },
+    "is e-waste harmful": {
+        "en": "Yes, e-waste is very harmful to both the environment and human health. It contains toxic materials like lead, mercury, cadmium, and brominated flame retardants. When improperly disposed of, these toxins can contaminate soil and water sources, leading to serious environmental and health problems.",
+        "hi": "हां, ई-कचरा पर्यावरण और मानव स्वास्थ्य दोनों के लिए बहुत हानिकारक है। इसमें लेड, पारा, कैडमियम और ब्रोमीनेटेड फ्लेम रिटार्डेंट जैसे जहरीले पदार्थ होते हैं। जब इनका अनुचित तरीके से निपटान किया जाता है, तो ये विषाक्त पदार्थ मिट्टी और जल स्रोतों को दूषित कर सकते हैं, जिससे गंभीर पर्यावरणीय और स्वास्थ्य समस्याएं हो सकती हैं।",
+        "fr": "Oui, les e-déchets sont très nocifs pour l'environnement et la santé humaine. Ils contiennent des matériaux toxiques comme le plomb, le mercure, le cadmium et les retardateurs de flamme bromés. Lorsqu'ils sont mal éliminés, ces toxines peuvent contaminer le sol et les sources d'eau, entraînant de graves problèmes environnementaux et sanitaires.",
+        "pa": "ਹਾਂ, ਈ-ਕੂੜਾ ਵਾਤਾਵਰਣ ਅਤੇ ਮਨੁੱਖੀ ਸਿਹਤ ਦੋਵਾਂ ਲਈ ਬਹੁਤ ਨੁਕਸਾਨਦੇਹ ਹੈ। ਇਸ ਵਿੱਚ ਲੈੱਡ, ਮਰਕਰੀ, ਕੈਡਮੀਅਮ ਅਤੇ ਬ੍ਰੋਮੀਨੇਟਡ ਫਲੇਮ ਰਿਟਾਰਡੈਂਟਸ ਵਰਗੇ ਜ਼ਹਿਰੀਲੇ ਪਦਾਰਥ ਹੁੰਦੇ ਹਨ। ਜਦੋਂ ਇਨ੍ਹਾਂ ਦਾ ਗਲਤ ਢੰਗ ਨਾਲ ਨਿਪਟਾਰਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਇਹ ਜ਼ਹਿਰ ਮਿੱਟੀ ਅਤੇ ਪਾਣੀ ਦੇ ਸਰੋਤਾਂ ਨੂੰ ਦੂਸ਼ਿਤ ਕਰ ਸਕਦੇ ਹਨ, ਜਿਸ ਨਾਲ ਗੰਭੀਰ ਵਾਤਾਵਰਣ ਅਤੇ ਸਿਹਤ ਸਮੱਸਿਆਵਾਂ ਪੈਦਾ ਹੋ ਸਕਦੀਆਂ ਹਨ।"
+    },
+    "how to dispose e-waste": {
+        "en": "To dispose of e-waste properly: 1) Find certified e-waste recycling centers, 2) Remove personal data from devices, 3) Never throw e-waste in regular trash, 4) Consider manufacturer take-back programs, 5) Use authorized collection points.",
+        "hi": "ई-वेस्ट का उचित निपटान करने के लिए: 1) प्रमाणित ई-वेस्ट रीसाइक्लिंग केंद्र खोजें, 2) डिवाइस से व्यक्तिगत डेटा हटाएं, 3) कभी भी ई-वेस्ट को सामान्य कचरे में न डालें, 4) निर्माता वापसी कार्यक्रमों पर विचार करें।",
+        "pa": "ਈ-ਕੂੜੇ ਦਾ ਸਹੀ ਨਿਪਟਾਰਾ ਕਰਨ ਲਈ: 1) ਪ੍ਰਮਾਣਿਤ ਈ-ਕੂੜਾ ਰੀਸਾਈਕਲਿੰਗ ਕੇਂਦਰ ਲੱਭੋ, 2) ਡਿਵਾਈਸਾਂ ਤੋਂ ਨਿੱਜੀ ਡੇਟਾ ਹਟਾਓ, 3) ਈ-ਕੂੜੇ ਨੂੰ ਕਦੇ ਵੀ ਆਮ ਕੂੜੇ ਵਿੱਚ ਨਾ ਸੁੱਟੋ।",
+        "fr": "Pour éliminer correctement les déchets électroniques: 1) Trouvez des centres de recyclage certifiés, 2) Supprimez les données personnelles, 3) Ne jetez jamais les déchets électroniques avec les ordures ordinaires."
+    },
+    "e-waste recycling benefits": {
+        "en": "E-waste recycling benefits include: 1) Conservation of natural resources, 2) Reduction of environmental pollution, 3) Recovery of valuable materials like gold and copper, 4) Creation of green jobs, 5) Protection of human health, 6) Reduction of greenhouse gas emissions from manufacturing new electronics.",
+        "hi": "ई-कचरा रीसाइक्लिंग के लाभ हैं: 1) प्राकृतिक संसाधनों का संरक्षण, 2) पर्यावरण प्रदूषण में कमी, 3) सोने और तांबे जैसी कीमती सामग्री की पुनर्प्राप्ति, 4) हरित नौकरियों का सृजन, 5) मानव स्वास्थ्य की सुरक्षा, 6) नए इलेक्ट्रॉनिक्स के निर्माण से ग्रीनहाउस गैस उत्सर्जन में कमी।",
+        "fr": "Les avantages du recyclage des e-déchets comprennent : 1) La conservation des ressources naturelles, 2) La réduction de la pollution environnementale, 3) La récupération de matériaux précieux comme l'or et le cuivre, 4) La création d'emplois verts, 5) La protection de la santé humaine, 6) La réduction des émissions de gaz à effet de serre liées à la fabrication de nouveaux appareils électroniques.",
+        "pa": "ਈ-ਕੂੜਾ ਰੀਸਾਈਕਲਿੰਗ ਦੇ ਫਾਇਦੇ ਹਨ: 1) ਕੁਦਰਤੀ ਸਰੋਤਾਂ ਦੀ ਸੰਭਾਲ, 2) ਵਾਤਾਵਰਣ ਪ੍ਰਦੂਸ਼ਣ ਵਿੱਚ ਕਮੀ, 3) ਸੋਨੇ ਅਤੇ ਤਾਂਬੇ ਵਰਗੀਆਂ ਕੀਮਤੀ ਧਾਤਾਂ ਦੀ ਰਿਕਵਰੀ, 4) ਹਰੇ ਰੁਜ਼ਗਾਰ ਦੀ ਸਿਰਜਣਾ, 5) ਮਨੁੱਖੀ ਸਿਹਤ ਦੀ ਸੁਰੱਖਿਆ, 6) ਨਵੇਂ ਇਲੈਕਟ੍ਰਾਨਿਕਸ ਦੇ ਨਿਰਮਾਣ ਤੋਂ ਗ੍ਰੀਨਹਾਊਸ ਗੈਸ ਨਿਕਾਸ ਵਿੱਚ ਕਮੀ।"
+    }
+} 
