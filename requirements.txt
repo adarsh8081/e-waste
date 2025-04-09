@@ -1,2 +1,27 @@
-pandas>=1.5.0
-numpy>=1.21.0 
+torch>=2.0.0
+transformers>=4.36.0
+datasets>=2.14.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+wandb>=0.15.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+arxiv>=1.4.7
+tqdm>=4.65.0
+accelerate>=0.24.0
+sentencepiece>=0.1.99
+protobuf>=4.24.0
+tensorboard>=2.14.0
+scholarly>=1.7.11
+wikipedia>=1.4.0
+newspaper3k>=0.2.8
+nltk>=3.8.1
+rouge>=1.0.1
+evaluate>=0.4.0
+optuna>=3.3.0
+bitsandbytes>=0.41.0  # For 8-bit quantization
+deepspeed>=0.10.0  # For distributed training
+pytorch-lightning>=2.0.0  # For structured training
+flask==3.0.2
+flask-cors==4.0.0 

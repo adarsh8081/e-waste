@@ -1,10 +1,11 @@
 const express = require('express');
 const cors = require('cors');
-const nodemailer = require('nodemailer');
+const { spawn } = require('child_process');
 const path = require('path');
 require('dotenv').config();
 
 const app = express();
+const port = process.env.PORT || 5000;
 
 // CORS configuration
 app.use(cors({
@@ -22,74 +23,82 @@ if (process.env.NODE_ENV === 'production') {
   app.use(express.static(path.join(__dirname, 'build')));
 }
 
-// Email configuration
-const transporter = nodemailer.createTransport({
-  service: 'gmail',
-  auth: {
-    user: process.env.EMAIL_USER,
-    pass: process.env.EMAIL_PASS
-  }
+// Initialize Python assistant process
+let assistantProcess = null;
+
+function initializeAssistant() {
+    const pythonPath = process.env.PYTHON_PATH || 'python';
+    assistantProcess = spawn(pythonPath, ['ml_scripts/inference.py'], {
+        stdio: ['pipe', 'pipe', 'pipe']
+    });
+
+    assistantProcess.stdout.on('data', (data) => {
+        console.log(`Assistant stdout: ${data}`);
+    });
+
+    assistantProcess.stderr.on('data', (data) => {
+        console.error(`Assistant stderr: ${data}`);
+    });
+
+    assistantProcess.on('close', (code) => {
+        console.log(`Assistant process exited with code ${code}`);
+        assistantProcess = null;
+    });
+}
+
+// Initialize assistant on server start
+initializeAssistant();
+
+app.post('/chat', async (req, res) => {
+    try {
+        const { message } = req.body;
+
+        if (!message) {
+            return res.status(400).json({ error: 'Message is required' });
+        }
+
+        // Ensure assistant process is running
+        if (!assistantProcess) {
+            console.log('Restarting assistant process...');
+            initializeAssistant();
+        }
+
+        // Send message to Python process
+        assistantProcess.stdin.write(JSON.stringify({ message }) + '\n');
+
+        // Wait for response
+        const response = await new Promise((resolve, reject) => {
+            const timeout = setTimeout(() => {
+                reject(new Error('Response timeout'));
+            }, 30000);
+
+            assistantProcess.stdout.once('data', (data) => {
+                clearTimeout(timeout);
+                try {
+                    const response = JSON.parse(data.toString());
+                    resolve(response);
+                } catch (error) {
+                    reject(error);
+                }
+            });
+        });
+
+        res.json({ response: response.text });
+    } catch (error) {
+        console.error('Error in chat endpoint:', error);
+        res.status(500).json({
+            error: 'An error occurred while processing your request',
+            details: error.message
+        });
+    }
 });
 
-// Verify email configuration
-transporter.verify((error, success) => {
-  if (error) {
-    console.error('Email configuration error:', error);
-  } else {
-    console.log('Server is ready to send emails');
-  }
-});
-
-// Contact form endpoint
-app.post('/api/contact', async (req, res) => {
-  const { name, email, message } = req.body;
-
-  // Validate input
-  if (!name || !email || !message) {
-    return res.status(400).json({ 
-      message: 'Please provide all required fields' 
-    });
-  }
-
-  // Validate email format
-  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-  if (!emailRegex.test(email)) {
-    return res.status(400).json({ 
-      message: 'Please provide a valid email address' 
-    });
-  }
-
-  try {
-    // Email options
-    const mailOptions = {
-      from: process.env.EMAIL_USER,
-      to: process.env.EMAIL_RECIPIENT,
-      subject: `New Contact Form Submission from ${name}`,
-      text: `
-Name: ${name}
-Email: ${email}
-Message: ${message}
-      `,
-      html: `
-<h3>New Contact Form Submission</h3>
-<p><strong>Name:</strong> ${name}</p>
-<p><strong>Email:</strong> ${email}</p>
-<p><strong>Message:</strong> ${message}</p>
-      `
-    };
-
-    // Send email
-    await transporter.sendMail(mailOptions);
-
-    res.status(200).json({ 
-      message: 'Message sent successfully!' 
-    });
-  } catch (error) {
-    console.error('Error sending email:', error);
-    res.status(500).json({ 
-      message: 'Failed to send message. Please try again later.' 
-    });
-  }
+// Gracefully shutdown assistant process
+process.on('SIGTERM', () => {
+    if (assistantProcess) {
+        assistantProcess.kill();
+    }
+    process.exit(0);
 });
 
 // Handle React routing in production
@@ -99,9 +108,7 @@ if (process.env.NODE_ENV === 'production') {
   });
 }
 
-const PORT = process.env.PORT || 5000;
-
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+app.listen(port, () => {
+  console.log(`Server running on port ${port}`);
   console.log('Environment:', process.env.NODE_ENV);
 }); 

@@ -12,6 +12,7 @@ import Team from './components/Team';
 import Solution from './components/Solution';
 import Loader from './components/Loader';
 import Navbar from './components/Navbar';
+import Chatbot from './components/Chatbot';
 import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
@@ -75,6 +76,7 @@ const App = () => {
                     <Route path="/solution" element={<Solution />} />
                   </Routes>
                 </main>
+                <Chatbot />
               </motion.div>
             )}
           </AnimatePresence>
