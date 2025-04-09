@@ -305,60 +305,6 @@ const ImpactMetric = styled.div`
   }
 `;
 
-const ProcessStep = styled(motion.div)`
-  display: flex;
-  align-items: center;
-  margin-bottom: 2rem;
-  background: #FBF7F0;
-  padding: 2rem;
-  border-radius: 1rem;
-  transform-style: preserve-3d;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
-  border: 1px solid rgba(0, 0, 0, 0.1);
-
-  @media (max-width: 768px) {
-    padding: 1.5rem;
-    margin-bottom: 1.5rem;
-    flex-direction: column;
-    text-align: center;
-  }
-
-  @media (max-width: 480px) {
-    padding: 1.25rem;
-    margin-bottom: 1rem;
-  }
-`;
-
-const StepNumber = styled.div`
-  background: #333333;
-  color: #FBF7F0;
-  width: 3rem;
-  height: 3rem;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-right: 1.5rem;
-  font-weight: bold;
-  font-size: 1.2rem;
-  transform: translateZ(15px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-
-  @media (max-width: 768px) {
-    width: 2.5rem;
-    height: 2.5rem;
-    font-size: 1rem;
-    margin: 0 auto 1rem;
-  }
-
-  @media (max-width: 480px) {
-    width: 2rem;
-    height: 2rem;
-    font-size: 0.9rem;
-    margin: 0 auto 0.75rem;
-  }
-`;
-
 const InsightBox = styled.div`
   background: linear-gradient(135deg, #D9E4DD 0%, #FBF7F0 100%);
   padding: 1.25rem;
