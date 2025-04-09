@@ -1,55 +1,26 @@
 const express = require('express');
 const cors = require('cors');
-const { spawn } = require('child_process');
 const path = require('path');
-require('dotenv').config();
+const fetch = require('node-fetch');
 
 const app = express();
-const port = process.env.PORT || 5000;
 
 // CORS configuration
 app.use(cors({
   origin: process.env.NODE_ENV === 'production' 
-    ? process.env.FRONTEND_URL 
-    : 'http://localhost:3000',
-  methods: ['POST'],
+    ? ['https://your-vercel-domain.vercel.app'] 
+    : '*',
+  methods: ['GET', 'POST'],
   credentials: true
 }));
 
 app.use(express.json());
 
-// Serve static files in production
-if (process.env.NODE_ENV === 'production') {
-  app.use(express.static(path.join(__dirname, 'build')));
-}
+// Serve static files
+app.use(express.static(path.join(__dirname, 'build')));
 
-// Initialize Python assistant process
-let assistantProcess = null;
-
-function initializeAssistant() {
-    const pythonPath = process.env.PYTHON_PATH || 'python';
-    assistantProcess = spawn(pythonPath, ['ml_scripts/inference.py'], {
-        stdio: ['pipe', 'pipe', 'pipe']
-    });
-
-    assistantProcess.stdout.on('data', (data) => {
-        console.log(`Assistant stdout: ${data}`);
-    });
-
-    assistantProcess.stderr.on('data', (data) => {
-        console.error(`Assistant stderr: ${data}`);
-    });
-
-    assistantProcess.on('close', (code) => {
-        console.log(`Assistant process exited with code ${code}`);
-        assistantProcess = null;
-    });
-}
-
-// Initialize assistant on server start
-initializeAssistant();
-
-app.post('/chat', async (req, res) => {
+// API endpoint
+app.post('/api/chat', async (req, res) => {
     try {
         const { message } = req.body;
 
@@ -57,58 +28,64 @@ app.post('/chat', async (req, res) => {
             return res.status(400).json({ error: 'Message is required' });
         }
 
-        // Ensure assistant process is running
-        if (!assistantProcess) {
-            console.log('Restarting assistant process...');
-            initializeAssistant();
-        }
+        // Hugging Face API configuration
+        const API_URL = "https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill";
+        const headers = {
+            "Authorization": `Bearer ${process.env.HUGGING_FACE_API_KEY}`,
+            "Content-Type": "application/json"
+        };
 
-        // Send message to Python process
-        assistantProcess.stdin.write(JSON.stringify({ message }) + '\n');
+        // Prepare the payload for the model
+        const payload = {
+            inputs: {
+                text: message,
+                past_user_inputs: [],
+                generated_responses: []
+            }
+        };
 
-        // Wait for response
-        const response = await new Promise((resolve, reject) => {
-            const timeout = setTimeout(() => {
-                reject(new Error('Response timeout'));
-            }, 30000);
-
-            assistantProcess.stdout.once('data', (data) => {
-                clearTimeout(timeout);
-                try {
-                    const response = JSON.parse(data.toString());
-                    resolve(response);
-                } catch (error) {
-                    reject(error);
-                }
-            });
+        // Make request to Hugging Face API
+        const response = await fetch(API_URL, {
+            method: 'POST',
+            headers: headers,
+            body: JSON.stringify(payload)
         });
 
-        res.json({ response: response.text });
+        if (!response.ok) {
+            throw new Error(`Hugging Face API error: ${response.statusText}`);
+        }
+
+        const result = await response.json();
+        
+        res.json({ 
+            response: result.generated_text || "I'm sorry, I couldn't process that request."
+        });
     } catch (error) {
         console.error('Error in chat endpoint:', error);
         res.status(500).json({
             error: 'An error occurred while processing your request',
-            details: error.message
+            details: process.env.NODE_ENV === 'production' 
+                ? 'Internal server error' 
+                : error.message
         });
     }
 });
 
-// Gracefully shutdown assistant process
-process.on('SIGTERM', () => {
-    if (assistantProcess) {
-        assistantProcess.kill();
-    }
-    process.exit(0);
+// Handle React routing
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
-// Handle React routing in production
-if (process.env.NODE_ENV === 'production') {
-  app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'build', 'index.html'));
-  });
-}
+// Error handling middleware
+app.use((err, req, res, next) => {
+    console.error(err.stack);
+    res.status(500).json({
+        error: 'Something broke!',
+        details: process.env.NODE_ENV === 'production' 
+            ? 'Internal server error' 
+            : err.message
+    });
+});
 
-app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
-  console.log('Environment:', process.env.NODE_ENV);
-}); 
+// Export the Express API
+module.exports = app; 

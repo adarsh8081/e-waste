@@ -3,12 +3,11 @@ import styled from 'styled-components';
 import { motion, AnimatePresence } from 'framer-motion';
 import { IconType } from 'react-icons';
 import { IconBaseProps } from 'react-icons/lib';
-import { FaRobot, FaPaperPlane, FaMicrophone, FaStop, FaExpand, FaCompress, FaRegCopy, FaCheck, FaRegTrashAlt, FaEllipsisH } from 'react-icons/fa';
+import { FaRobot, FaPaperPlane, FaMicrophone, FaStop, FaExpand, FaCompress, FaRegCopy, FaRegTrashAlt } from 'react-icons/fa';
 import ReactMarkdown from 'react-markdown';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { vscDarkPlus } from 'react-syntax-highlighter/dist/esm/styles/prism';
 import { format } from 'date-fns';
-import type { SyntaxHighlighterProps } from 'react-syntax-highlighter';
 
 interface Message {
   id: string;

@@ -2,25 +2,29 @@
   "version": 2,
   "builds": [
     {
-      "src": "models/app.py",
-      "use": "@vercel/python"
+      "src": "server.js",
+      "use": "@vercel/node"
     },
     {
       "src": "package.json",
       "use": "@vercel/static-build",
       "config": {
-        "distDir": "build"
+        "distDir": "build",
+        "buildCommand": "npm run build"
       }
     }
   ],
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "models/app.py"
+      "dest": "server.js"
     },
     {
       "src": "/(.*)",
       "dest": "/$1"
     }
-  ]
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  }
 } 

@@ -150,28 +150,6 @@ const MapContainer = styled.div`
   }
 `;
 
-const Section = styled(motion.section)`
-  margin-bottom: 6rem;
-  background: #D9E4DD;
-  border-radius: 2rem;
-  padding: 3rem;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-  transform-style: preserve-3d;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-
-  @media (max-width: 768px) {
-    margin-bottom: 4rem;
-    padding: 2rem;
-    border-radius: 1.5rem;
-  }
-
-  @media (max-width: 480px) {
-    margin-bottom: 3rem;
-    padding: 1.5rem;
-    border-radius: 1rem;
-  }
-`;
-
 const SectionTitle = styled.h2`
   color: #333333;
   font-size: 3rem;
@@ -248,28 +226,6 @@ const Card = styled(motion.div)`
   &:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
-  }
-`;
-
-const ImageContainer = styled.div`
-  position: relative;
-  width: 100%;
-  height: 250px;
-  overflow: hidden;
-  border-radius: 1rem;
-  transform-style: preserve-3d;
-  transition: transform 0.6s;
-  
-  img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  iframe {
-    width: 100%;
-    height: 100%;
-    border: none;
   }
 `;
 
