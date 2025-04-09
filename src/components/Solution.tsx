@@ -359,279 +359,6 @@ const StepNumber = styled.div`
   }
 `;
 
-const StepContent = styled.div`
-  flex: 1;
-  transform: translateZ(10px);
-
-  @media (max-width: 768px) {
-    text-align: center;
-  }
-`;
-
-const StepTitle = styled.h3`
-  color: #333333;
-  font-size: 1.8rem;
-  transform: translateZ(15px);
-  font-weight: 600;
-  width: 100%;
-  text-align: center;
-  margin: 0;
-  padding: 0.5rem 0;
-
-  @media (max-width: 768px) {
-    font-size: 1.5rem;
-    padding: 0.4rem 0;
-  }
-
-  @media (max-width: 480px) {
-    font-size: 1.25rem;
-    padding: 0.3rem 0;
-  }
-`;
-
-const StepDescription = styled.p`
-  color: #444444;
-  line-height: 1.8;
-  transform: translateZ(10px);
-  font-weight: 500;
-  width: 100%;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-  flex-grow: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  @media (max-width: 768px) {
-    font-size: 0.95rem;
-    line-height: 1.6;
-  }
-
-  @media (max-width: 480px) {
-    font-size: 0.9rem;
-    line-height: 1.5;
-  }
-`;
-
-const InteractiveCounter = styled(motion.div)`
-  background: linear-gradient(135deg, #1a1a1a 0%, #333 100%);
-  color: #fff;
-  padding: 2rem;
-  border-radius: 1rem;
-  text-align: center;
-  margin: 2rem 0;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-`;
-
-const CounterValue = styled.div`
-  font-size: 3.5rem;
-  font-weight: bold;
-  margin: 1rem 0;
-  background: linear-gradient(45deg, #00ff87 0%, #60efff 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-`;
-
-const CounterLabel = styled.div`
-  font-size: 1.2rem;
-  color: #888;
-`;
-
-const InteractiveCard = styled(Card)`
-  position: relative;
-  overflow: hidden;
-  transform-style: preserve-3d;
-  transition: transform 0.6s;
-
-  &:hover {
-    transform: translateY(-10px) rotateX(10deg) rotateY(10deg);
-    
-    &:before {
-      opacity: 1;
-    }
-  }
-
-  &:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(45deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 100%);
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
-`;
-
-const MapCard = styled(motion.div)`
-  background: #151C2C;
-  border: 1px solid rgba(0, 255, 136, 0.1);
-  border-radius: 20px;
-  overflow: hidden;
-  max-width: 1400px;
-  margin: 0 auto;
-  box-shadow: 0 8px 32px rgba(0, 255, 136, 0.1);
-`;
-
-const MapTitle = styled.h2`
-  font-size: 3rem;
-  color: #1E88E5;
-  margin: 0 0 20px 0;
-  text-align: center;
-  font-weight: 800;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
-`;
-
-const MapDescription = styled.p`
-  font-size: 1.2rem;
-  color: #2D3436;
-  text-align: center;
-  margin: 0 auto 40px auto;
-  max-width: 800px;
-  line-height: 1.6;
-`;
-
-const MapContent = styled.div`
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  padding: 2rem;
-
-  @media (max-width: 1024px) {
-    grid-template-columns: 1fr;
-  }
-`;
-
-const MapInsights = styled.div`
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-`;
-
-const MapInsightBox = styled(motion.div)`
-  background: #1A2333;
-  padding: 1.25rem;
-  border-radius: 12px;
-  border: 1px solid rgba(0, 255, 136, 0.1);
-  position: relative;
-
-  &::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 3px;
-    height: 100%;
-    background: #00ff88;
-    border-radius: 0 4px 4px 0;
-  }
-
-  strong {
-    color: #00ff88;
-    display: block;
-    font-size: 0.85rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 0.5rem;
-  }
-
-  p {
-    color: #94A3B8;
-    margin: 0;
-    font-size: 0.9rem;
-    line-height: 1.6;
-  }
-`;
-
-const MapVisualization = styled.div`
-  iframe {
-    width: 100%;
-    height: 400px;
-    border: none;
-    border-radius: 12px;
-    background: #151C2C;
-  }
-`;
-
-const ActionButton = styled(motion.button)`
-  background: linear-gradient(45deg, #00ff87 0%, #60efff 100%);
-  border: none;
-  padding: 1rem 2rem;
-  border-radius: 2rem;
-  color: #1a1a1a;
-  font-weight: bold;
-  cursor: pointer;
-  margin-top: 2rem;
-  transition: all 0.3s;
-
-  &:hover {
-    transform: scale(1.05);
-    box-shadow: 0 5px 15px rgba(0,255,135,0.3);
-  }
-`;
-
-const MapWrapper = styled.div`
-  height: 400px;
-  width: 100%;
-  border-radius: 1rem;
-  overflow: hidden;
-  margin: 2rem 0;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-`;
-
-const VisualizationCard = styled(motion.div)`
-  background: #FBF7F0;
-  border-radius: 1rem;
-  padding: 2.5rem;
-  margin-bottom: 2.5rem;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  transform-style: preserve-3d;
-  transition: all 0.3s ease;
-  width: 90%;
-  max-width: 1200px;
-  margin: 2.5rem auto;
-
-  &:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  }
-
-  @media (max-width: 1400px) {
-    max-width: 1000px;
-  }
-
-  @media (max-width: 768px) {
-    width: 95%;
-    padding: 1.5rem;
-    border-radius: 0.75rem;
-  }
-`;
-
-const VisualizationTitle = styled.h3`
-  color: #333333;
-  font-size: 2rem;
-  margin-bottom: 1rem;
-  font-weight: 600;
-
-  @media (max-width: 768px) {
-    font-size: 1.6rem;
-  }
-`;
-
-const VisualizationDescription = styled.p`
-  color: #444444;
-  line-height: 1.6;
-  margin-bottom: 1.5rem;
-  font-size: 1.1rem;
-
-  @media (max-width: 768px) {
-    font-size: 1rem;
-  }
-`;
-
 const InsightBox = styled.div`
   background: linear-gradient(135deg, #D9E4DD 0%, #FBF7F0 100%);
   padding: 1.25rem;
@@ -643,22 +370,6 @@ const InsightBox = styled.div`
   @media (max-width: 768px) {
     font-size: 1rem;
     padding: 1rem;
-  }
-`;
-
-const VisualizationFrame = styled.iframe`
-  width: 100%;
-  height: 70vh;
-  min-height: 500px;
-  border: none;
-  border-radius: 0.75rem;
-  background: #fff;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  margin: 1rem 0;
-
-  @media (max-width: 768px) {
-    height: 60vh;
-    min-height: 400px;
   }
 `;
 
@@ -699,11 +410,10 @@ const VisualizationContainer = styled.div`
 `;
 
 const Solution: React.FC = () => {
-  const [activeCard, setActiveCard] = useState<number | null>(null);
-  const [plotErrors, setPlotErrors] = useState<{[key: string]: boolean}>({});
+  const [errorPlots, setErrorPlots] = useState<string[]>([]);
 
   const handlePlotError = (plotName: string) => {
-    setPlotErrors(prev => ({ ...prev, [plotName]: true }));
+    setErrorPlots(prev => [...prev, plotName]);
     console.error(`Failed to load plot: ${plotName}`);
   };
 
@@ -881,7 +591,7 @@ const Solution: React.FC = () => {
                 <strong>Our Solution</strong>
                 <p>{problem.solution}</p>
               </InsightBox>
-              {problem.plot && !plotErrors[problem.title] && (
+              {problem.plot && !errorPlots.includes(problem.title) && (
                 <VisualizationContainer>
                   {problem.isHtml ? (
                     <iframe 
